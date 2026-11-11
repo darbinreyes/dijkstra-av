@@ -1,0 +1,11 @@
+{
+  "slug": "reasoning-1990",
+  "source_mp3": "Reasoning About Programs 1990/audio/Edsger W. Dijkstra - Lecture Reasoning About Programs - Solving 2 problems using programing - 1990.mp3",
+  "start_sec": 240.0,
+  "duration_sec": 8.0,
+  "ref_text": "The program will have taken the machine into a final state that satisfies condition R.",
+  "spoken_text": "Program testing can be used to show the presence of bugs, but never to show their absence.",
+  "output_wav": "voice-clone/by-source/reasoning-1990.wav",
+  "output_duration_sec": 6.16,
+  "slice_check": "times taken from the mp3 itself; the subtitle clock did not match this file"
+}

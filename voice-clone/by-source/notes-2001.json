@@ -1,0 +1,10 @@
+{
+  "slug": "notes-2001",
+  "source_mp3": "What Led to Notes on Structured Programming 2001/audio/Edsger Dijkstra - What Led To Notes on Structured Programming.mp3",
+  "start_sec": 5.19,
+  "duration_sec": 6.81,
+  "ref_text": "If this had been a real test, I would've started 1, 2, 3. Okay, it worked.",
+  "spoken_text": "Program testing can be used to show the presence of bugs, but never to show their absence.",
+  "output_wav": "voice-clone/by-source/notes-2001.wav",
+  "output_duration_sec": 6.72
+}

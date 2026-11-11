@@ -69,6 +69,14 @@ The transcript of the clip is passed in with the audio. The model uses both. Tem
 
 This is a likeness of the 1972 lecture voice, heard through a muffled public-address recording. It is not a separate clone of the 1990 or 2001 talks. Those are different rooms and an older voice.
 
+## One clip from each other lecture
+
+`voice-clone/by-source/` holds a reading of the same sentence from each remaining lecture MP3, so the voices can be compared. The sentence is: "Program testing can be used to show the presence of bugs, but never to show their absence."
+
+The wav files are gitignored. The json files record the excerpt: which recording, the start time, and the words in the excerpt. Each excerpt is about 6 to 8 seconds of Dijkstra alone. The subtitle clocks do not match every MP3, so the times were checked against the audio.
+
+Left out, on purpose: Discipline in Thought, the Charles Babbage Institute interview, the 2000 retirement banquet, and the Turing lecture. The Turing lecture is the default voice above.
+
 ## What is tracked
 
 Tracked: subtitle files, the Babbage interview transcript, `srt.py`, `euclid.vii.py`, the small PDFs, and everything under `voice-clone/` except the generated audio.

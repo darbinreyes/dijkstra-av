@@ -1,0 +1,11 @@
+{
+  "slug": "early-memories",
+  "source_mp3": "A Programmer\u2019s Early Memories by Edsger W. Dijkstra/audio/A Programmer\u2019s Early Memories by Edsger W. Dijkstra.mp3",
+  "start_sec": 20.0,
+  "duration_sec": 8.0,
+  "ref_text": "Without having any clear sequencing discipline in your mind. On top of that, I don't think that I really knew what a variable is.",
+  "spoken_text": "Program testing can be used to show the presence of bugs, but never to show their absence.",
+  "output_wav": "voice-clone/by-source/early-memories.wav",
+  "output_duration_sec": 7.04,
+  "slice_check": "times taken from the mp3 itself; the subtitle clock did not match this file"
+}

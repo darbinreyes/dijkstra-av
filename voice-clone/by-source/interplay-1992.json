@@ -1,0 +1,10 @@
+{
+  "slug": "interplay-1992",
+  "source_mp3": "An Interplay Between Programming and Mathematics - 1992/audio/Edsger Dijkstra - An Interplay Between Programming and Mathematics - 1992 - Remastered.mp3",
+  "start_sec": 376.25,
+  "duration_sec": 7.11,
+  "ref_text": "Place a population of seven persons in a regular fashion around a ring.",
+  "spoken_text": "Program testing can be used to show the presence of bugs, but never to show their absence.",
+  "output_wav": "voice-clone/by-source/interplay-1992.wav",
+  "output_duration_sec": 6.4
+}

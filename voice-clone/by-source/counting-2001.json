@@ -1,0 +1,10 @@
+{
+  "slug": "counting-2001",
+  "source_mp3": "The Power of Counting Arguments 2001/audio/Edsger Dijkstra - Lecture - Power of Counting Arguments - Cadence Labs - 2001.mp3",
+  "start_sec": 343.43,
+  "duration_sec": 6.72,
+  "ref_text": "Secondly, if the shepherd is not there to prevent it, the goat would eat the cabbage.",
+  "spoken_text": "Program testing can be used to show the presence of bugs, but never to show their absence.",
+  "output_wav": "voice-clone/by-source/counting-2001.wav",
+  "output_duration_sec": 9.28
+}
