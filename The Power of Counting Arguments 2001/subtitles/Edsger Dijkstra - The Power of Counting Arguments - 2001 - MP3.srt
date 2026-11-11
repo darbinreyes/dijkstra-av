@@ -1,0 +1,2956 @@
+1
+00:00:05,454 --> 00:00:06,515
+It clearly works.
+
+2
+00:00:11,732 --> 00:00:18,820
+Um, I thank the organization very much for the invitation and the opportunity to
+
+3
+00:00:18,820 --> 00:00:26,380
+address you and particularly honored that I am esteemed sufficiently experienced
+
+4
+00:00:26,380 --> 00:00:28,154
+to be the first one to struggle with the absence of facilities here.
+
+5
+00:00:29,390 --> 00:00:41,318
+Um, I should add that when I was asked to give Noma to a title of my
+
+6
+00:00:41,318 --> 00:00:49,836
+lecture, I coined this one and I did so before your presidential elections
+
+7
+00:00:57,550 --> 00:00:58,400
+Okay.
+
+8
+00:00:58,400 --> 00:01:07,259
+Furthermore, Uh, I should like to warn you just in case that you're going
+
+9
+00:01:07,259 --> 00:01:12,600
+to be disappointed by my lecture, uh, that will be mainly you, not
+
+10
+00:01:12,600 --> 00:01:15,375
+to poor quality of my lecture, but to your exaggerated expectations.
+
+11
+00:01:19,970 --> 00:01:21,200
+and
+
+12
+00:01:22,026 --> 00:01:26,515
+I will now start immediately with the story.
+
+13
+00:01:27,480 --> 00:01:38,019
+And I would like you to, uh, understand that I consider mathematics
+
+14
+00:01:38,019 --> 00:01:44,018
+more as a question of how, than as a question of what that is.
+
+15
+00:01:44,018 --> 00:01:52,136
+Uh, I consider it, uh, primarily as the art and signs of reasoning
+
+16
+00:01:52,136 --> 00:01:55,617
+as effectively as possible, and.
+
+17
+00:01:57,032 --> 00:02:05,718
+To illustrate some of the consequences of this, um, I'm going to show you a number
+
+18
+00:02:05,718 --> 00:02:19,380
+of example problems, um, where the point will be not to waste our time and most
+
+19
+00:02:19,380 --> 00:02:26,037
+effective ways of wasting our time is either an exploding case analysis or, um,
+
+20
+00:02:30,509 --> 00:02:36,997
+a method of trial and error where most of your efforts turn out to be errors.
+
+21
+00:02:36,997 --> 00:02:45,479
+Um, now that's obviously a waste of time and energy and uh, I will
+
+22
+00:02:45,479 --> 00:02:49,320
+show you some examples of, uh, how we can avoid those pitfalls.
+
+23
+00:02:49,320 --> 00:02:54,237
+Uh, more so because the underlying techniques are more or less.
+
+24
+00:02:54,237 --> 00:03:04,959
+Channel, uh, I will start with, uh, a series of very similar problems,
+
+25
+00:03:04,959 --> 00:03:08,899
+some of which you might even know.
+
+26
+00:03:08,899 --> 00:03:12,640
+They will be given to small children.
+
+27
+00:03:12,640 --> 00:03:12,840
+And here we are.
+
+28
+00:03:13,991 --> 00:03:18,597
+Um, as you see, this is a river.
+
+29
+00:03:18,597 --> 00:03:26,900
+It flows this way, and this is the left shore, and this is the right shore.
+
+30
+00:03:26,900 --> 00:03:27,100
+And all here is water.
+
+31
+00:03:28,631 --> 00:03:38,160
+And, uh, the problem, uh, uh, the kind of problems I'm going to solve is that,
+
+32
+00:03:38,160 --> 00:03:42,880
+uh, with a little boat, something has to be transported from the deaf shore
+
+33
+00:03:42,880 --> 00:03:49,958
+to the right shore and the different constraints, uh, Now, uh, for all
+
+34
+00:03:49,958 --> 00:03:56,595
+my solutions, uh, which will consist of a sequence of moves in which the
+
+35
+00:03:56,595 --> 00:04:02,695
+ship, the little boat moves up forth, uh, I will impose one constraint.
+
+36
+00:04:02,695 --> 00:04:11,640
+And that is that in my final solution will not occur a sequence of moves
+
+37
+00:04:11,640 --> 00:04:11,840
+and that effect of which is nil.
+
+38
+00:04:13,652 --> 00:04:24,500
+So I will not allow a sequence of moves that could have been omitted, uh, man, for
+
+39
+00:04:24,500 --> 00:04:31,896
+the shortest solution in particular, uh, I will not, uh, admit the simplest case
+
+40
+00:04:31,896 --> 00:04:37,059
+of this, and that is two successes moves.
+
+41
+00:04:37,059 --> 00:04:38,397
+The second one of which undoes the effect to the first one.
+
+42
+00:04:43,372 --> 00:04:56,739
+Uh, my first problem consists, uh, of a shepherd.
+
+43
+00:04:56,739 --> 00:05:04,840
+There's a little boat here to begin with, and there arise a shepherd
+
+44
+00:05:04,840 --> 00:05:12,056
+in the company of three objects to, with a wolf, a goat, and a cabbage.
+
+45
+00:05:12,056 --> 00:05:24,920
+And, uh, his boat is so small that he can carry only with him, one of the objects
+
+46
+00:05:24,920 --> 00:05:27,800
+from the left shore to the right shore.
+
+47
+00:05:27,800 --> 00:05:33,360
+So he has to transport them in turn.
+
+48
+00:05:33,360 --> 00:05:37,478
+However, the problem is that, uh, if the shepherd is not there to prevent
+
+49
+00:05:37,478 --> 00:05:41,114
+it, the rule would eat the goat.
+
+50
+00:05:43,512 --> 00:05:49,478
+Secondly, if the shepherd is not there to prevent it, the
+
+51
+00:05:49,478 --> 00:05:52,319
+goat would eat the cabbage.
+
+52
+00:05:52,319 --> 00:05:59,800
+And the target of the whole exercise is that, uh, we reach the other, the
+
+53
+00:05:59,800 --> 00:06:05,639
+shepherd reach the other side of the river with nothing consumed by the partners.
+
+54
+00:06:05,639 --> 00:06:19,739
+Now, uh, the first remark is that the problem as stated is over specific in
+
+55
+00:06:19,739 --> 00:06:26,076
+the sense that in the, in the, the, it says that the roof eats the goat.
+
+56
+00:06:27,652 --> 00:06:33,537
+The moral of the story and the only thing that metals is that the wolf, wolf
+
+57
+00:06:33,537 --> 00:06:47,559
+and the goat are not, will not be left together in the absence of the shepherd.
+
+58
+00:06:47,559 --> 00:06:51,978
+If the goat would eat the wolf, that wouldn't change the rules of the game.
+
+59
+00:06:51,978 --> 00:06:52,178
+Still, they are not allowed to be sued together.
+
+60
+00:06:52,178 --> 00:06:52,496
+Exactly the same thing.
+
+61
+00:06:52,496 --> 00:06:57,054
+It would be if, uh, in his absence the cabbage would eat the goat.
+
+62
+00:07:00,092 --> 00:07:07,778
+That is if we have the goat, it should not be, the goat should not be left
+
+63
+00:07:07,778 --> 00:07:11,854
+with either the roof or the cabbage.
+
+64
+00:07:11,854 --> 00:07:18,239
+But the situation is totally not totally symmetric in roof and ga cabbage and
+
+65
+00:07:18,239 --> 00:07:27,860
+we, we just call in an al the shepherd arrives with a goat and two alphas.
+
+66
+00:07:27,860 --> 00:07:31,300
+And the goat should not be left alone with an al.
+
+67
+00:07:31,300 --> 00:07:36,723
+And the fact that, uh, the one is a goat that the one alfa is a bull from the
+
+68
+00:07:36,723 --> 00:07:38,153
+other is a cabbage is totally irrelevant.
+
+69
+00:07:40,632 --> 00:07:53,740
+Now, uh, as soon as uh, we have this symmetric situation, we don't need to
+
+70
+00:07:53,740 --> 00:07:59,419
+distinguish between, uh, the two alphas anymore Now, uh, and here we start.
+
+71
+00:07:59,419 --> 00:08:01,754
+We start at left hand side with, uh, two alphas and a goat.
+
+72
+00:08:04,433 --> 00:08:10,419
+Now the only thing you can do, cause the shepherd can do,
+
+73
+00:08:10,419 --> 00:08:11,556
+he cannot take an alpha with.
+
+74
+00:08:11,590 --> 00:08:20,220
+Uh, he cannot, he cannot go all by himself to the other side.
+
+75
+00:08:20,220 --> 00:08:23,019
+Cause then the only next move is undoing that.
+
+76
+00:08:23,019 --> 00:08:27,459
+So he has to take at least something he can take at most.
+
+77
+00:08:27,459 --> 00:08:32,179
+One thing, he cannot take an offer because then an alpha and a goat
+
+78
+00:08:32,179 --> 00:08:33,017
+would, would be left at left shore.
+
+79
+00:08:33,017 --> 00:08:37,280
+So the only thing he can do is to take the goats.
+
+80
+00:08:37,280 --> 00:08:43,200
+So now the goat is here and the alpha square that are there.
+
+81
+00:08:43,200 --> 00:08:47,457
+The only thing he, the only thing the the shepherd can do is go back all by himself.
+
+82
+00:08:51,953 --> 00:08:57,019
+Next thing he has no choice.
+
+83
+00:08:57,019 --> 00:09:02,279
+He cannot go back empty again because then he would undo the previous move.
+
+84
+00:09:02,279 --> 00:09:03,898
+So he has to take something with him.
+
+85
+00:09:03,898 --> 00:09:08,080
+So he has to take the alpha an yeah.
+
+86
+00:09:08,080 --> 00:09:09,296
+Now there are, he an.
+
+87
+00:09:15,194 --> 00:09:19,139
+and there was an alpha here.
+
+88
+00:09:19,139 --> 00:09:23,800
+What does he, what does he have to do on the TRE back?
+
+89
+00:09:23,800 --> 00:09:24,798
+He has no choice.
+
+90
+00:09:24,798 --> 00:09:27,479
+He cannot leave these two.
+
+91
+00:09:27,479 --> 00:09:32,896
+So he has to take the Gama and then that effect is alpha.
+
+92
+00:09:32,896 --> 00:09:33,096
+He cannot take the alpha because he would undo it.
+
+93
+00:09:33,096 --> 00:09:39,420
+And now, uh, the, the goat and all far are there.
+
+94
+00:09:39,420 --> 00:09:39,620
+Now.
+
+95
+00:09:39,620 --> 00:09:44,459
+Now, now it's very simple of course, because the next movies that you
+
+96
+00:09:44,459 --> 00:09:48,297
+take an alpha and then there's a gum here and alpha squared, you go empty
+
+97
+00:09:48,297 --> 00:09:55,118
+here and you take the gum, take the goat, and you have Gama goat, where
+
+98
+00:09:55,118 --> 00:09:57,537
+I make my goat Greek, I don't know.
+
+99
+00:10:00,130 --> 00:10:01,680
+But , here we are.
+
+100
+00:10:03,012 --> 00:10:12,640
+Notice that thanks to omitting the difference between the goat and the
+
+101
+00:10:12,640 --> 00:10:17,419
+cabbage, our solution has become any, sorry, the rules and the cabbage.
+
+102
+00:10:17,419 --> 00:10:21,639
+And in the introduction of the abstract concept of alpha, our
+
+103
+00:10:21,639 --> 00:10:21,839
+solution has become unique.
+
+104
+00:10:21,839 --> 00:10:28,117
+Not only has it become unique, uh, it also has become symmetric.
+
+105
+00:10:28,117 --> 00:10:37,439
+You see goat to the right, to the left, alpha to the right, goat to
+
+106
+00:10:37,439 --> 00:10:42,058
+the left, and you see that this situation is reproduced here, and
+
+107
+00:10:42,058 --> 00:10:42,792
+this situation is reproduced there.
+
+108
+00:10:44,993 --> 00:10:50,838
+This symmetry is also only there, provided you ignore the difference
+
+109
+00:10:50,838 --> 00:10:55,140
+between the two Alfas first problem.
+
+110
+00:10:57,632 --> 00:11:01,396
+Uh, All little Dutch children know this.
+
+111
+00:11:01,396 --> 00:11:09,879
+Uh, it is even, there's even a Dutch saying, uh, trying to spare
+
+112
+00:11:09,879 --> 00:11:16,715
+I mean, we use it in having your cake and eat it, but it's not, not a well known
+
+113
+00:11:16,715 --> 00:11:16,915
+simultaneously the goat and the cabbage.
+
+114
+00:11:17,140 --> 00:11:20,800
+problem in the United States, I guess.
+
+115
+00:11:22,174 --> 00:11:25,178
+You know it or you knew it.
+
+116
+00:11:25,178 --> 00:11:25,560
+So some of you knew it.
+
+117
+00:11:27,850 --> 00:11:38,740
+Um, now, uh, here our solution was, um, essentially abstraction,
+
+118
+00:11:38,740 --> 00:11:43,477
+ignoring differences that could be regarded as irrelevant.
+
+119
+00:11:43,477 --> 00:11:57,180
+Uh, next step is, um, Another technique for, uh, reducing case analysis and that
+
+120
+00:11:57,180 --> 00:11:59,580
+is when you are faced with a problem or something has to be done and there might
+
+121
+00:11:59,580 --> 00:12:01,630
+be all sorts of ways of achieving it.
+
+122
+00:12:04,172 --> 00:12:11,678
+Uh, make the problem harder, impose more constraints on solution
+
+123
+00:12:14,590 --> 00:12:22,599
+I mean, you have to, yeah, do something difficult.
+
+124
+00:12:22,599 --> 00:12:22,799
+instead of allow yourself to work.
+
+125
+00:12:22,799 --> 00:12:29,779
+Uh, now the not effect of such additional constraints, well, either,
+
+126
+00:12:29,779 --> 00:12:29,979
+it can't be done at all anymore.
+
+127
+00:12:29,979 --> 00:12:34,480
+You have made it impossible.
+
+128
+00:12:34,480 --> 00:12:38,998
+Well, that's a bit, uh, or it's just possible, but only in one way.
+
+129
+00:12:38,998 --> 00:12:46,177
+Now, uh, I would like to show you an example of that problem.
+
+130
+00:12:51,312 --> 00:13:04,840
+This time, uh, at the left hand, there comes, uh, come to couples, uh, a
+
+131
+00:13:04,840 --> 00:13:10,076
+wife and a husband, and there's also a lowercase couple, a wife and a husband.
+
+132
+00:13:10,076 --> 00:13:20,679
+The little boat carries two persons at most, at least one
+
+133
+00:13:20,679 --> 00:13:20,879
+if it's to cross the river.
+
+134
+00:13:20,879 --> 00:13:32,740
+And the rules of the game are, I mean, is a very sexiest problem, but I can't
+
+135
+00:13:32,740 --> 00:13:39,816
+help that the rules of the game are, and that a woman, a wife, is not allowed
+
+136
+00:13:39,816 --> 00:13:45,415
+in the company of the other husband.
+
+137
+00:13:45,415 --> 00:13:50,213
+Unless her own husband is present as well.
+
+138
+00:13:52,050 --> 00:13:53,120
+So, yeah.
+
+139
+00:13:53,120 --> 00:13:55,076
+Those are the rules of the game.
+
+140
+00:13:56,971 --> 00:14:11,979
+So this allowed stages, combinations are this pair, uh, w h and the other
+
+141
+00:14:11,979 --> 00:14:14,420
+wife is, that's not allowed either.
+
+142
+00:14:14,420 --> 00:14:25,259
+And then the image, uh, w h and w h w, those four situations are not allowed
+
+143
+00:14:25,259 --> 00:14:28,614
+at either side of the, at either.
+
+144
+00:14:30,432 --> 00:14:38,179
+Now, uh, you can ask yourself whether you can do this and,
+
+145
+00:14:38,179 --> 00:14:38,379
+and, and try all sorts of things.
+
+146
+00:14:39,571 --> 00:14:44,677
+Uh, but one of the ways of making it harder.
+
+147
+00:14:44,677 --> 00:14:46,736
+Simplifying it.
+
+148
+00:14:46,736 --> 00:15:00,720
+You say, well, I can avoid those four situations by a
+
+149
+00:15:00,720 --> 00:15:01,974
+stronger, much simpler rule.
+
+150
+00:15:05,333 --> 00:15:09,197
+And the simple rule is just keep the guys together,
+
+151
+00:15:12,792 --> 00:15:18,518
+the guys remain together, then none of these situations can ever emerge.
+
+152
+00:15:18,518 --> 00:15:23,000
+So there you are.
+
+153
+00:15:23,000 --> 00:15:27,319
+So another problem is how, how do we cross the uh, river if
+
+154
+00:15:27,319 --> 00:15:29,719
+we keep the two guys together?
+
+155
+00:15:29,719 --> 00:15:34,478
+However, that constraint is symmetric in the two, two husbands,
+
+156
+00:15:34,478 --> 00:15:37,876
+to all intents and purposes.
+
+157
+00:15:37,876 --> 00:15:41,694
+They could be the two copies of identical twins.
+
+158
+00:15:44,093 --> 00:15:53,119
+But if we don't distinguish between the males, we don't need to
+
+159
+00:15:53,119 --> 00:15:53,319
+distinguish between the females either.
+
+160
+00:15:59,113 --> 00:16:04,600
+So, uh, here we go.
+
+161
+00:16:04,600 --> 00:16:08,360
+We forget upper and lower A case.
+
+162
+00:16:08,360 --> 00:16:15,719
+Two wives and two husbands.
+
+163
+00:16:15,719 --> 00:16:19,559
+I shouldn't call them wives and husbands anymore.
+
+164
+00:16:19,559 --> 00:16:20,617
+I should call them.
+
+165
+00:16:20,617 --> 00:16:21,612
+Uh, females and males.
+
+166
+00:16:21,612 --> 00:16:26,198
+And I have two of those.
+
+167
+00:16:26,198 --> 00:16:26,398
+And I have two of those.
+
+168
+00:16:29,032 --> 00:16:35,538
+Now, what's the fir, what's the first move if you insist
+
+169
+00:16:35,538 --> 00:16:36,369
+on keeping the guys together?
+
+170
+00:16:42,079 --> 00:16:43,123
+Both.
+
+171
+00:16:45,490 --> 00:16:54,779
+You see, because if I sent two mails across the boat can't
+
+172
+00:16:54,779 --> 00:16:54,979
+No, not either.
+
+173
+00:16:54,979 --> 00:16:55,179
+go, come back all by itself.
+
+174
+00:16:55,179 --> 00:17:00,097
+It can't be done by one mail because they have to stay together.
+
+175
+00:17:00,160 --> 00:17:03,500
+So it would be two mails, but then I would undoing my move.
+
+176
+00:17:03,500 --> 00:17:11,260
+So the only thing to do is defeat the two females.
+
+177
+00:17:11,260 --> 00:17:15,840
+And there you have two males and you have two females.
+
+178
+00:17:15,840 --> 00:17:19,517
+The only thing to be done is to have one of the females going back.
+
+179
+00:17:19,517 --> 00:17:24,337
+Now you have here two males and a female.
+
+180
+00:17:24,337 --> 00:17:31,859
+The only thing you can do is not sending the female but the the two males
+
+181
+00:17:31,859 --> 00:17:32,059
+because they have to stick together.
+
+182
+00:17:32,059 --> 00:17:41,320
+And, um, Where you have an F here, you have now an F here and uh, M
+
+183
+00:17:41,320 --> 00:17:44,517
+squared F and you see the same symmetry again from the previous solution.
+
+184
+00:17:44,517 --> 00:17:44,717
+And we can stop.
+
+185
+00:17:47,011 --> 00:17:56,800
+So, uh, now you see what, uh, our strengthening has done.
+
+186
+00:17:56,800 --> 00:18:04,999
+Not only has it reduced, uh, uh, our degree of freedom, uh, but uh, it also
+
+187
+00:18:04,999 --> 00:18:10,358
+suddenly allowed us to eliminate, to introduce a symmetry, which allowed
+
+188
+00:18:10,358 --> 00:18:14,654
+us to eliminate the individual couples and, uh, simplify in that way.
+
+189
+00:18:18,777 --> 00:18:22,228
+Progressing nicely.
+
+190
+00:18:22,228 --> 00:18:28,976
+Uh, now, now my last example, uh, on this line, and that is the well known example
+
+191
+00:18:28,976 --> 00:18:32,153
+of the cannibals and the missionaries.
+
+192
+00:18:34,671 --> 00:18:44,100
+Uh, the problem, beloved by the artificial here come three cannibals
+
+193
+00:18:44,100 --> 00:18:47,155
+and three missionaries, and the boat can contain only two persons.
+
+194
+00:18:47,155 --> 00:18:57,116
+And one of the rules of the game is that, um, zero,
+
+195
+00:19:09,171 --> 00:19:17,638
+I say it in words, uh, what is not allowed is that at one of the shores.
+
+196
+00:19:26,592 --> 00:19:34,559
+missionaries because as soon as you have cannibals and, and there are more
+
+197
+00:19:34,559 --> 00:19:36,634
+missionaries than the missionaries starts to convert the cannibals.
+
+198
+00:19:37,151 --> 00:19:47,980
+And, and, and, and, and that should be prevented in, uh, American politics.
+
+199
+00:19:47,980 --> 00:19:50,737
+And the confusion with religion in that area makes quite clear that
+
+200
+00:19:50,737 --> 00:19:50,937
+we don't need more conversions.
+
+201
+00:19:53,052 --> 00:20:02,179
+Uh, now the rules of that game and all try, try to, uh, use
+
+202
+00:20:02,179 --> 00:20:02,379
+the other in frontal machine.
+
+203
+00:20:09,034 --> 00:20:12,760
+Yes, there we are.
+
+204
+00:20:12,760 --> 00:20:13,320
+It even works a little.
+
+205
+00:20:16,852 --> 00:20:19,736
+I keep a surprise Invisible.
+
+206
+00:20:19,736 --> 00:20:19,936
+That's for later.
+
+207
+00:20:19,936 --> 00:20:27,018
+, just to, just to irritate you, uh, one of the, uh, things I'm, I'm showing
+
+208
+00:20:27,018 --> 00:20:34,840
+now is that, uh, if you're faced with such a complicated problem, uh, why
+
+209
+00:20:34,840 --> 00:20:44,600
+is advice is to make a little list of trivial theorems that you get for free.
+
+210
+00:20:44,600 --> 00:20:48,383
+So they're so simple that they are for free for half a c Right.
+
+211
+00:20:48,383 --> 00:20:48,583
+And sake write them down.
+
+212
+00:20:49,273 --> 00:20:56,060
+Either they're useless, but it didn't cost anything at all to get them so
+
+213
+00:20:56,060 --> 00:20:59,597
+that the, or they or they help you in finding what you're going to do.
+
+214
+00:20:59,597 --> 00:21:06,239
+Now, the obvious rule is, is, is to, uh, to check the consequences.
+
+215
+00:21:06,239 --> 00:21:10,540
+Uh, if the division along the shores is one to five or one or
+
+216
+00:21:10,540 --> 00:21:14,600
+one side, five at the other, or two against four against three.
+
+217
+00:21:14,600 --> 00:21:17,578
+Now, one of the rules is that if the singleton, that singleton must be a
+
+218
+00:21:17,578 --> 00:21:25,760
+missionary, you cannot take away one can because then in the remaining
+
+219
+00:21:25,760 --> 00:21:27,858
+five conversions would take place.
+
+220
+00:21:27,858 --> 00:21:34,780
+Uh, similarly, if you have a two 40 division, then the pair could, should
+
+221
+00:21:34,780 --> 00:21:39,275
+contain at least one missionary, because otherwise in the, in the four,
+
+222
+00:21:40,090 --> 00:21:42,240
+the conversions would take place.
+
+223
+00:21:42,240 --> 00:21:50,940
+Um, if you have a three, three division, The only safe one is to have
+
+224
+00:21:50,940 --> 00:21:55,253
+a triple of missionaries at one side of the shore and a triple of cans at
+
+225
+00:21:55,253 --> 00:21:58,877
+the other, because if not, then at one of the two sides, you be wrong.
+
+226
+00:22:00,075 --> 00:22:03,820
+So these are our three theor.
+
+227
+00:22:03,820 --> 00:22:08,898
+Now, low and behold, again, our solution is unique.
+
+228
+00:22:14,672 --> 00:22:23,360
+Uh, I remember, uh, as a little kid, uh, six, seven years old or so, I
+
+229
+00:22:23,360 --> 00:22:26,037
+tried to solve this problem and, uh, I had to check up pieces, three
+
+230
+00:22:26,037 --> 00:22:26,612
+white ones and three black ones.
+
+231
+00:22:30,254 --> 00:22:32,617
+of course I didn't recall my solution.
+
+232
+00:22:32,617 --> 00:22:40,692
+So, uh, even after I had succeeded, I didn't know what I had done and I had no
+
+233
+00:22:40,692 --> 00:22:40,892
+way of controlling were cyclic movements.
+
+234
+00:22:40,892 --> 00:22:46,635
+And, uh, Certainly I did not recognize that it was essentially
+
+235
+00:22:46,635 --> 00:22:51,019
+only one thing I could do.
+
+236
+00:22:51,019 --> 00:22:55,037
+Now, on the way out, uh, to begin with, uh,
+
+237
+00:23:01,193 --> 00:23:07,038
+the only way to, to, to you, you, you, you cannot send one thing one, one
+
+238
+00:23:07,038 --> 00:23:15,359
+person to the other side because then the next move it has has to undo it.
+
+239
+00:23:15,359 --> 00:23:19,860
+Uh, so two have to go, but that's a pair.
+
+240
+00:23:19,860 --> 00:23:23,197
+It should contain, uh, a, um, a missionary and a don't care.
+
+241
+00:23:24,610 --> 00:23:25,900
+So there it goes.
+
+242
+00:23:25,900 --> 00:23:30,174
+And the next move, that's a question mark, they don't care, goes back.
+
+243
+00:23:34,631 --> 00:23:44,200
+Now again, uh, We have to move two to the other side because if it was a one
+
+244
+00:23:44,200 --> 00:23:48,660
+we could have chosen to don't care, to be identical and it would've undone that one.
+
+245
+00:23:48,660 --> 00:23:48,860
+So there we go.
+
+246
+00:23:49,590 --> 00:23:52,080
+And, uh, we now we created triple at the other side.
+
+247
+00:23:52,080 --> 00:23:55,658
+The triple has to be homogeneous.
+
+248
+00:23:55,658 --> 00:23:55,858
+So the only, you have no choice.
+
+249
+00:23:55,858 --> 00:24:04,139
+You have to move, uh, the, the two and get, uh, three cannibals to
+
+250
+00:24:04,139 --> 00:24:08,400
+the left and three missionaries to the left, to to the right.
+
+251
+00:24:08,400 --> 00:24:13,422
+The only thing that you can take to the left that does not undo the previous
+
+252
+00:24:13,422 --> 00:24:13,622
+route is one move is one missionary.
+
+253
+00:24:13,622 --> 00:24:18,450
+And now you are at a situation that
+
+254
+00:24:18,450 --> 00:24:18,650
+So there you go.
+
+255
+00:24:21,547 --> 00:24:23,070
+A, you have
+
+256
+00:24:24,280 --> 00:24:27,240
+four.
+
+257
+00:24:29,470 --> 00:24:33,400
+If you now take, take, take, take two to the right, uh, then you
+
+258
+00:24:33,400 --> 00:24:38,040
+leave a pair at the left hand side that has to contain a missionary.
+
+259
+00:24:38,040 --> 00:24:41,858
+So that one missionary has, has to remain to the left.
+
+260
+00:24:41,858 --> 00:24:44,835
+The only thing you can do is to carry to, to, to, uh, cannibals.
+
+261
+00:24:47,032 --> 00:24:55,940
+Uh, now at the end, uh, now the only thing you can do is, uh, take a kind of
+
+262
+00:24:55,940 --> 00:24:59,838
+missionary to the left and lo and behold, now again, you have that interchange
+
+263
+00:24:59,838 --> 00:25:07,120
+and then, uh, this is the symmetric central move and you can, uh, you are
+
+264
+00:25:07,120 --> 00:25:08,157
+halfway and the problem has been solved.
+
+265
+00:25:10,032 --> 00:25:17,038
+Uh, again, our solution is unique provided that we allow the don't cares.
+
+266
+00:25:20,013 --> 00:25:27,580
+If you have to specify whether this, uh, your first don't care and your final don't
+
+267
+00:25:27,580 --> 00:25:33,678
+care is either a missionary or a, um, canal, then it would be four solutions.
+
+268
+00:25:33,678 --> 00:25:39,419
+But the parameters is one of the, the unspecified parameters, one way of mapping
+
+269
+00:25:39,419 --> 00:25:39,852
+those four solutions on a single one.
+
+270
+00:25:47,413 --> 00:25:55,079
+what this really, this solution really profits from is that we do not distinguish
+
+271
+00:25:55,079 --> 00:25:59,554
+between, uh, the identity of the cannibals
+
+272
+00:25:59,554 --> 00:26:10,759
+nor the identity of, uh, the missionaries.
+
+273
+00:26:10,759 --> 00:26:14,238
+And in our first move, uh, missionary goes to the, uh,
+
+274
+00:26:17,469 --> 00:26:25,360
+If the missionaries were named, and it would distinguish the between them, and
+
+275
+00:26:25,360 --> 00:26:28,995
+if there would be, uh, mark, John and uh, Lukas, then we would have to choose
+
+276
+00:26:28,995 --> 00:26:34,374
+which missionaries crossing the river.
+
+277
+00:26:34,374 --> 00:26:40,635
+Uh, not naming them, we just count and say, well, at least
+
+278
+00:26:40,700 --> 00:26:41,920
+one missionary goes heroin.
+
+279
+00:26:43,652 --> 00:26:52,699
+Now that is the, uh, general pattern of, uh, counting argument,
+
+280
+00:26:52,699 --> 00:26:53,576
+and that's also their efficiency.
+
+281
+00:26:54,970 --> 00:27:01,095
+Um, you see in normal,
+
+282
+00:27:05,285 --> 00:27:16,639
+um, primary school education, when children learn to count, they learn that.
+
+283
+00:27:16,639 --> 00:27:21,638
+Three apples take away one apple remains two apples.
+
+284
+00:27:21,638 --> 00:27:23,840
+And next lesson they learn that three pairs take away,
+
+285
+00:27:23,840 --> 00:27:27,193
+one pair remains two pairs.
+
+286
+00:27:27,193 --> 00:27:31,619
+And next lesson there are elephants Cetera.
+
+287
+00:27:31,619 --> 00:27:42,020
+And, uh, eventually it is clear that if you are counting, uh, it doesn't matter
+
+288
+00:27:42,020 --> 00:27:48,578
+what kind of things you can't, and you can, uh, map all these calculations to
+
+289
+00:27:48,578 --> 00:27:53,279
+1, 3 take away 1 is 2.
+
+290
+00:27:53,279 --> 00:27:55,717
+But there is something even much more e essential.
+
+291
+00:27:55,717 --> 00:28:03,899
+And, uh, the trouble is that if you take three apples Yeah.
+
+292
+00:28:04,872 --> 00:28:13,100
+And now you say take away one, you can raise the question which one?
+
+293
+00:28:13,100 --> 00:28:17,177
+Should we take away this one so that these two remain, or shall
+
+294
+00:28:17,177 --> 00:28:21,614
+we take the middle one away?
+
+295
+00:28:27,073 --> 00:28:32,979
+but by the time that we say that three minus one equals
+
+296
+00:28:32,979 --> 00:28:33,780
+two, the question Which one?
+
+297
+00:28:33,780 --> 00:28:36,196
+It's clearly meaningless.
+
+298
+00:28:41,507 --> 00:28:45,738
+And, and, and, and the story is twofold.
+
+299
+00:28:45,738 --> 00:28:53,499
+Uh, on one hand, uh, if you have a number of objects and you cannot
+
+300
+00:28:53,499 --> 00:28:57,074
+distinguish between them, the only thing you can do is to count them.
+
+301
+00:28:59,853 --> 00:29:07,060
+On the other hand, if you have a set of objects and you capture the
+
+302
+00:29:07,060 --> 00:29:10,300
+essence by seeing how many there are.
+
+303
+00:29:10,300 --> 00:29:11,937
+You don't distinguish between the objects.
+
+304
+00:29:14,770 --> 00:29:16,880
+Uh, and this is no joke.
+
+305
+00:29:16,880 --> 00:29:27,240
+Uh, for instance, uh, one of the popular ways of, um, verifying the correctness
+
+306
+00:29:27,240 --> 00:29:28,874
+of programs these days is model checking.
+
+307
+00:29:32,212 --> 00:29:42,400
+However, uh, model checking can only deal comfortably with bulls and
+
+308
+00:29:42,400 --> 00:29:45,240
+cannot deal comfortably with integers.
+
+309
+00:29:45,240 --> 00:29:50,058
+And therefore, if you have, uh, a solution with, uh, which is essentially
+
+310
+00:29:50,060 --> 00:29:54,820
+a congesting problem, problem, if you wish to know how many processes
+
+311
+00:29:54,820 --> 00:30:00,057
+are in what kind of state and, and are possibly interfering, etcetera.
+
+312
+00:30:00,673 --> 00:30:07,340
+Well, if you take the example of the readers and the writers, I remember
+
+313
+00:30:07,340 --> 00:30:13,420
+that, uh, with a fast machine, someone was very proud that he could, uh, do two
+
+314
+00:30:13,420 --> 00:30:17,899
+readers and one writer and a few videos later, there were faster machines and
+
+315
+00:30:17,899 --> 00:30:18,099
+slightly more than genius algorithms.
+
+316
+00:30:18,099 --> 00:30:22,075
+And lo and behold, they could do, uh, two writers and three readers.
+
+317
+00:30:24,593 --> 00:30:29,359
+This model checking, uh, process.
+
+318
+00:30:29,359 --> 00:30:33,916
+Uh, is self-defeating in the sense that the number of states that have
+
+319
+00:30:33,916 --> 00:30:38,936
+to be explored grows with the number of competitors in the experiment.
+
+320
+00:30:41,273 --> 00:30:47,819
+So, uh, the state space that you have to, uh, explore, uh, really export
+
+321
+00:30:47,819 --> 00:30:55,658
+exponentially, and that's purely because it's a technique that doesn't
+
+322
+00:30:55,658 --> 00:31:00,536
+count all solutions for the reader's.
+
+323
+00:31:00,536 --> 00:31:09,319
+can be solved on the back of an envelope, provided that you are
+
+324
+00:31:09,319 --> 00:31:09,519
+Writer's problem
+
+325
+00:31:09,519 --> 00:31:09,719
+allowed to use arbitrary intes.
+
+326
+00:31:13,712 --> 00:31:17,617
+Okay, now, uh, this was the first part.
+
+327
+00:31:17,617 --> 00:31:23,560
+Uh, now the second part.
+
+328
+00:31:23,560 --> 00:31:27,898
+For the second part, I have prepared my foils because it's a complicated one.
+
+329
+00:31:31,393 --> 00:31:38,158
+I will solve or I will prove the same theorem twice.
+
+330
+00:31:40,992 --> 00:31:50,140
+Uh, and uh, I will do that just in order to give you a feeling for the,
+
+331
+00:31:50,140 --> 00:31:53,718
+uh, significance of the difference in styling, which I prove them.
+
+332
+00:31:53,718 --> 00:31:54,437
+The first prove is combinatorial.
+
+333
+00:31:54,437 --> 00:31:56,833
+The second one is accounting proof.
+
+334
+00:31:59,550 --> 00:32:01,340
+Uh, here we are.
+
+335
+00:32:04,092 --> 00:32:10,698
+I'm considering what is called a complete six graph that consists
+
+336
+00:32:10,698 --> 00:32:19,999
+of six nodes, which you may call points, and their total number is six.
+
+337
+00:32:19,999 --> 00:32:20,636
+That's what's meant by the six graph.
+
+338
+00:32:23,331 --> 00:32:32,040
+There is a number of pairs equals six times five over two times one.
+
+339
+00:32:32,040 --> 00:32:32,240
+The number of edges.
+
+340
+00:32:32,240 --> 00:32:37,600
+You have plus six possibilities for the first one, and you have five
+
+341
+00:32:37,600 --> 00:32:37,800
+Number of pairs.
+
+342
+00:32:37,800 --> 00:32:40,359
+possibilities for the second one, but then you have counted each pair twice.
+
+343
+00:32:40,359 --> 00:32:41,737
+So there you were, there are 15 edges.
+
+344
+00:32:43,393 --> 00:32:50,000
+You can continue and if you ask how many triangles are there, well
+
+345
+00:32:50,000 --> 00:32:52,195
+the triangles are uh uh, the total number is six times, five times four
+
+346
+00:32:55,734 --> 00:33:03,980
+divided over three times, two times, one, the order in which you could have
+
+347
+00:33:03,980 --> 00:33:05,734
+arranged the, so there are 20 triangles.
+
+348
+00:33:07,933 --> 00:33:15,240
+Now that is the figure that I am considering in the rest of this talk
+
+349
+00:33:15,240 --> 00:33:21,620
+only I add to this, that each edge.
+
+350
+00:33:21,620 --> 00:33:25,117
+It's either red or blue.
+
+351
+00:33:27,472 --> 00:33:32,657
+And thanks to this perfect overhead projector, the colors show
+
+352
+00:33:36,391 --> 00:33:48,300
+And now I would like you to focus on the 20 triangles.
+
+353
+00:33:48,300 --> 00:33:57,740
+That's a laborious job, but uh, you notice that there are two types of triangles.
+
+354
+00:33:57,740 --> 00:33:59,279
+There is, for instance, f a c.
+
+355
+00:34:01,053 --> 00:34:04,897
+Which has a blue edge, a blue edge, and a red edge.
+
+356
+00:34:04,897 --> 00:34:10,137
+Now that's what I, that's what I call a bike triangle.
+
+357
+00:34:12,070 --> 00:34:13,620
+Yeah, it's sides.
+
+358
+00:34:13,628 --> 00:34:15,373
+Don't all have the same car.
+
+359
+00:34:17,511 --> 00:34:30,718
+Uh, if I look at a, B, d, a, you see that all its sides are red.
+
+360
+00:34:32,434 --> 00:34:35,017
+That's what I call a monochrome triangle.
+
+361
+00:34:35,017 --> 00:34:43,638
+And if you are lucky, you see a second monochrome triangle also red.
+
+362
+00:34:45,251 --> 00:34:52,518
+Uh, I tell you, these are the only ones in this, in this coloring.
+
+363
+00:34:54,331 --> 00:35:05,740
+Uh, of course if I had made all edges red, then I would've 20 morero triangles.
+
+364
+00:35:05,740 --> 00:35:09,997
+Now, the theorum that I'm going to prove is that no matter how you
+
+365
+00:35:09,997 --> 00:35:14,015
+call the edges, there are at least.
+
+366
+00:35:14,693 --> 00:35:16,256
+Monochlonal triangles.
+
+367
+00:35:29,413 --> 00:35:35,939
+here is my illustrations of my terminology.
+
+368
+00:35:35,939 --> 00:35:41,359
+Uh, there are two types of monochrome triangles over red and all blue.
+
+369
+00:35:41,359 --> 00:35:43,995
+And uh, there are two types of biron triangles.
+
+370
+00:35:43,995 --> 00:35:50,499
+Uh, mostly red and mostly blue.
+
+371
+00:35:50,499 --> 00:35:53,518
+And in the example, the only that I showed, the only monon
+
+372
+00:35:53,518 --> 00:35:55,980
+triangle were the red a d.
+
+373
+00:35:56,150 --> 00:35:57,460
+And this is a summary.
+
+374
+00:35:57,460 --> 00:35:58,435
+I can remove this.
+
+375
+00:36:00,054 --> 00:36:03,465
+Okay, next one.
+
+376
+00:36:03,465 --> 00:36:13,659
+Now the, uh, combinatorial problem or solution, uh, proceeds in two stages.
+
+377
+00:36:13,659 --> 00:36:22,318
+First of all, uh, we established the, uh, existence of one monochrome triangle.
+
+378
+00:36:24,652 --> 00:36:32,159
+And after we've done so then of the second one, now the, the argument for
+
+379
+00:36:32,159 --> 00:36:32,512
+one monochrome triangle is the following.
+
+380
+00:36:32,512 --> 00:36:43,260
+Uh, focus your attention on node X because there are five other nodes.
+
+381
+00:36:43,260 --> 00:36:53,699
+Five edges meet in X since there are only two colors, at least one color, or
+
+382
+00:36:53,699 --> 00:36:57,740
+curves at least three times, say red read.
+
+383
+00:36:57,740 --> 00:37:03,678
+So there are, we now consider the situation that there are
+
+384
+00:37:03,678 --> 00:37:13,739
+three red edges meeting in X now called other endpoint A, B, and C.
+
+385
+00:37:13,739 --> 00:37:18,800
+Now focus your attention on triangle A, B, and C.
+
+386
+00:37:18,800 --> 00:37:23,457
+If it's all blue, we have found a monochro triangle, a blue abc.
+
+387
+00:37:25,272 --> 00:37:35,418
+If they are not all blue triangle, ABC has a red edge, say ac.
+
+388
+00:37:38,313 --> 00:37:44,020
+But if AC is red, then we have found a Monochro X A.
+
+389
+00:37:46,973 --> 00:37:51,798
+So under all circumstances, if we have only two columns,
+
+390
+00:37:55,670 --> 00:38:04,040
+We have demonstrated the existence of a monochrome triangle.
+
+391
+00:38:04,040 --> 00:38:04,240
+we have found the existence.
+
+392
+00:38:04,240 --> 00:38:04,856
+Everybody agrees.
+
+393
+00:38:07,493 --> 00:38:10,457
+You should agree because the next argument is more complicated.
+
+394
+00:38:15,531 --> 00:38:28,278
+Uh, now we are going to show the presence of a second monochrome triangle.
+
+395
+00:38:34,013 --> 00:38:38,477
+well, the argument starts as follows.
+
+396
+00:38:38,477 --> 00:38:45,319
+I say, well, we have already, we know already that there is at
+
+397
+00:38:45,319 --> 00:38:45,519
+least one monochrome triangle.
+
+398
+00:38:45,519 --> 00:38:50,439
+Let it be red.
+
+399
+00:38:50,439 --> 00:39:00,980
+We mark its three end points with a, it's three s says, and the other
+
+400
+00:39:00,980 --> 00:39:01,854
+three points we marked with bees.
+
+401
+00:39:04,652 --> 00:39:14,500
+The original text by the way, in which, uh, I found this argument marked the three
+
+402
+00:39:14,500 --> 00:39:20,640
+uh, edges by a one, A two, A three, and marked the remaining one, named the other
+
+403
+00:39:24,633 --> 00:39:29,518
+these meaningless, uh, arguments all over the place.
+
+404
+00:39:29,518 --> 00:39:32,919
+Now, here we are.
+
+405
+00:39:32,919 --> 00:39:39,100
+I said let be a rep Monochro triangle call its notes A mark the out of
+
+406
+00:39:39,100 --> 00:39:42,099
+three notes B and this implies there are three types of edges.
+
+407
+00:39:42,099 --> 00:39:48,119
+There are a, a edges, a B edges and BBB edges, uh, three AA
+
+408
+00:39:48,119 --> 00:39:49,959
+edges, and they are all red.
+
+409
+00:39:49,959 --> 00:39:56,798
+There are three BBB edges and we don't know, and there are nine ab edges.
+
+410
+00:39:56,798 --> 00:40:03,278
+Because each of the three A's can be connected to each of the three
+
+411
+00:40:03,278 --> 00:40:05,193
+B's, the three squared still nine.
+
+412
+00:40:05,193 --> 00:40:15,298
+Now, uh, now I come with a case analysis, uh, and you should read that as follows,
+
+413
+00:40:18,212 --> 00:40:29,140
+if is an opening bracket, first situation, a conclusion here is a separator.
+
+414
+00:40:29,140 --> 00:40:32,399
+Second con alternative here is a conclusion.
+
+415
+00:40:32,399 --> 00:40:32,599
+And then fees.
+
+416
+00:40:32,599 --> 00:40:34,928
+The closing brackets.
+
+417
+00:40:34,928 --> 00:40:40,900
+That's the way, uh, here p holds and here non phole.
+
+418
+00:40:40,900 --> 00:40:41,918
+And here I conclude something.
+
+419
+00:40:41,918 --> 00:40:42,118
+There I conclude something.
+
+420
+00:40:42,118 --> 00:40:50,740
+You know, and I do that nested here is my outer alternative.
+
+421
+00:40:50,740 --> 00:40:56,460
+And the two cases is there is a be with something and there
+
+422
+00:40:56,460 --> 00:40:56,660
+is no be with that same thing.
+
+423
+00:40:59,893 --> 00:41:04,638
+Now the first case I'm considering is that considering is that there
+
+424
+00:41:04,638 --> 00:41:10,436
+is a B where two red abs meet.
+
+425
+00:41:12,491 --> 00:41:18,577
+There is a do look at this configuration.
+
+426
+00:41:21,531 --> 00:41:49,300
+Now if there is a B where two red a edges meet, then I have
+
+427
+00:41:49,300 --> 00:41:49,500
+If there is AB where two red AB edges meet, then I have found my second monochrome triangle.
+
+428
+00:41:49,500 --> 00:41:49,700
+Because the assumption is that all AA edges are red.
+
+429
+00:41:55,854 --> 00:41:56,756
+That's my second.
+
+430
+00:41:58,550 --> 00:41:59,180
+Yeah.
+
+431
+00:42:02,852 --> 00:42:12,360
+This is a situation that, uh, the second monochrome triangle
+
+432
+00:42:12,360 --> 00:42:12,892
+shares an edge with the first one.
+
+433
+00:42:16,533 --> 00:42:18,696
+Uh, that by the way was the situation.
+
+434
+00:42:18,696 --> 00:42:23,894
+I shoot the very, the very first example.
+
+435
+00:42:23,894 --> 00:42:24,094
+In the example.
+
+436
+00:42:29,793 --> 00:42:34,438
+Here I have one red one and here have another red one.
+
+437
+00:42:34,438 --> 00:42:38,140
+And they share an edge.
+
+438
+00:42:38,140 --> 00:42:38,396
+That's the situation I'm considering.
+
+439
+00:42:41,670 --> 00:42:52,558
+Uh, not consider the situation, but there is no b where two red ab edges meet.
+
+440
+00:42:54,912 --> 00:43:07,780
+Now, uh, since there are three a's if there is no B where two
+
+441
+00:43:07,780 --> 00:43:16,818
+red ones meet, then each B has two blue ab edges meeting there because
+
+442
+00:43:16,818 --> 00:43:22,279
+at each B three A B edges meet.
+
+443
+00:43:22,279 --> 00:43:26,897
+And if there are never, uh, two red ones, then there are always two blue ones.
+
+444
+00:43:26,897 --> 00:43:36,818
+So from this fact that there is no B with this I can conclude that each B has at
+
+445
+00:43:36,818 --> 00:43:41,154
+least two A, a B edges that are blue.
+
+446
+00:43:45,354 --> 00:43:49,498
+Now the situation is a little bit more complicated.
+
+447
+00:43:49,498 --> 00:43:56,797
+Uh, Now I'm going to have a look at, uh, the BB edges.
+
+448
+00:43:58,051 --> 00:44:05,540
+You know, now either there is no blue BBB edge.
+
+449
+00:44:05,540 --> 00:44:08,999
+Now that means that all BBB edges are red.
+
+450
+00:44:08,999 --> 00:44:11,937
+I have found my second monochrome triangles bbb, which
+
+451
+00:44:13,430 --> 00:44:15,280
+You have A, A, A, and there I have
+
+452
+00:44:16,370 --> 00:44:17,560
+So I'm done.
+
+453
+00:44:19,194 --> 00:44:23,259
+Suppose that this is not the case.
+
+454
+00:44:23,259 --> 00:44:23,580
+Well then there is a blue bbb.
+
+455
+00:44:25,392 --> 00:44:34,140
+However, I, I am in a situation that each b in particular, those two
+
+456
+00:44:34,140 --> 00:44:40,360
+have two different blue ab edges.
+
+457
+00:44:40,360 --> 00:44:44,179
+So they have two blue ab edges meeting at this B and there are
+
+458
+00:44:44,179 --> 00:44:44,379
+two ab edges meeting at that.
+
+459
+00:44:46,953 --> 00:44:52,540
+However, There are only three a edge, uh, notes.
+
+460
+00:44:52,540 --> 00:45:03,079
+So this pair and that pair share at least one a edge, one a note.
+
+461
+00:45:03,079 --> 00:45:08,017
+And we have found a blue abb.
+
+462
+00:45:09,373 --> 00:45:14,577
+So we had done, this is a painful argument.
+
+463
+00:45:17,654 --> 00:45:21,339
+Why is it painful?
+
+464
+00:45:21,339 --> 00:45:28,037
+Well, that is because we have to distinguish between the situation that
+
+465
+00:45:28,037 --> 00:45:39,660
+the second one shares the side, the second one shares only an an node, and
+
+466
+00:45:39,660 --> 00:45:41,157
+the third, the second one shares nothing.
+
+467
+00:45:44,475 --> 00:45:46,057
+We have to make that case distinct.
+
+468
+00:45:48,172 --> 00:45:56,258
+Uh, another shortcoming of this argument is that it becomes extremely painful.
+
+469
+00:45:56,258 --> 00:46:04,137
+If, for instance, people would like to show that in the case of the complete a
+
+470
+00:46:04,137 --> 00:46:13,060
+graph, I don't know that at least three or at least four mono, I mean, you, you,
+
+471
+00:46:13,213 --> 00:46:19,498
+you see the combinations exploding and, uh, that's clearly not a way of doing it.
+
+472
+00:46:27,570 --> 00:46:28,220
+Now, uh,
+
+473
+00:46:28,445 --> 00:46:32,914
+as I told you, the text from which I have for you, which I front this argument,
+
+474
+00:46:36,990 --> 00:46:42,939
+A's as A1, A2, A3,
+
+475
+00:46:42,939 --> 00:46:46,517
+the same thing with the bs, and then struggling with, um, those subscripts.
+
+476
+00:46:48,730 --> 00:46:59,660
+Uh, the trick of simplification of calls is by not forming irrelevant, not
+
+477
+00:46:59,660 --> 00:47:02,215
+introducing irrelevant distinctions.
+
+478
+00:47:02,215 --> 00:47:10,540
+Now, the argument, the combinatorial argument that I showed to you,
+
+479
+00:47:10,540 --> 00:47:14,719
+um, has everything wrong with it.
+
+480
+00:47:14,719 --> 00:47:21,620
+Uh, my very first argument was on the, on the, on the previous foil.
+
+481
+00:47:21,620 --> 00:47:24,677
+I said, uh, well focus our attention on, uh, node X.
+
+482
+00:47:24,677 --> 00:47:36,119
+Now as soon as you name one of the six nodes, You destroy the complete
+
+483
+00:47:36,119 --> 00:47:39,335
+symmetry between the sex nodes.
+
+484
+00:47:43,801 --> 00:47:52,456
+Uh, so we should find an argument in which no nodes are named explicitly.
+
+485
+00:47:52,456 --> 00:47:59,098
+If we wish to exploit the symmetry between the nodes of the complete sex,
+
+486
+00:48:03,332 --> 00:48:11,780
+then we concluded that, uh, at least three of those five
+
+487
+00:48:11,780 --> 00:48:15,520
+edges would have the same color.
+
+488
+00:48:15,520 --> 00:48:15,856
+And I said, say red,
+
+489
+00:48:19,835 --> 00:48:24,840
+thereby destroying the symmetry and the colors.
+
+490
+00:48:24,840 --> 00:48:31,480
+See, the whole problem statement, uh, is the same if you remains
+
+491
+00:48:31,480 --> 00:48:33,539
+the same, if you interchange.
+
+492
+00:48:33,539 --> 00:48:33,739
+Uh, red and blue.
+
+493
+00:48:33,739 --> 00:48:42,720
+The whole concept of bi and monochrome is, is not dependent on either red or blue.
+
+494
+00:48:42,720 --> 00:48:46,137
+Uh, we must find an argument in which we do not mention the individual colors,
+
+495
+00:48:49,633 --> 00:48:55,179
+because as soon as you do that, I say red.
+
+496
+00:48:55,179 --> 00:49:01,820
+Yeah, you destroy the cemetery between the colors.
+
+497
+00:49:01,820 --> 00:49:09,318
+So we had better head for an argument that doesn't mention individual
+
+498
+00:49:09,318 --> 00:49:16,338
+notes and that does not mention, um, the individual colors either.
+
+499
+00:49:16,338 --> 00:49:28,178
+Now, if you are, if you are not allowed to say red or blue, The simplest remark
+
+500
+00:49:28,178 --> 00:49:35,300
+you can make that still does justice to the fact that there are two colors
+
+501
+00:49:35,300 --> 00:49:45,060
+in the game, is that if you consider a pair of edges, they either have
+
+502
+00:49:45,060 --> 00:49:45,260
+the same color or of different color.
+
+503
+00:49:51,331 --> 00:49:59,878
+No question is suppose that we are talking about pears, pairs of
+
+504
+00:49:59,924 --> 00:50:04,572
+edges, and we would like to consider
+
+505
+00:50:10,111 --> 00:50:14,819
+pairs of the same, pairs of different color.
+
+506
+00:50:14,819 --> 00:50:16,316
+Homogeneous or monochrome or mixed.
+
+507
+00:50:16,316 --> 00:50:19,816
+Yeah, there was the simplest concept.
+
+508
+00:50:21,593 --> 00:50:26,999
+Well, the simplest concept is.
+
+509
+00:50:26,999 --> 00:50:32,980
+Not the homogeneous, the mono is not a monochrome pair because there
+
+510
+00:50:32,980 --> 00:50:34,740
+are two types of monochrome pairs.
+
+511
+00:50:34,740 --> 00:50:37,039
+There's the old blue pair and the old red pair.
+
+512
+00:50:37,039 --> 00:50:42,398
+However, the, the mixed pair, one red and one blue, that is only one of them.
+
+513
+00:50:44,653 --> 00:50:50,479
+So we are considering pairs of, of different colors.
+
+514
+00:50:50,479 --> 00:50:59,220
+Secondly, because we talk about the, uh, complete, uh, six graph somewhere, that
+
+515
+00:50:59,220 --> 00:51:02,319
+apology, uh, has to be taken into account.
+
+516
+00:51:02,319 --> 00:51:06,157
+I do so by focusing my attention on pairs that have note in common.
+
+517
+00:51:08,413 --> 00:51:14,618
+And the central concept I'm going to talk about is therefore the mixed fee.
+
+518
+00:51:19,392 --> 00:51:24,057
+The mixed fee is a pair.
+
+519
+00:51:24,648 --> 00:51:26,312
+Of differently colored
+
+520
+00:51:30,350 --> 00:51:34,276
+edges that meet in one point.
+
+521
+00:51:36,530 --> 00:51:39,800
+And, uh, I, I, I need a verb.
+
+522
+00:51:39,800 --> 00:51:45,879
+Uh, and they're supported by the point in which they meet.
+
+523
+00:51:45,879 --> 00:51:50,637
+So that's my concept, and I'm trying to reason in terms of mixed fees
+
+524
+00:51:54,574 --> 00:51:59,179
+are two thes, two very simple theories.
+
+525
+00:51:59,179 --> 00:52:08,518
+The first one is that, um, each node supports the most six mixed fees.
+
+526
+00:52:10,750 --> 00:52:12,120
+You see
+
+527
+00:52:15,974 --> 00:52:18,276
+if all five edges.
+
+528
+00:52:23,153 --> 00:52:27,957
+Meet in that point have the same color, but there's no mixed fee at all.
+
+529
+00:52:30,313 --> 00:52:38,360
+If the color division is one of the one color four of the other, then I can form
+
+530
+00:52:38,360 --> 00:52:44,040
+four mixed fees because the, one of the one color can be combined with any of the
+
+531
+00:52:44,040 --> 00:52:49,578
+remaining for, however, if the division is as equal as possible, uh, two of the
+
+532
+00:52:49,578 --> 00:52:50,052
+one color, three of the other color,
+
+533
+00:52:53,632 --> 00:53:01,718
+then I can in six ways select two edges of a different color.
+
+534
+00:53:01,718 --> 00:53:10,160
+So the, the, is that, um,
+
+535
+00:53:10,160 --> 00:53:17,480
+A note supports at most six mixed fees where six is formed as two times three.
+
+536
+00:53:17,480 --> 00:53:20,458
+That is when two of its meeting agents have one caller and
+
+537
+00:53:20,458 --> 00:53:20,891
+the remaining three the other.
+
+538
+00:53:20,891 --> 00:53:23,855
+So there we are.
+
+539
+00:53:27,932 --> 00:53:36,178
+The other remark is that if we look at a B triangle,
+
+540
+00:53:40,692 --> 00:53:47,559
+I can form three select three Vs.
+
+541
+00:53:47,559 --> 00:53:50,020
+By omitting one of the sides.
+
+542
+00:53:50,020 --> 00:53:52,059
+The other two sides form a V.
+
+543
+00:53:52,059 --> 00:54:00,238
+If I take a B triangle, then one V is monochrome and two of them are micro.
+
+544
+00:54:04,642 --> 00:54:15,379
+The ones meeting at the bottom that they are different color and the ones
+
+545
+00:54:15,379 --> 00:54:16,090
+at the top are of the same color.
+
+546
+00:54:20,623 --> 00:54:29,550
+Now, since each V already contains four edges, it, it, uh, is a three notes.
+
+547
+00:54:29,550 --> 00:54:34,329
+It determines the triangle in which it lies uniquely and therefore those
+
+548
+00:54:34,329 --> 00:54:36,563
+two mixed fees occur nowhere else.
+
+549
+00:54:40,443 --> 00:54:49,130
+And the moral of the story is that no matter how you color,
+
+550
+00:54:49,130 --> 00:54:53,848
+the number of mixed fees is twice the number of bike triangles.
+
+551
+00:54:58,183 --> 00:55:01,547
+Each micro triangle absorbs three mixed fees.
+
+552
+00:55:01,547 --> 00:55:07,345
+A monoclonal triangle had, doesn't contain any, doesn't contain mixed
+
+553
+00:55:07,345 --> 00:55:12,010
+fees at all because it's homogenous.
+
+554
+00:55:12,010 --> 00:55:15,027
+So the number of mixed fees is twice the number of triangles.
+
+555
+00:55:18,704 --> 00:55:19,766
+Now, that's quite general,
+
+556
+00:55:27,540 --> 00:55:29,530
+and now we go,
+
+557
+00:55:32,342 --> 00:55:39,709
+our pro obligation is, top line is the bullying statement that a number of
+
+558
+00:55:39,709 --> 00:55:40,042
+monochrome triangles is at least two.
+
+559
+00:55:40,042 --> 00:55:45,429
+A theory we had to prove.
+
+560
+00:55:45,429 --> 00:55:49,447
+Now remember from the my very first foil, the total number of triangles is.
+
+561
+00:55:49,560 --> 00:56:00,410
+And since each triangle is, is micro or monochrome, if the statement that
+
+562
+00:56:00,410 --> 00:56:05,569
+the number of monochrome triangles is at least two is equivalent to
+
+563
+00:56:05,569 --> 00:56:08,886
+the statement that the number of bi triangles is at most 1820 minus two.
+
+564
+00:56:13,823 --> 00:56:17,607
+But a previous corollary says that, uh,
+
+565
+00:56:17,607 --> 00:56:27,890
+the number of bike triangles is half the number of bio fees.
+
+566
+00:56:27,890 --> 00:56:32,209
+So, uh, thanks to the corollary, that statement is, uh, equivalent
+
+567
+00:56:32,209 --> 00:56:36,806
+to the remark that the number of mixed fees is at most 36.
+
+568
+00:56:41,523 --> 00:56:45,047
+Now, each mixed fee is supported by a node.
+
+569
+00:56:49,802 --> 00:56:56,667
+There are six nodes so that the, the total number of mixed pieces at most 36
+
+570
+00:56:56,667 --> 00:57:06,946
+follows from the still unpro fact that e nodes supports at most six of them.
+
+571
+00:57:09,460 --> 00:57:10,250
+But that was Lama zero.
+
+572
+00:57:10,250 --> 00:57:16,127
+Each node supports at most six mixed fees, and that is true.
+
+573
+00:57:19,580 --> 00:57:20,710
+So here we are
+
+574
+00:57:25,182 --> 00:57:37,730
+and notice that the second argument much less laborious than, uh, the case analysis
+
+575
+00:57:37,730 --> 00:57:40,067
+we, uh, struggled with beforehand.
+
+576
+00:57:40,067 --> 00:57:45,869
+Secondly, uh, it is quite straightforward.
+
+577
+00:57:45,869 --> 00:57:55,008
+To, uh, generalize this, um, argument to smaller, larger graphs.
+
+578
+00:57:57,683 --> 00:58:02,149
+If you do this, try, try this.
+
+579
+00:58:02,149 --> 00:58:07,809
+On the, uh, complete five graph, you'll, you'll discover that I need not to
+
+580
+00:58:07,809 --> 00:58:08,903
+be, uh, monochrome triangles at all.
+
+581
+00:58:10,961 --> 00:58:24,410
+And another illustration is that
+
+582
+00:58:24,410 --> 00:58:32,468
+shows, shows from this example, this argument that, um, you'll get the, uh,
+
+583
+00:58:39,143 --> 00:58:41,706
+minimum number of monochrome triangles.
+
+584
+00:58:43,142 --> 00:58:49,888
+Provided that you make as many mixed uh, fees as as possible and that you
+
+585
+00:58:49,914 --> 00:58:59,890
+get, if at each node you support as many, uh, mixed fees as possible, which
+
+586
+00:58:59,890 --> 00:59:02,706
+happens if two are of the one call and three are of the other column.
+
+587
+00:59:02,706 --> 00:59:13,910
+Here is my original graph and this is one with, uh, two with only two mono triangle.
+
+588
+00:59:13,910 --> 00:59:20,108
+And you look at the six points and you see that, uh, the color frequencies
+
+589
+00:59:20,108 --> 00:59:24,697
+at each, that is two of the one color, that fire and the three of the other,
+
+590
+00:59:28,759 --> 00:59:29,461
+as it should.
+
+591
+00:59:31,983 --> 00:59:37,649
+If the distribution was not so equal, there would've been
+
+592
+00:59:37,649 --> 00:59:37,922
+more monochrome triangles.
+
+593
+00:59:47,364 --> 00:59:49,706
+I think this was a wonderful piece of timing.
+
+594
+00:59:54,603 --> 00:59:57,406
+if you wish to shoot at the pianist, is the moment to do it.
+
+595
+00:59:58,641 --> 01:00:07,228
+Uh, are there any questions, remarks, objections,
+
+596
+01:00:11,684 --> 01:00:14,248
+questions about other things?
+
+597
+01:00:14,248 --> 01:00:14,630
+Yes, sir.
+
+598
+01:00:14,630 --> 01:00:15,030
+I'm not sure
+
+599
+01:00:15,030 --> 01:00:21,730
+That this is a remarkable suggestion. It seems possible that there is
+
+600
+01:00:21,730 --> 01:00:22,501
+some other,
+
+601
+01:00:24,700 --> 01:00:29,210
+The counting argument might only be able to be heard fairly in the case.
+
+602
+01:00:31,281 --> 01:00:36,659
+Sure.
+
+603
+01:00:36,659 --> 01:00:38,927
+Uh, uh, I have not demonstrated that, uh, the counting argument
+
+604
+01:00:38,927 --> 01:00:40,142
+gives the sharpest bond.
+
+605
+01:00:40,142 --> 01:00:48,708
+Uh, it does, but, uh, that's a more complicated argument.
+
+606
+01:01:03,382 --> 01:01:15,189
+I did not write it down, uh, because, um, I had to distinguish between, um, an even
+
+607
+01:01:15,189 --> 01:01:17,181
+number of points and odd number of points.
+
+608
+01:01:23,604 --> 01:01:24,344
+But you're right.
+
+609
+01:01:33,165 --> 01:01:34,266
+Doesn't prove everything.
+
+610
+01:01:41,720 --> 01:01:43,810
+Other questions,
+
+611
+01:01:48,426 --> 01:01:49,227
+other remarks?
+
+612
+01:01:49,227 --> 01:01:51,369
+Yes, sir.
+
+613
+01:01:52,100 --> 01:02:02,110
+And I think strikes me that the arguments what state you selected appropriately.
+
+614
+01:02:02,110 --> 01:02:02,410
+Have, in one way or another, reduced the quote -unquote statement to the problem if
+
+615
+01:02:02,410 --> 01:02:02,759
+Yes.
+
+616
+01:02:02,842 --> 01:02:09,328
+However, um, is there such a thing as somewhat of a hybrid approach such that
+
+617
+01:02:09,328 --> 01:02:15,729
+you can use the, you know, the counting argument approach to at least reduce
+
+618
+01:02:15,729 --> 01:02:19,809
+the state space into something more manageable, and then perhaps approach
+
+619
+01:02:19,809 --> 01:02:21,186
+that the rest of the problem with,
+
+620
+01:02:21,186 --> 01:02:22,450
+A traditional kind of public policy?
+
+621
+01:02:23,469 --> 01:02:23,930
+and.
+
+622
+01:02:30,401 --> 01:02:35,748
+With the counting argument, uh, with, with count counting included, um,
+
+623
+01:02:42,843 --> 01:02:50,669
+you have a state space, uh, um, but instead of it consisting of many bulls,
+
+624
+01:02:50,669 --> 01:02:57,727
+it consists of, uh, much fewer, uh, integer natural numbers as as a rule.
+
+625
+01:03:06,122 --> 01:03:15,689
+the exploration of that state space, uh, can be done, which is in
+
+626
+01:03:15,689 --> 01:03:21,125
+number of variables, much smaller, uh, can profit from the fact that.
+
+627
+01:03:26,603 --> 01:03:30,310
+We can calculate these.
+
+628
+01:03:30,310 --> 01:03:34,110
+There are thes about those intes.
+
+629
+01:03:34,110 --> 01:03:42,529
+For instance, uh, if each element, if each component can
+
+630
+01:03:42,529 --> 01:03:45,190
+be a five different states Yeah.
+
+631
+01:03:45,190 --> 01:03:49,609
+And you count the number of components in the first state and a number of
+
+632
+01:03:49,609 --> 01:03:53,628
+components in the second state, et cetera, you have theum that the sum
+
+633
+01:03:53,628 --> 01:03:58,269
+of those numbers is constant because there's a total number of components.
+
+634
+01:03:58,269 --> 01:04:00,787
+Now that's a very simple conservation rule.
+
+635
+01:04:00,787 --> 01:04:08,650
+Uh, but, uh, uh, there might be also sort transitions from, from here to there.
+
+636
+01:04:08,650 --> 01:04:13,150
+And, uh, you might be able to write down inequalities and, uh, you have the
+
+637
+01:04:13,150 --> 01:04:17,405
+whole, and, and, and that is what makes the, uh, arguments so much shorter.
+
+638
+01:04:21,695 --> 01:04:27,747
+You're still exploring a state space, but do it several auto
+
+639
+01:04:27,747 --> 01:04:28,406
+sort magnitude more effectively.
+
+640
+01:04:31,803 --> 01:04:33,525
+Particularly without explosion.
+
+641
+01:04:42,120 --> 01:04:43,010
+Because, um,
+
+642
+01:04:43,436 --> 01:04:48,146
+it's almost certain that you will use the fact that addition is associative.
+
+643
+01:04:51,262 --> 01:05:01,989
+A plus B plus C equals A plus B inspective of how big A, B, and C are that one of
+
+644
+01:05:01,989 --> 01:05:06,246
+the nice things of the associative of, of, of, of addition holds for all individuals.
+
+645
+01:05:13,165 --> 01:05:13,705
+Yes, sir.
+
+646
+01:05:22,081 --> 01:05:27,107
+Uh, well, I'm not a practical man, of course,
+
+647
+01:05:30,882 --> 01:05:39,968
+uh, I mentioned, uh, uh, an I for the limitations of, uh, model checking.
+
+648
+01:05:41,560 --> 01:05:51,310
+Um, on the other hand, uh, hint that if you look at a number of components and,
+
+649
+01:05:51,310 --> 01:05:55,509
+uh, there's no point in distinguishing between them that in that case,
+
+650
+01:05:55,509 --> 01:05:55,709
+counting is the thing to be done.
+
+651
+01:06:02,064 --> 01:06:04,767
+I find, um,
+
+652
+01:06:10,118 --> 01:06:19,127
+counting arguments, uh, surfacing at, uh, Perhaps our most unexpected
+
+653
+01:06:19,127 --> 01:06:29,007
+places, but, um, in the construction of formal proofs, for instance, um,
+
+654
+01:06:37,224 --> 01:06:46,569
+in the case that, uh, a function f distributes over the minimum
+
+655
+01:06:46,569 --> 01:06:54,208
+that is the F of for the minimum, I take a downward arrow.
+
+656
+01:06:56,102 --> 01:07:05,909
+The f of the minimum of x Y is the minimum of the F of X and the F of Y.
+
+657
+01:07:05,909 --> 01:07:07,266
+This may be given for a function.
+
+658
+01:07:07,266 --> 01:07:10,809
+F Yeah.
+
+659
+01:07:10,809 --> 01:07:16,790
+In that case, F is monotonic.
+
+660
+01:07:16,790 --> 01:07:27,608
+That is X at most Y implies the F of X is at most the F of Y.
+
+661
+01:07:29,900 --> 01:07:31,030
+That's a theory.
+
+662
+01:07:31,030 --> 01:07:39,749
+Now, if you wish to prove this theory, what you really have to do is to
+
+663
+01:07:39,749 --> 01:07:39,949
+start with this bullying expression.
+
+664
+01:07:39,949 --> 01:07:46,069
+And by consecutive weakening, you have to construct this one, or
+
+665
+01:07:46,069 --> 01:07:46,269
+you start it the other way, right?
+
+666
+01:07:46,269 --> 01:07:50,310
+You start with your, uh, demonst strand.
+
+667
+01:07:50,310 --> 01:07:56,549
+FX is at most f y and by possibly strengthening it, you have to
+
+668
+01:07:56,549 --> 01:08:02,989
+transform it into, um, x less than y.
+
+669
+01:08:02,989 --> 01:08:08,529
+Now, if you look at, forget about these parentheses, I mean, that,
+
+670
+01:08:08,529 --> 01:08:08,729
+that was, that was a mistake.
+
+671
+01:08:12,023 --> 01:08:14,326
+F of X at most.
+
+672
+01:08:14,326 --> 01:08:25,330
+The F of Y follows from X at most to Y.
+
+673
+01:08:25,330 --> 01:08:28,729
+Now you start here and you have to end up there.
+
+674
+01:08:28,729 --> 01:08:28,929
+Yeah.
+
+675
+01:08:28,929 --> 01:08:32,567
+The only thing you have to do is to get rid of those two F applications.
+
+676
+01:08:35,943 --> 01:08:41,329
+So in terms of number of symbols occurring in your expression,
+
+677
+01:08:41,329 --> 01:08:45,888
+you have to find a transformation that removes two F applications.
+
+678
+01:08:51,984 --> 01:08:55,329
+You have to use this one.
+
+679
+01:08:55,329 --> 01:08:57,187
+Because that's, that's given and that's essential.
+
+680
+01:08:58,760 --> 01:09:01,290
+Well, that occurs the has a downward arrow.
+
+681
+01:09:01,290 --> 01:09:05,307
+You can only use it if you introduce the Dan Gero at least once.
+
+682
+01:09:07,323 --> 01:09:13,509
+So downward arrows have to, uh, enter the game somehow.
+
+683
+01:09:13,509 --> 01:09:16,166
+Any downward arrow that has been introduced has to be removed again,
+
+684
+01:09:16,166 --> 01:09:19,166
+because in the final form it does.
+
+685
+01:09:24,540 --> 01:09:27,150
+And, uh, you can just, it's almost like balancing a checkbook.
+
+686
+01:09:31,602 --> 01:09:42,430
+Yeah, it's quite clear that, um, this formula all by itself will
+
+687
+01:09:42,430 --> 01:09:42,803
+never remove the last F application.
+
+688
+01:09:44,282 --> 01:09:52,333
+You see, you have to get rid of two F applications, but, uh, well, this can
+
+689
+01:09:52,333 --> 01:09:59,169
+only, this equates an expression with two F applications to an expression with one
+
+690
+01:09:59,169 --> 01:10:01,770
+F application, so you can get rid of one.
+
+691
+01:10:01,770 --> 01:10:06,009
+However, f occurs at both sides of the equality, and therefore
+
+692
+01:10:06,009 --> 01:10:06,209
+you can never get rid of the last.
+
+693
+01:10:09,184 --> 01:10:12,329
+By rewrite rule.
+
+694
+01:10:12,329 --> 01:10:20,330
+So just counting the number of symbols, the change that, the
+
+695
+01:10:20,330 --> 01:10:21,545
+changes that have to be made, um,
+
+696
+01:10:27,120 --> 01:10:31,905
+will lead you to the proof.
+
+697
+01:10:43,122 --> 01:10:56,530
+I used that, uh, to prove two theorems, uh, from, uh, a book by Alfred Turski
+
+698
+01:10:56,530 --> 01:11:01,568
+on Logic two theorems from group theory, which he included in his
+
+699
+01:11:01,568 --> 01:11:06,009
+book as more complicated examples.
+
+700
+01:11:06,009 --> 01:11:16,770
+Just by using, uh, discounting technique, uh, I proved a simpler example and his
+
+701
+01:11:16,770 --> 01:11:18,205
+more complicated example, I even came up with a simpler proof than, uh, Takis.
+
+702
+01:11:25,382 --> 01:11:32,589
+No, uh, perhaps you don't think is important that Tusi has already proved it.
+
+703
+01:11:32,589 --> 01:11:33,066
+Uh, why come up with a shorter proof?
+
+704
+01:11:34,780 --> 01:11:46,548
+Um, well, to say the honest truth, uh, in the combination of theory and proof,
+
+705
+01:11:46,548 --> 01:11:54,408
+um, I usually think the proof of greater cultural significance than the theory.
+
+706
+01:11:57,442 --> 01:12:03,488
+It's totally fantastic if you realize that, uh, several centuries before
+
+707
+01:12:03,488 --> 01:12:13,010
+Christ, uh, Euclid and his friends took the trouble of proving that the
+
+708
+01:12:13,010 --> 01:12:16,866
+number of prime numbers, a number of primes was unlimited before
+
+709
+01:12:16,866 --> 01:12:20,444
+they knew that, uh, I mean, there were enough primes for their needs.
+
+710
+01:12:20,444 --> 01:12:24,146
+But they took the problem.
+
+711
+01:12:24,146 --> 01:12:35,890
+They, they took the trouble to show with a beautiful argument that there
+
+712
+01:12:35,890 --> 01:12:42,828
+was shining gem from antiquity, that a number of primes is unbounded you.
+
+713
+01:12:45,224 --> 01:12:48,448
+And it's my private definition of a reusable theorum.
+
+714
+01:12:48,448 --> 01:12:51,766
+It's a theorem that can be proved over and over again.
+
+715
+01:12:59,264 --> 01:12:59,925
+Yes sir.
+
+716
+01:13:00,410 --> 01:13:02,630
+You're a pathologist. You
+
+717
+01:13:02,630 --> 01:13:07,110
+Example to all have symmetry and when you found the cemetery, you
+
+718
+01:13:07,110 --> 01:13:09,590
+were able to recount the argument.
+
+719
+01:13:09,860 --> 01:13:13,870
+Is that mathematically rigorous and you find the
+
+720
+01:13:16,260 --> 01:13:19,310
+No. The rule of argument by the order of the symmetry.
+
+721
+01:13:23,200 --> 01:13:24,110
+No.
+
+722
+01:13:24,254 --> 01:13:32,566
+It is a time, almost rule of thumb, never destroy symmetry lightly.
+
+723
+01:13:34,364 --> 01:13:37,648
+Sometimes you have to
+
+724
+01:13:38,824 --> 01:13:40,865
+never destroy symmetry lightly.
+
+725
+01:13:46,762 --> 01:13:56,430
+And there there is that terrible thing if all traffic.
+
+726
+01:13:56,430 --> 01:13:59,310
+Keeps one side of the road.
+
+727
+01:13:59,310 --> 01:14:01,628
+If every everybody keeps the right side of the road, then
+
+728
+01:14:01,628 --> 01:14:01,828
+oncoming traffic doesn't clash.
+
+729
+01:14:01,828 --> 01:14:08,147
+If everybody takes the left hand side of the road, it's okay as well.
+
+730
+01:14:10,203 --> 01:14:17,169
+So we end up with a world in which half, half of the traffic has made
+
+731
+01:14:17,169 --> 01:14:19,149
+one choice and part of it has.
+
+732
+01:14:22,563 --> 01:14:30,208
+the fact that we do not have a good notation for the unordered pair
+
+733
+01:14:37,743 --> 01:14:42,930
+may force us
+
+734
+01:14:42,930 --> 01:14:45,682
+to quite arbitrarily introduce the one versus the other.
+
+735
+01:14:51,147 --> 01:14:52,030
+Tremendous news.
+
+736
+01:14:52,030 --> 01:14:53,124
+We do not have them.
+
+737
+01:15:06,064 --> 01:15:07,406
+Shall we call the long Tuesday?
+
+738
+01:15:08,920 --> 01:15:09,650
+Yeah.
+
+739
+01:15:11,155 --> 01:15:12,240
+Thank you for your attention.
+

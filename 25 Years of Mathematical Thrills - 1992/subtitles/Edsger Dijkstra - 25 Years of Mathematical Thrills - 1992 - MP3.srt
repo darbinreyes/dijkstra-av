@@ -1,0 +1,2268 @@
+1
+00:00:05,054 --> 00:00:08,639
+Ladies, gentlemen, welcome.
+
+2
+00:00:08,639 --> 00:00:17,500
+Because this was a Jubilee meeting, uh, celebrating a 25th anniversary.
+
+3
+00:00:17,500 --> 00:00:24,260
+I took liberty for my second talk to look back in what I know best,
+
+4
+00:00:24,260 --> 00:00:29,376
+that is my own life, and to look at what has thrilled me mathematically.
+
+5
+00:00:29,376 --> 00:00:33,958
+Uh, and as a matter of fact, I even take the liberty of going a little
+
+6
+00:00:33,958 --> 00:00:35,733
+bit more back than just 25 years.
+
+7
+00:00:37,371 --> 00:00:45,379
+Um, it'll be somewhat of a pot, uh, the extent to which you can,
+
+8
+00:00:45,379 --> 00:00:48,337
+uh, discover a common thread in it.
+
+9
+00:00:48,337 --> 00:00:48,537
+Well, that's left to you.
+
+10
+00:00:51,212 --> 00:01:03,280
+My first memory of mathematical excitement must have been in somewhere in.
+
+11
+00:01:03,280 --> 00:01:06,820
+1938 or so, uh, as it was at the, at the age that my mother
+
+12
+00:01:06,820 --> 00:01:10,920
+was giving me a hot bath.
+
+13
+00:01:10,920 --> 00:01:16,518
+And I remember that I was a very puzzled and annoyed by the fact that I could
+
+14
+00:01:16,518 --> 00:01:25,319
+not determine the ratio of the sides of a rectangular piece of paper so that
+
+15
+00:01:25,319 --> 00:01:28,255
+when you folded it just once, that you would get a thing of the same shape.
+
+16
+00:01:30,132 --> 00:01:35,360
+And I couldn't do this.
+
+17
+00:01:35,360 --> 00:01:37,137
+I knew that that ratio had to be somewhere between one and two
+
+18
+00:01:37,137 --> 00:01:41,379
+obviously, and it had to be symmetrical.
+
+19
+00:01:41,379 --> 00:01:47,149
+And, but the only hint that I got from that symmetry was a ratio one and a half.
+
+20
+00:01:47,149 --> 00:01:51,117
+And each time that I got one and a half, I multiplied it by itself.
+
+21
+00:01:51,117 --> 00:01:55,240
+And then I go more than two.
+
+22
+00:01:55,240 --> 00:01:59,627
+And I knew I had to have two because I was just folding the paper.
+
+23
+00:01:59,627 --> 00:02:09,660
+And I was very annoyed, uh, until my mother explained to me that this check
+
+24
+00:02:09,660 --> 00:02:12,475
+that told me that one and a half was wrong was a way of finding the answer.
+
+25
+00:02:12,475 --> 00:02:17,538
+And that essentially you had to solve the equation X squared two.
+
+26
+00:02:21,552 --> 00:02:27,718
+Um, while she didn't use those terms, of course, since we
+
+27
+00:02:27,718 --> 00:02:30,680
+were in the bathroom, but, and.
+
+28
+00:02:30,884 --> 00:02:36,231
+We didn't even, we didn't have pencil, paper, not even a piece of paper to fold.
+
+29
+00:02:36,231 --> 00:02:39,300
+We, I dunno, maybe she has used a towel, I dunno.
+
+30
+00:02:39,300 --> 00:02:46,158
+But I still remember my excitement that, uh, by posing the condition,
+
+31
+00:02:46,158 --> 00:02:53,358
+that number multiplied by itself would have a given product was a way of
+
+32
+00:02:53,358 --> 00:02:55,654
+defining a number first excitement.
+
+33
+00:02:58,393 --> 00:03:02,777
+Second excitement, I think was about 10 years later, five years later.
+
+34
+00:03:02,777 --> 00:03:18,259
+Uh, and that was when I was confronted with a well known argument that the
+
+35
+00:03:18,259 --> 00:03:25,240
+eight by eight square truncated at the end of the diagonal that has still
+
+36
+00:03:25,240 --> 00:03:29,757
+62 little squares, that this cannot be covered by 31, 2 by one dominoes.
+
+37
+00:03:32,431 --> 00:03:43,339
+Uh, particularly if you try to demonstrate the impossibility by trying all possible
+
+38
+00:03:43,339 --> 00:03:51,039
+ways and observing that none of them works, then uh, you quickly come very
+
+39
+00:03:51,039 --> 00:03:55,200
+much impressed by the power of the counting argument and the counting
+
+40
+00:03:55,200 --> 00:03:56,494
+argument is that indeed you should color.
+
+41
+00:03:56,494 --> 00:04:04,739
+As a, as a chess board, realize that first of all, no matter how you place
+
+42
+00:04:04,739 --> 00:04:12,299
+your dominoes, uh, they cover an equal number of white and black fields.
+
+43
+00:04:12,299 --> 00:04:18,059
+However, the two fields removed have the same color, so in the, the figure that
+
+44
+00:04:18,059 --> 00:04:22,779
+has to be covered there, the two colors don't balance and you can't cover them.
+
+45
+00:04:22,779 --> 00:04:26,899
+I was very much impressed by that counting argument.
+
+46
+00:04:26,899 --> 00:04:30,697
+That was about 43 or so.
+
+47
+00:04:34,432 --> 00:04:40,757
+I'm making five year jumps because now I am in 1948
+
+48
+00:04:47,371 --> 00:04:54,637
+and eight times B minus C plus B.
+
+49
+00:04:55,423 --> 00:05:12,258
+Times C minus A plus C times, uh, A minus B under all standard properties of
+
+50
+00:05:12,258 --> 00:05:15,395
+multiplication, addition and subtraction.
+
+51
+00:05:15,395 --> 00:05:15,711
+What is the answer?
+
+52
+00:05:19,944 --> 00:05:21,666
+Yes, thank you.
+
+53
+00:05:26,252 --> 00:05:37,500
+A number of years earlier, I have been shown the proof that the
+
+54
+00:05:37,500 --> 00:05:38,094
+altitudes of a triangle are colon.
+
+55
+00:05:41,033 --> 00:05:44,677
+And the argument is this, it's an ugly, very ugly argument.
+
+56
+00:05:44,677 --> 00:05:49,397
+You see, uh, here we have A, B, and C and we have an altitude,
+
+57
+00:05:51,934 --> 00:05:53,816
+and now we make another altitude.
+
+58
+00:06:03,694 --> 00:06:05,877
+Now call this.
+
+59
+00:06:05,877 --> 00:06:06,480
+Bless you.
+
+60
+00:06:10,331 --> 00:06:24,840
+Um, now, A C O B C is AC over b c, but both multiplied by the
+
+61
+00:06:24,840 --> 00:06:25,717
+cosign of Gama, which we have here,
+
+62
+00:06:29,473 --> 00:06:33,438
+and AC multiplied by the cosign.
+
+63
+00:06:33,490 --> 00:06:37,560
+GAMA is DC and the other one is EC.
+
+64
+00:06:39,273 --> 00:06:40,154
+In short.
+
+65
+00:06:44,698 --> 00:06:45,380
+Triangle.
+
+66
+00:06:45,380 --> 00:06:54,198
+A c b is similar with dca and hence we have here a corner better and there com
+
+67
+00:06:54,198 --> 00:07:00,778
+an an angle alpha similarity of triangles.
+
+68
+00:07:00,778 --> 00:07:07,697
+Uh, here you do it with the last one and for the same reason,
+
+69
+00:07:07,697 --> 00:07:10,357
+you will derive that, um,
+
+70
+00:07:10,357 --> 00:07:14,860
+this angle is better.
+
+71
+00:07:14,860 --> 00:07:22,816
+Hence, the altitudes of the big triangle are the angle by sectors of the small one.
+
+72
+00:07:22,816 --> 00:07:36,720
+The altitudes of ABC are the angled by sectors of, uh, f
+
+73
+00:07:40,734 --> 00:07:45,019
+Go through a single point that's trivial.
+
+74
+00:07:45,019 --> 00:07:49,020
+If you define them as, uh, the, uh, locus of points with equal
+
+75
+00:07:49,106 --> 00:07:53,354
+distance from the sides of the angle and hands, the altitudes of
+
+76
+00:07:53,354 --> 00:08:01,059
+a, um, triangle go to one point.
+
+77
+00:08:01,059 --> 00:08:01,259
+Now this is a very ugly proof.
+
+78
+00:08:01,259 --> 00:08:04,019
+It's, it's very indirect.
+
+79
+00:08:04,019 --> 00:08:09,340
+And moreover, if you really wish to prove it, of course, uh, you should
+
+80
+00:08:09,340 --> 00:08:14,396
+also, uh, analyze that all this is okay for an, uh, triangle with anuses angle.
+
+81
+00:08:17,332 --> 00:08:23,199
+And I would like you to appreciate that.
+
+82
+00:08:23,199 --> 00:08:33,100
+Uh, for a non degenerate, for a non degenerate triangle, uh, this is
+
+83
+00:08:33,100 --> 00:08:36,960
+a proof of the fact that, uh, the.
+
+84
+00:08:36,960 --> 00:08:50,099
+You see here we have an origin and this is vector A, and this is vector B, and
+
+85
+00:08:50,099 --> 00:08:50,299
+Altitudes go through one point.
+
+86
+00:08:50,299 --> 00:09:02,819
+this is factor C, and therefore, uh, this is A minus B, and this one is B minus C.
+
+87
+00:09:02,819 --> 00:09:04,634
+And uh, this one is C minus A.
+
+88
+00:09:05,330 --> 00:09:06,980
+What is it?
+
+89
+00:09:13,170 --> 00:09:14,280
+or plus or minus, doesn't matter.
+
+90
+00:09:17,073 --> 00:09:26,200
+The fact that the sum of these three quantities is zero tells us that if two
+
+91
+00:09:26,200 --> 00:09:26,814
+of these values are zero, so is the.
+
+92
+00:09:30,063 --> 00:09:34,288
+Now interpret these, uh, a, b, and C as, uh, factors.
+
+93
+00:09:34,288 --> 00:09:42,350
+Uh, the addition and subtraction is normal factor, addition and subtraction.
+
+94
+00:09:42,350 --> 00:09:45,687
+And for the, uh, multiplication, we take the scale of products, which has all the
+
+95
+00:09:45,975 --> 00:09:52,689
+distribution and, um, symmetry properties.
+
+96
+00:09:52,689 --> 00:09:58,310
+And therefore, if one, if two of these terms are zero, the third is zero.
+
+97
+00:09:58,310 --> 00:10:02,327
+That is if two of these factors are, uh, orthogonal
+
+98
+00:10:05,523 --> 00:10:08,227
+to the opposite side, so is the third.
+
+99
+00:10:08,227 --> 00:10:21,509
+I was very thrilled when I saw this simple calculational arguments that
+
+100
+00:10:21,509 --> 00:10:26,225
+the altitudes of a triangle, Go to a single point and leave that.
+
+101
+00:10:32,722 --> 00:10:43,370
+Now the steps become a little bit smore because my next thrill I had
+
+102
+00:10:43,370 --> 00:10:50,908
+in 1951, and I'm glad to report it here, not only because I got the
+
+103
+00:10:50,908 --> 00:10:52,250
+thrill in Cambridge, but even worse.
+
+104
+00:10:52,250 --> 00:11:07,270
+So because the author of the Thrill is in my audience and one
+
+105
+00:11:07,270 --> 00:11:16,510
+of the annoyances of my high school years was that I had
+
+106
+00:11:16,510 --> 00:11:16,710
+several tables of lu rhythms.
+
+107
+00:11:16,710 --> 00:11:19,565
+I had even an old.
+
+108
+00:11:19,565 --> 00:11:27,308
+Very thick, high precision one, which had been heritages,
+
+109
+00:11:28,340 --> 00:11:37,810
+And I had played lots with it, and I knew what, what, how you could use,
+
+110
+00:11:46,162 --> 00:11:51,528
+several centuries earlier those logarithmic tables had been computed.
+
+111
+00:11:53,442 --> 00:12:05,570
+The rumor was that, uh, people knew that the log of one, loss of zero and uh,
+
+112
+00:12:05,570 --> 00:12:10,728
+algorithm of 10 was one, and hence the log of the square root of 10 was five.
+
+113
+00:12:13,063 --> 00:12:22,329
+And so, Yeah, anti logo rhythms was a term that, and the suggestion was
+
+114
+00:12:22,329 --> 00:12:32,209
+that by repeated ex computations of square roots numbers with known
+
+115
+00:12:32,209 --> 00:12:34,189
+logo rhythms had been computed.
+
+116
+00:12:34,189 --> 00:12:38,689
+And that as a result from with interpolation, the logarithmic
+
+117
+00:12:38,689 --> 00:12:43,605
+tables have been formed, uh, to the best of my knowledge.
+
+118
+00:12:43,605 --> 00:12:51,149
+Now that humor, that that rumor is correct, and
+
+119
+00:12:54,722 --> 00:13:04,729
+I knew how to compute square roots with pencil and paper, and it was
+
+120
+00:13:04,729 --> 00:13:04,929
+a process that I didn't like at.
+
+121
+00:13:04,929 --> 00:13:15,790
+Uh, I realized that if you were going to do this, your life, that you would
+
+122
+00:13:15,790 --> 00:13:20,890
+get a certain proficiency in it, but, uh, it sounded most unattractive.
+
+123
+00:13:20,890 --> 00:13:31,350
+And then, uh, in King Cambridge where I was introduced to programming, uh,
+
+124
+00:13:31,350 --> 00:13:34,287
+there was a lovely little booklet and that lovely little booklet, um,
+
+125
+00:13:34,287 --> 00:13:40,229
+also contained a number of sub teams.
+
+126
+00:13:40,229 --> 00:13:46,333
+And as a matter of fact, it contained two separate teams to compute the logo rhythm.
+
+127
+00:13:46,333 --> 00:13:53,809
+Low and behold, here, here was an algorithm using multiplication and very
+
+128
+00:13:53,809 --> 00:14:00,187
+modest things of forever only, um, that just could compute an isolated algorithm.
+
+129
+00:14:00,187 --> 00:14:08,390
+And I looked and I was very excited and I will share it to you in decimal.
+
+130
+00:14:08,390 --> 00:14:13,070
+Although the adec being the adec that it was, it did of course,
+
+131
+00:14:13,070 --> 00:14:13,270
+in binary, which has fr from the,
+
+132
+00:14:18,384 --> 00:14:23,010
+what do we know of the algorithm?
+
+133
+00:14:23,010 --> 00:14:31,669
+The decimal algorithm of a number or the integer part, you see because, uh, from
+
+134
+00:14:31,669 --> 00:14:37,449
+here till there, the algorithm start with zero something and from 10 to uh, a
+
+135
+00:14:37,449 --> 00:14:41,270
+hundred, they start with one or something.
+
+136
+00:14:41,270 --> 00:14:43,267
+And from 102,000 it is two or something.
+
+137
+00:14:43,267 --> 00:14:47,488
+And then it's three or something.
+
+138
+00:14:47,488 --> 00:14:51,269
+That is.
+
+139
+00:14:52,544 --> 00:15:00,610
+For a number less than 10 to the 10th, we see the leading
+
+140
+00:15:00,610 --> 00:15:01,023
+digit of the logo at a glance.
+
+141
+00:15:03,083 --> 00:15:08,568
+Now, suppose that we wish to compute an arbitrary logo of two,
+
+142
+00:15:08,568 --> 00:15:10,007
+which to compute logo two too.
+
+143
+00:15:18,064 --> 00:15:22,027
+the look of two, well start with zero,
+
+144
+00:15:24,945 --> 00:15:28,550
+abc, et cetera.
+
+145
+00:15:28,550 --> 00:15:30,365
+Now everybody who has ever
+
+146
+00:15:33,899 --> 00:15:39,208
+programmed for a binary machine on a level at which you needed to
+
+147
+00:15:39,208 --> 00:15:49,510
+And wanted to write a routine that given the binary representation of a
+
+148
+00:15:49,510 --> 00:15:49,710
+know that it was a binary machine.
+
+149
+00:15:49,710 --> 00:15:52,366
+fraction, would give you the decimal representation of that function.
+
+150
+00:15:52,366 --> 00:15:55,927
+He knows how, how to compute ditches, a, B, C in succession.
+
+151
+00:15:55,927 --> 00:16:04,449
+You see a is quite simply the , the first digit.
+
+152
+00:16:04,449 --> 00:16:10,210
+If this number is X, uh, then the first digit behind the comma
+
+153
+00:16:10,210 --> 00:16:10,410
+Yeah.
+
+154
+00:16:10,410 --> 00:16:10,870
+is, uh, the che of 10 times X.
+
+155
+00:16:13,962 --> 00:16:24,048
+So in order to, um, we define that a, that we are looking for as the che of
+
+156
+00:16:24,048 --> 00:16:36,750
+10 times the of two, but that is clearly the che of the, of two to the 10th.
+
+157
+00:16:36,750 --> 00:16:44,190
+But that we can compute it is the NTA of the log rhythm of thousand 24.
+
+158
+00:16:44,190 --> 00:16:52,189
+And since started 24 is in, uh, that range start has four digits before comma.
+
+159
+00:17:00,483 --> 00:17:07,402
+So, uh, and then, then you remove that and, and ask your question, what
+
+160
+00:17:07,402 --> 00:17:14,069
+is the b Well, in the meantime, the removal of the three, now you have to
+
+161
+00:17:14,069 --> 00:17:16,665
+raise one comma, zero to four to the nth power, and then you'll discover
+
+162
+00:17:16,665 --> 00:17:18,890
+that you are, uh, still under 10.
+
+163
+00:17:18,890 --> 00:17:20,041
+So it is zero.
+
+164
+00:17:21,423 --> 00:17:26,810
+And that number again, you raised to the 10th power, and then you
+
+165
+00:17:26,810 --> 00:17:27,010
+discovered that you were just above 10.
+
+166
+00:17:27,010 --> 00:17:33,810
+And the decimals of longer than 2, 3, 0.
+
+167
+00:17:33,810 --> 00:17:37,720
+1 0 2, they come out of it, one for the others.
+
+168
+00:17:37,720 --> 00:17:37,920
+0, 0, 0, 0,
+
+169
+00:17:39,388 --> 00:17:39,910
+Lovely.
+
+170
+00:17:39,960 --> 00:17:40,570
+Lovely enough.
+
+171
+00:17:40,570 --> 00:17:48,528
+Uh, now David Wheeler is the offer of this routine only.
+
+172
+00:17:50,182 --> 00:17:58,168
+Wherever I said two 10, we should replace it by two great excitement,
+
+173
+00:18:00,700 --> 00:18:02,030
+1951.
+
+174
+00:18:03,322 --> 00:18:07,267
+Uh, the next excitement
+
+175
+00:18:11,719 --> 00:18:19,430
+is a story that has been attributed, rightly or wrongly,
+
+176
+00:18:19,430 --> 00:18:21,070
+to the late standard build
+
+177
+00:18:25,683 --> 00:18:30,728
+and good old Euclids algorithm.
+
+178
+00:18:30,728 --> 00:18:39,188
+Here we have X, at least greater than zero, and capital Y, greater than zero.
+
+179
+00:18:39,188 --> 00:18:39,388
+Yeah.
+
+180
+00:18:45,142 --> 00:18:53,768
+And our algorithm is the following X, Y becomes capital X, comma capital Y.
+
+181
+00:18:53,768 --> 00:19:05,850
+And uh, in doing so, we establish that the greatest common device of
+
+182
+00:19:05,850 --> 00:19:10,248
+X comma Y equals the greatest common device of the local lower case,
+
+183
+00:19:10,248 --> 00:19:13,650
+The lowercase x, comma,
+
+184
+00:19:13,650 --> 00:19:16,205
+Y and X, positive and y positive,
+
+185
+00:19:20,303 --> 00:19:26,409
+a relation that will be maintained by the following program.
+
+186
+00:19:26,409 --> 00:19:29,687
+Well, I leave some room do.
+
+187
+00:19:30,754 --> 00:19:43,150
+If X exceeds Y, then X will be decreased by Y.
+
+188
+00:19:43,150 --> 00:19:52,086
+Alternatively, if Y exceeds X, then Y is decreased by X.
+
+189
+00:19:52,086 --> 00:19:58,447
+These tests are guarantee that little X and little Y remain positive.
+
+190
+00:19:58,447 --> 00:20:01,866
+The sum decreases.
+
+191
+00:20:04,663 --> 00:20:10,390
+Therefore, the the program terminates when it terminates.
+
+192
+00:20:10,390 --> 00:20:13,305
+Both currents are false, so X is at most Y and Y is at most.
+
+193
+00:20:13,305 --> 00:20:17,068
+X is X and Y are equal.
+
+194
+00:20:17,068 --> 00:20:20,908
+And if X and Y are equal, then we know that the.
+
+195
+00:20:20,908 --> 00:20:26,670
+Their greatest common device is, yeah, what is it?
+
+196
+00:20:26,670 --> 00:20:26,870
+X or Y?
+
+197
+00:20:26,870 --> 00:20:29,249
+You print it?
+
+198
+00:20:34,623 --> 00:20:41,743
+Well, since I can't make up my mind whether to print X or to
+
+199
+00:20:41,743 --> 00:20:41,943
+print.
+
+200
+00:20:41,943 --> 00:20:42,143
+print y I will print the average
+
+201
+00:20:46,582 --> 00:20:51,488
+No, after the age of eight, of course I could have printed
+
+202
+00:20:51,488 --> 00:20:53,608
+the square root of the product.
+
+203
+00:20:53,608 --> 00:20:56,170
+But uh, this is actually see a purely additive program.
+
+204
+00:20:56,170 --> 00:20:59,690
+So I had that print here.
+
+205
+00:20:59,690 --> 00:20:59,890
+The product, it would overflow and even marketing.
+
+206
+00:21:00,002 --> 00:21:03,326
+Put the product with overflow and even markings.
+
+207
+00:21:03,326 --> 00:21:10,370
+Oh yeah, . Yeah, yeah, yeah.
+
+208
+00:21:10,370 --> 00:21:11,110
+Okay.
+
+209
+00:21:12,283 --> 00:21:17,128
+Now I'm going to embellish this program according tostan.
+
+210
+00:21:18,022 --> 00:21:25,949
+Gil, you see I introduced two new variables, you and fee, and
+
+211
+00:21:25,949 --> 00:21:26,149
+they have to be initialized.
+
+212
+00:21:26,149 --> 00:21:31,748
+And in order not to destroy the symmetry, I will initialize them
+
+213
+00:21:31,748 --> 00:21:32,662
+with capital X and capital Y.
+
+214
+00:21:36,022 --> 00:21:45,989
+Having done so, we shall do something with you and V and in order to make
+
+215
+00:21:45,989 --> 00:21:49,590
+it nice, you say you becomes U plus V.
+
+216
+00:21:49,590 --> 00:21:57,810
+And of course, in order not to destroy the symmetry, we will
+
+217
+00:21:57,810 --> 00:21:58,010
+V becomes V plus you zero.
+
+218
+00:22:00,204 --> 00:22:03,709
+So that is nice.
+
+219
+00:22:03,709 --> 00:22:03,926
+And of course we have to print something.
+
+220
+00:22:03,926 --> 00:22:06,006
+What shall we print?
+
+221
+00:22:08,684 --> 00:22:12,129
+There's no point in computing uv.
+
+222
+00:22:12,129 --> 00:22:17,950
+If we don't print something, what do we print?
+
+223
+00:22:17,950 --> 00:22:20,427
+Average, of course you have dull that you don't guess this.
+
+224
+00:22:32,736 --> 00:22:37,424
+you may wonder, of course, where the, uh, UUs fee is even.
+
+225
+00:22:37,424 --> 00:22:37,624
+Now
+
+226
+00:22:37,710 --> 00:22:38,010
+Whether u plus v
+
+227
+00:22:39,340 --> 00:22:42,070
+It so happens that UUs fee is even.
+
+228
+00:22:42,283 --> 00:22:47,588
+So this does not give out all sorts of difficulties with, uh, truncation
+
+229
+00:22:47,588 --> 00:22:49,110
+or round offer, what have you.
+
+230
+00:22:49,623 --> 00:22:54,267
+Question is what, what number is printed here?
+
+231
+00:22:55,360 --> 00:23:05,488
+Yeah, no, this is the greatest common device of capital X and Y and this prints
+
+232
+00:23:05,488 --> 00:23:11,710
+the smallest common multiple of x and y.
+
+233
+00:23:11,710 --> 00:23:12,404
+In that's charming.
+
+234
+00:23:12,404 --> 00:23:20,570
+Uh, now the argument that, that it does, so I think
+
+235
+00:23:24,582 --> 00:23:32,569
+little you and little V satisfy the following in variance.
+
+236
+00:23:32,569 --> 00:23:37,627
+Two times x times Y equals
+
+237
+00:23:37,627 --> 00:23:44,905
+X times v plus Y times u.
+
+238
+00:23:49,323 --> 00:23:55,369
+That's clearly true upon nationalization when this term becomes
+
+239
+00:23:55,369 --> 00:23:55,569
+x y and this term becomes x, y.
+
+240
+00:23:58,363 --> 00:24:04,550
+Furthermore, it remains in variance during such an assignment.
+
+241
+00:24:04,550 --> 00:24:09,969
+You see, because in this assignment, when X is decreased by Y, this
+
+242
+00:24:09,969 --> 00:24:13,330
+term changes by minus y times fee.
+
+243
+00:24:13,330 --> 00:24:21,009
+But when you is increased by fee, this term changes by plus y times fee.
+
+244
+00:24:21,009 --> 00:24:26,670
+And therefore, the right hand side does not change its value.
+
+245
+00:24:26,670 --> 00:24:27,767
+And of course, for the other alternative, similarly,
+
+246
+00:24:36,734 --> 00:24:46,089
+now upon completion, both X and both Y are equal to the greatest common advisor.
+
+247
+00:24:46,089 --> 00:24:47,868
+Divide both sides by it.
+
+248
+00:24:47,868 --> 00:24:55,689
+And you find that two x y over uh, The greatest common define
+
+249
+00:24:55,689 --> 00:25:00,148
+of x and Y is, uh, u plus fee.
+
+250
+00:25:02,483 --> 00:25:04,727
+But this is divided by two.
+
+251
+00:25:04,727 --> 00:25:10,748
+But the product divided by the greatest common device is the
+
+252
+00:25:10,748 --> 00:25:11,450
+small common multiple of effects.
+
+253
+00:25:14,824 --> 00:25:15,625
+So there we are
+
+254
+00:25:18,500 --> 00:25:20,070
+now.
+
+255
+00:25:23,464 --> 00:25:27,088
+It was this totally lodgement
+
+256
+00:25:27,088 --> 00:25:35,948
+that, uh, gave me a great thrill.
+
+257
+00:25:35,948 --> 00:25:49,389
+if anybody doubts about the power of the notion of an ovarian,
+
+258
+00:25:50,604 --> 00:25:54,409
+Improving things about programs.
+
+259
+00:25:54,409 --> 00:25:56,446
+Uh, you should show this example to him.
+
+260
+00:25:56,446 --> 00:26:03,610
+This is absolutely the
+
+261
+00:26:03,610 --> 00:26:07,345
+simplest way of, as a matter of fact, I would know of no other way,
+
+262
+00:26:07,345 --> 00:26:15,507
+uh, to demonstrate that, uh, upon completion, uh, u plus fee over
+
+263
+00:26:15,507 --> 00:26:19,006
+two is the smallest common amount.
+
+264
+00:26:21,984 --> 00:26:23,927
+I can't precisely date that
+
+265
+00:26:30,900 --> 00:26:32,190
+start out with zero.
+
+266
+00:26:32,190 --> 00:26:35,729
+The d for 0, then
+
+267
+00:26:35,729 --> 00:26:35,929
+And you don't have to buy by two, right?
+
+268
+00:26:35,929 --> 00:26:42,807
+Uh, I never do that because if one of the, uh, numbers is zero, then
+
+269
+00:26:44,260 --> 00:26:51,770
+um, I mean, instead of saying equal x plus that equal to x zero, then the
+
+270
+00:26:52,760 --> 00:26:57,290
+variant comes x, Y equals uh, yes.
+
+271
+00:26:57,290 --> 00:26:57,490
+Yes.
+
+272
+00:26:59,194 --> 00:27:03,465
+But that would destroy the beautiful cemetery.
+
+273
+00:27:06,424 --> 00:27:08,767
+We never do that.
+
+274
+00:27:08,767 --> 00:27:08,967
+Never do that.
+
+275
+00:27:10,441 --> 00:27:16,449
+Not to the last man.
+
+276
+00:27:18,683 --> 00:27:25,469
+Well, I wished that I had a symmetric way of writing u plus fee.
+
+277
+00:27:25,469 --> 00:27:26,968
+Yeah.
+
+278
+00:27:26,968 --> 00:27:29,987
+But I had a symmetric way of writing down an unordered pair.
+
+279
+00:27:32,400 --> 00:27:33,270
+Okay.
+
+280
+00:27:35,343 --> 00:27:38,306
+Now I'm, now I'm going to make a great jump.
+
+281
+00:27:39,760 --> 00:27:47,308
+Uh, Types of arguments that, that excite me, that thrill me.
+
+282
+00:27:47,308 --> 00:28:02,089
+Um, I'm considering couples, men and wife, husband and wife, contrary to dawn, who
+
+283
+00:28:02,089 --> 00:28:05,049
+was this morning, forming those couples.
+
+284
+00:28:05,049 --> 00:28:12,449
+Uh, I am now considering existing couples, uh, a finite, non empty member number.
+
+285
+00:28:12,449 --> 00:28:12,649
+So couples,
+
+286
+00:28:16,501 --> 00:28:22,507
+I allow myself a single.
+
+287
+00:28:25,825 --> 00:28:29,770
+Linguistic liberty.
+
+288
+00:28:29,770 --> 00:28:35,628
+Uh, this morning we heard about stable husbands, although something was
+
+289
+00:28:35,628 --> 00:28:41,344
+In this building, there are such things as disabled toilets.
+
+290
+00:28:41,344 --> 00:28:41,544
+really something else that was stable.
+
+291
+00:28:41,544 --> 00:28:46,487
+Um, I'm going to talk about male age and female age.
+
+292
+00:28:49,200 --> 00:28:49,630
+Okay.
+
+293
+00:28:50,283 --> 00:28:53,126
+The given thing is r sorry.
+
+294
+00:28:57,540 --> 00:29:00,510
+k, sorry.
+
+295
+00:29:02,022 --> 00:29:09,047
+The maximum male age equals the maximum
+
+296
+00:29:09,710 --> 00:29:14,050
+female age.
+
+297
+00:29:19,869 --> 00:29:23,019
+That's given.
+
+298
+00:29:23,019 --> 00:29:27,907
+And furthermore is given that if two couples
+
+299
+00:29:33,522 --> 00:29:41,267
+after a wife swap won't between two couples,
+
+300
+00:29:47,964 --> 00:29:51,570
+that is asymmetric.
+
+301
+00:29:51,570 --> 00:29:57,709
+In the United States, you get in trouble if you do this, but, uh, I have decided to
+
+302
+00:29:57,709 --> 00:29:59,904
+be a politically most incorrect teacher.
+
+303
+00:29:59,904 --> 00:30:02,726
+So after the wide show between two couples,
+
+304
+00:30:06,383 --> 00:30:09,186
+the two new combinations,
+
+305
+00:30:09,186 --> 00:30:17,325
+um, yield.
+
+306
+00:30:19,277 --> 00:30:24,365
+The same or have have the same minimum age
+
+307
+00:30:28,402 --> 00:30:36,950
+yield half, I'm not quite sure about which were for up to use.
+
+308
+00:30:36,950 --> 00:30:40,767
+It's clears given if two couples perform a
+
+309
+00:30:45,502 --> 00:30:51,608
+wide swap, then the minimum H in the one new combination equals the
+
+310
+00:30:51,608 --> 00:30:54,949
+minimum H the R new combination.
+
+311
+00:30:54,949 --> 00:30:59,108
+Then that formulation, yeah.
+
+312
+00:30:59,108 --> 00:31:01,377
+Okay.
+
+313
+00:31:01,377 --> 00:31:01,577
+Then I will rephrase that.
+
+314
+00:31:05,683 --> 00:31:15,288
+The minimum age of the one new combination.
+
+315
+00:31:18,843 --> 00:31:19,424
+Equals
+
+316
+00:31:22,582 --> 00:31:23,684
+the minimum age
+
+317
+00:31:26,440 --> 00:31:29,550
+of the other
+
+318
+00:31:33,383 --> 00:31:35,827
+new combination and
+
+319
+00:31:40,342 --> 00:31:55,489
+And the double strum is that, um, in each couple male age equals female age.
+
+320
+00:32:01,043 --> 00:32:07,488
+You have to show that in each couple, men and husband and wife have the same ages.
+
+321
+00:32:09,062 --> 00:32:15,027
+I'll give you two proofs for this, and then you can compare them.
+
+322
+00:32:15,027 --> 00:32:23,290
+Uh, the one proof is
+
+323
+00:32:23,290 --> 00:32:27,426
+a two stage proof because we first establish a lama
+
+324
+00:32:31,523 --> 00:32:37,468
+and that is, there exists a couple
+
+325
+00:32:41,718 --> 00:32:48,046
+with both ages maximum.
+
+326
+00:32:55,303 --> 00:33:03,268
+Now the argument is as follows, uh, there exists a man of maximum
+
+327
+00:33:03,310 --> 00:33:06,730
+age now here we put that man.
+
+328
+00:33:06,730 --> 00:33:13,909
+And the fact that he is of maximum age, I will indicate by, uh, by
+
+329
+00:33:13,909 --> 00:33:14,670
+writing a little big M with it.
+
+330
+00:33:14,670 --> 00:33:15,010
+Yeah.
+
+331
+00:33:16,055 --> 00:33:23,944
+So here's a man of maximum age, uh, but there's also a woman of maximum age.
+
+332
+00:33:28,522 --> 00:33:36,289
+Now, either they are married and then we have established or strand.
+
+333
+00:33:36,289 --> 00:33:46,589
+If they're not married, then this man is married to some female, and
+
+334
+00:33:46,589 --> 00:33:47,783
+this woman is married to some male.
+
+335
+00:33:51,764 --> 00:33:55,810
+So here we have two couples.
+
+336
+00:33:55,810 --> 00:34:05,209
+However, if the top couple and the bottom couple perform a wide swap,
+
+337
+00:34:05,209 --> 00:34:08,107
+then the new combinations are the left combination and the right combination.
+
+338
+00:34:12,943 --> 00:34:18,608
+I hope that people that know that I do not like pictures appreciate how sweetly.
+
+339
+00:34:18,608 --> 00:34:23,585
+Here I use , the two dimensional blackboard,
+
+340
+00:34:28,063 --> 00:34:33,048
+and now we, uh, apply, uh, that after the two combinations
+
+341
+00:34:33,048 --> 00:34:35,527
+have the same minimum age.
+
+342
+00:34:35,527 --> 00:34:38,007
+The minimum, the minimum age here is obviously capital M, the maximum
+
+343
+00:34:38,007 --> 00:34:44,369
+age that occurs in the whole lot and therefore this one here as well.
+
+344
+00:34:44,369 --> 00:34:47,090
+So we can plug an M here and m there.
+
+345
+00:34:47,090 --> 00:34:52,907
+And, uh, we have established that prior to the  there exists in marriage
+
+346
+00:35:00,723 --> 00:35:04,766
+both women and are the same age.
+
+347
+00:35:07,504 --> 00:35:09,406
+So now, now we have established our dilemma.
+
+348
+00:35:09,406 --> 00:35:09,606
+Yeah.
+
+349
+00:35:13,822 --> 00:35:22,788
+Now we have found a couple of maximum age we are going to use them and
+
+350
+00:35:22,788 --> 00:35:28,268
+we considered an arbitrary coupled.
+
+351
+00:35:39,064 --> 00:35:42,467
+Now we have two couples, the couple of the maximum Asian and arbitrary one.
+
+352
+00:35:45,462 --> 00:35:51,008
+We perform the wide swap and we have a left combination and a right combination.
+
+353
+00:35:52,280 --> 00:36:00,608
+Well, uh, if this has the h f little F and this has the H little M, then
+
+354
+00:36:00,608 --> 00:36:02,522
+the minimum H here is little F.
+
+355
+00:36:02,522 --> 00:36:06,002
+And the minimum H in the other combination is little m.
+
+356
+00:36:10,184 --> 00:36:11,646
+But we are told that they're equal.
+
+357
+00:36:11,646 --> 00:36:21,086
+So we see that of the new couple, the ages are equal.
+
+358
+00:36:23,825 --> 00:36:24,566
+End of proof.
+
+359
+00:36:28,064 --> 00:36:29,646
+Everybody buys this argument.
+
+360
+00:36:33,599 --> 00:36:36,207
+I'm not sure of it, huh?
+
+361
+00:36:36,207 --> 00:36:39,347
+Some of you at least buy it.
+
+362
+00:36:39,347 --> 00:36:39,547
+I hope,
+
+363
+00:36:48,003 --> 00:36:53,628
+uh, now a completely different style of arguments.
+
+364
+00:36:56,422 --> 00:37:04,349
+Let's calculate, let's calculate that is let's manipulate, formulate.
+
+365
+00:37:04,349 --> 00:37:11,450
+Now then first of all, I wish to, uh, um, demonstrate, uh, to, to formalize
+
+366
+00:37:11,450 --> 00:37:17,285
+what has been given now, uh, let little X and little y range over couples.
+
+367
+00:37:17,285 --> 00:37:25,608
+Let MX be the male age of couple X and let FX be the female age of couple X.
+
+368
+00:37:26,484 --> 00:37:30,110
+And so for y.
+
+369
+00:37:30,110 --> 00:37:35,389
+Now, the first thing that has been given zero is that the maximum male
+
+370
+00:37:35,389 --> 00:37:37,964
+age equals the maximum female age.
+
+371
+00:37:39,344 --> 00:37:44,490
+Well, how do we write down that?
+
+372
+00:37:44,490 --> 00:37:50,910
+Uh, The, the maximum over little x over couples and the, the value
+
+373
+00:37:50,910 --> 00:37:53,649
+I take the maximum of is the of x.
+
+374
+00:37:53,649 --> 00:38:00,609
+I use this as the maximum over x over couples of the male age of these couples.
+
+375
+00:38:00,609 --> 00:38:08,730
+And the upward arrow and the funny brackets are a quantified maximum taker.
+
+376
+00:38:08,730 --> 00:38:21,010
+It has been given that that equals the maximum over X of the female X.
+
+377
+00:38:21,010 --> 00:38:22,163
+So that's the first thing that has been given.
+
+378
+00:38:22,163 --> 00:38:28,907
+The next thing that has been given is the Y swap.
+
+379
+00:38:30,064 --> 00:38:31,206
+Well have a look.
+
+380
+00:38:31,582 --> 00:38:37,788
+If we have couples X and Y, then.
+
+381
+00:38:37,788 --> 00:38:44,205
+The two ages occurring in the wo
+
+382
+00:38:44,205 --> 00:38:55,390
+new combination of the virus is the m the male age from the Y couple
+
+383
+00:38:55,390 --> 00:38:55,590
+and the female age of the X couple.
+
+384
+00:38:55,590 --> 00:39:05,690
+And in the other new combination we have the male age name, we have
+
+385
+00:39:05,690 --> 00:39:12,410
+the female age of the Y couple and the male age of the X couple.
+
+386
+00:39:12,410 --> 00:39:15,767
+And that being, so we say, well, the minimum of this, and I will write
+
+387
+00:39:15,767 --> 00:39:25,150
+this with an in fixed downward arrow, uh, equal equals the other minimum.
+
+388
+00:39:25,150 --> 00:39:28,407
+So with the convention of an downward arrow for the in fixed minimum,
+
+389
+00:39:28,407 --> 00:39:32,566
+uh, I have not described that the.
+
+390
+00:39:32,566 --> 00:39:39,386
+Y swap leads to new combinations with equal mini.
+
+391
+00:39:39,386 --> 00:39:44,029
+Now be careful.
+
+392
+00:39:44,029 --> 00:39:50,710
+The original statement, verbal statement as there is, uh, tells
+
+393
+00:39:50,710 --> 00:39:53,328
+you this for X and Y different.
+
+394
+00:39:53,328 --> 00:39:59,093
+So it has been given that this holds for all X and Y such that X differs from Y.
+
+395
+00:39:59,093 --> 00:40:07,089
+However, if f, if X equals Y then uh, it also holds for reasons of
+
+396
+00:40:07,089 --> 00:40:07,502
+symmetry of the minimum operator.
+
+397
+00:40:07,502 --> 00:40:19,129
+So this is unrestricted for all x, Y, and now the only thing I
+
+398
+00:40:19,129 --> 00:40:23,389
+have to do is to compute that M X
+
+399
+00:40:27,765 --> 00:40:31,448
+equals fx.
+
+400
+00:40:33,544 --> 00:40:34,686
+For arbitrary X.
+
+401
+00:40:34,686 --> 00:40:36,025
+It's true.
+
+402
+00:40:38,444 --> 00:40:42,070
+Am I going to do that?
+
+403
+00:40:42,070 --> 00:40:43,730
+No, I'm not going to do that.
+
+404
+00:40:43,730 --> 00:40:47,027
+I'm going to com to compute M of Y equals the F of Y for arbitrary Y.
+
+405
+00:40:51,445 --> 00:40:52,466
+How do we do that?
+
+406
+00:40:54,122 --> 00:41:03,250
+Well, my proposal is to rewrite this expression without changing its value.
+
+407
+00:41:03,250 --> 00:41:06,523
+So I'm going to transform this expression to value preserving,
+
+408
+00:41:17,360 --> 00:41:18,210
+Now
+
+409
+00:41:18,615 --> 00:41:26,369
+to start with, we will just rewrite the left hand site without changing its
+
+410
+00:41:26,369 --> 00:41:27,904
+value, and we will rewrite the right hand site without changing its value.
+
+411
+00:41:27,904 --> 00:41:32,647
+Now, what is the purpose of that rewriting?
+
+412
+00:41:32,647 --> 00:41:39,849
+The purpose of the rewriting is to get these things in such a
+
+413
+00:41:39,849 --> 00:41:40,683
+shape that I can use zero and one.
+
+414
+00:41:46,603 --> 00:41:50,587
+But zero can contains a quantified maximum.
+
+415
+00:41:52,323 --> 00:41:56,808
+So I can only do it if, if I seek a possibility of
+
+416
+00:41:56,808 --> 00:41:57,502
+introducing a quantified maximum.
+
+417
+00:41:58,862 --> 00:42:06,989
+One contains an in fixed minimum, so I can only appeal to one as a
+
+418
+00:42:06,989 --> 00:42:08,924
+rewrite if I succeed in introducing somewhere an in fixed minimum.
+
+419
+00:42:17,240 --> 00:42:18,610
+Now, uh,
+
+420
+00:42:19,456 --> 00:42:24,065
+what do I know about the oc I.
+
+421
+00:42:26,922 --> 00:42:32,988
+The male age in couple y and the maximum of the male ages
+
+422
+00:42:37,602 --> 00:42:43,747
+and y and the maximum of the male ages
+
+423
+00:42:53,160 --> 00:42:54,010
+Well,
+
+424
+00:42:54,010 --> 00:43:01,810
+uh, since this is from one of the couples and the maximum taken is taken
+
+425
+00:43:01,810 --> 00:43:09,246
+over all the couples, this maximum is at least am not why, but in general,
+
+426
+00:43:09,246 --> 00:43:24,070
+if A, the statement A is at most B is equivalent to the fact that the minimum
+
+427
+00:43:24,070 --> 00:43:25,282
+of A and B equals that a smallest one a.
+
+428
+00:43:32,980 --> 00:43:33,890
+So
+
+429
+00:43:34,313 --> 00:43:47,749
+we come to the conclusion that on account of the up and down calculus, and in fact
+
+430
+00:43:47,749 --> 00:43:47,962
+in fact we use the law of absorption,
+
+431
+00:43:54,802 --> 00:44:04,009
+the m y is the minimum of itself and the maximum mill age.
+
+432
+00:44:04,009 --> 00:44:06,790
+So there we are.
+
+433
+00:44:06,790 --> 00:44:07,970
+The next of ex M x.
+
+434
+00:44:07,977 --> 00:44:13,210
+Funny close at the right hand side.
+
+435
+00:44:13,210 --> 00:44:22,750
+Uh, I say, well, the f y is equal to the f y minimum, and now the
+
+436
+00:44:22,750 --> 00:44:22,950
+I do exactly the same thing.
+
+437
+00:44:22,950 --> 00:44:24,784
+maximum over X of the female ages.
+
+438
+00:44:27,822 --> 00:44:35,469
+And you see that a single stroke I have succeeded in introducing both my
+
+439
+00:44:35,469 --> 00:44:37,363
+quantified maxima and the fixed minimum.
+
+440
+00:44:43,384 --> 00:44:44,346
+Thank you very much.
+
+441
+00:44:47,382 --> 00:44:58,709
+But now I can appeal to zero because, uh, now the expressions that are
+
+442
+00:44:58,709 --> 00:45:04,405
+given to be equal, uh, I can therefore replace the one by the other left
+
+443
+00:45:04,405 --> 00:45:07,343
+hand side does not change its value.
+
+444
+00:45:07,510 --> 00:45:17,850
+If I take the m y and now the minimum over x of the f x
+
+445
+00:45:20,319 --> 00:45:23,485
+equals, and in order not to destroy the symmetry.
+
+446
+00:45:23,485 --> 00:45:34,868
+I replaced that one by the maximum male female age, but the maximum male age.
+
+447
+00:45:37,020 --> 00:45:38,290
+So I have used zero.
+
+448
+00:45:38,290 --> 00:45:41,326
+Now I have to use one.
+
+449
+00:45:42,801 --> 00:45:50,605
+Oh, well, one, I can only use that when
+
+450
+00:45:56,457 --> 00:45:57,761
+I have that in fix.
+
+451
+00:46:05,564 --> 00:46:09,450
+I skipped one Motivation.
+
+452
+00:46:09,450 --> 00:46:17,709
+The fact that I appealed to zero by interchanging these terms was partly
+
+453
+00:46:17,709 --> 00:46:20,709
+inspired by the, the desire to use zero.
+
+454
+00:46:20,709 --> 00:46:27,709
+It was also inspired by the desire to use one, and I can only use one
+
+455
+00:46:27,709 --> 00:46:34,010
+provided I have males and females at both sides of my infants minimum.
+
+456
+00:46:34,010 --> 00:46:39,288
+And now I have males and females and females and males at both
+
+457
+00:46:39,350 --> 00:46:40,870
+sides of the infect minimum.
+
+458
+00:46:41,064 --> 00:46:44,549
+So I'm in good shape.
+
+459
+00:46:44,549 --> 00:46:55,569
+However, I cannot use uh, one yet because that talks about, uh, a
+
+460
+00:46:55,569 --> 00:47:08,090
+minimum between two occurring ages in  Now, fortunately, and that is a
+
+461
+00:47:08,090 --> 00:47:10,925
+rule of the, uh, up and down calculus,
+
+462
+00:47:14,803 --> 00:47:19,709
+and that is the down.
+
+463
+00:47:24,883 --> 00:47:30,369
+and exactly the same way as end distribute over order and the existential
+
+464
+00:47:30,369 --> 00:47:38,150
+quantification and all those things that is, and if you didn't know, know this, you
+
+465
+00:47:38,150 --> 00:47:41,450
+would discover that this is a necessary dilemma to prove the whole theorem.
+
+466
+00:47:41,450 --> 00:47:44,865
+Uh, I suppose that people know the plus the, um, done calculus
+
+467
+00:47:44,865 --> 00:48:02,010
+and then this is rewritten as the maximum over X of M of y done f x.
+
+468
+00:48:02,010 --> 00:48:07,170
+And the right hand side similarly is written as funny.
+
+469
+00:48:07,170 --> 00:48:13,389
+Open the maximum over x column, the f y done.
+
+470
+00:48:13,389 --> 00:48:13,589
+The end of X,
+
+471
+00:48:17,182 --> 00:48:31,790
+and now we are in a shape to appeal to one, because one states and for all X
+
+472
+00:48:31,790 --> 00:48:32,963
+and Y, these two expressions are equal.
+
+473
+00:48:32,963 --> 00:48:40,029
+Hence when you quantify over them on account of one.
+
+474
+00:48:40,029 --> 00:48:40,290
+This is true.
+
+475
+00:48:44,004 --> 00:48:44,805
+So there we are,
+
+476
+00:48:53,245 --> 00:48:54,066
+four steps.
+
+477
+00:48:57,483 --> 00:49:07,188
+Two appeals to the AB down calculus, and one appeal to each given once.
+
+478
+00:49:13,262 --> 00:49:23,810
+I love this argument and the reason why I love it is, um, because I can
+
+479
+00:49:23,810 --> 00:49:31,967
+present it without pictures because, uh, this is the type of argument one
+
+480
+00:49:31,967 --> 00:49:41,148
+can construct without any invention.
+
+481
+00:49:41,148 --> 00:49:50,149
+Just by looking at, uh, I'm intended to say the symbol dynamics.
+
+482
+00:49:50,149 --> 00:49:57,390
+It's quite clear that if you wish to use north and water, you have to use them.
+
+483
+00:49:57,390 --> 00:50:00,445
+That you have to introduce the, uh, single minimum and the quantified maximum.
+
+484
+00:50:05,264 --> 00:50:08,468
+Uh, and the only knowledge.
+
+485
+00:50:08,468 --> 00:50:12,566
+It uses is, uh, some knowledge over there.
+
+486
+00:50:12,566 --> 00:50:22,070
+I done calculus, but that is a very general topic and it is not
+
+487
+00:50:22,070 --> 00:50:28,766
+unrealistic to assume that, uh, that exists belongs to our luggage.
+
+488
+00:50:35,363 --> 00:50:39,627
+Yeah, well that is about it.
+
+489
+00:50:56,240 --> 00:50:56,930
+there are.
+
+490
+00:51:06,962 --> 00:51:12,826
+Yeah, I, I, there's one thing that I would like to point out, and that is that
+
+491
+00:51:21,918 --> 00:51:33,729
+if you wish to show that some productive, that depends on the expression X, which I
+
+492
+00:51:33,729 --> 00:51:37,385
+assume also to be a productive, but that's not essential, and these are where true.
+
+493
+00:51:41,032 --> 00:51:48,285
+that F is monotonic,
+
+494
+00:51:48,285 --> 00:51:48,485
+Then in the case
+
+495
+00:51:53,865 --> 00:51:56,910
+which is.
+
+496
+00:51:56,910 --> 00:51:57,363
+A regular situation.
+
+497
+00:51:57,363 --> 00:52:05,228
+One of the most fruitful ways of rewriting this is that there exists yet
+
+498
+00:52:05,228 --> 00:52:19,010
+such that is yet is stronger than the expression and
+
+499
+00:52:19,010 --> 00:52:21,344
+everywhere the F of Zed holds.
+
+500
+00:52:25,143 --> 00:52:31,048
+Now, this is an extremely pleasant possibility of rewriting.
+
+501
+00:52:31,048 --> 00:52:46,729
+The reason that it is so nice is that, um, x the expression may be of a form such
+
+502
+00:52:46,729 --> 00:52:52,889
+that the place in which it occurs in F makes it difficult to manipulate there.
+
+503
+00:52:52,889 --> 00:52:55,127
+However, here.
+
+504
+00:52:55,127 --> 00:53:03,430
+We have, uh, x as the right hand, as as the consequence.
+
+505
+00:53:03,430 --> 00:53:08,950
+And in that uncomfortable place, we now have a variable.
+
+506
+00:53:08,950 --> 00:53:13,728
+Uh, and that gives you the room for lots of, um, manipulative possibilities
+
+507
+00:53:15,481 --> 00:53:25,788
+is, um, in particular it gives you the freedom to, uh, choose a nice z for
+
+508
+00:53:25,913 --> 00:53:38,808
+instance, we choose the strongest Z that's satisfies this condition because
+
+509
+00:53:38,808 --> 00:53:42,464
+the stronger you choose the set, the easier it is to demonstrate this.
+
+510
+00:53:48,023 --> 00:53:53,409
+But, but thats strongest set in order to apply the trick that
+
+511
+00:53:53,409 --> 00:53:53,609
+strongest set has to exist.
+
+512
+00:53:54,161 --> 00:53:59,146
+Yes, there are, I have encountered many theorems
+
+513
+00:53:59,146 --> 00:54:10,608
+where in order to prove this, the existence of the strongest
+
+514
+00:54:10,608 --> 00:54:21,630
+satisfying everywhere, f is an essential part of, uh, the theorem.
+
+515
+00:54:21,630 --> 00:54:22,906
+But another f you cannot prove this.
+
+516
+00:54:22,906 --> 00:54:29,888
+So another way of looking at this is that, um, it is a way of exploiting
+
+517
+00:54:29,888 --> 00:54:36,625
+the fact that this viewed as equation in z as a stronger solution.
+
+518
+00:54:38,620 --> 00:54:47,407
+Um, similarly, Uh, now you can also rewrite it as for all
+
+519
+00:54:47,407 --> 00:54:54,425
+Z, such that the X implies Z,
+
+520
+00:54:57,804 --> 00:54:58,986
+the F of Z.
+
+521
+00:54:58,986 --> 00:55:10,069
+This rewriting is indicated if X has such a shape that you can nicely manipulate
+
+522
+00:55:10,069 --> 00:55:14,127
+formally if you with X in the, uh, and the seeding, but not in the consequence.
+
+523
+00:55:14,127 --> 00:55:18,947
+Now, uh, obviously these two rules are extremely general.
+
+524
+00:55:19,920 --> 00:55:29,308
+Um,  and I do not have the time to demonstrate them, but believe me, uh,
+
+525
+00:55:34,184 --> 00:55:38,130
+if you apply them and they.
+
+526
+00:55:38,130 --> 00:55:42,630
+The existence of a strongest solution for this.
+
+527
+00:55:42,630 --> 00:55:44,528
+That, of course, smells of the connection and the whole operators,
+
+528
+00:55:44,528 --> 00:55:47,766
+uh, um, tells you what to do.
+
+529
+00:55:51,783 --> 00:55:53,686
+Sorry that I cannot go into details,
+
+530
+00:55:56,402 --> 00:56:01,967
+questions, remarks, objections.
+
+531
+00:56:02,400 --> 00:56:03,130
+Yes.
+
+532
+00:56:03,130 --> 00:56:10,309
+Um, to the title of your talk, not to any of the content.
+
+533
+00:56:10,309 --> 00:56:17,310
+Um, things I have learned and like yes, the kind of, the kind of things
+
+534
+00:56:17,310 --> 00:56:20,969
+I learned and like, I just wonder whether having chosen that type of
+
+535
+00:56:20,969 --> 00:56:25,990
+you gave any thought at all to any of the following interrupts, , multi
+
+536
+00:56:25,990 --> 00:56:30,510
+programming levels of abstraction cetera.
+
+537
+00:56:31,984 --> 00:56:35,707
+Yes, I did and I decided not to mention them.
+
+538
+00:56:38,763 --> 00:56:42,987
+Would you like to explain, had you been given more time, would
+
+539
+00:56:42,987 --> 00:56:47,027
+you to know just that time
+
+540
+00:56:53,863 --> 00:57:02,649
+I might have told that, uh, my reason for introducing Sam force was because I
+
+541
+00:57:02,649 --> 00:57:12,809
+wanted to move the arguing and showing the correctness of, uh, operating systems,
+
+542
+00:57:12,809 --> 00:57:18,186
+um, to be able to do that in discrete reasoning without any analog arguments.
+
+543
+00:57:20,742 --> 00:57:27,168
+I would've told that I, for years and years, I assumed that that was precisely
+
+544
+00:57:27,168 --> 00:57:31,985
+the same reason why Morris Wils, uh, introduced micro programed machines
+
+545
+00:57:31,985 --> 00:57:36,144
+that did not turn out to be true.
+
+546
+00:57:36,144 --> 00:57:45,209
+Uh, Morris Wils choice, he told me was purely inspired by economic,
+
+547
+00:57:45,209 --> 00:57:48,510
+mechanical considerations.
+
+548
+00:57:48,510 --> 00:57:57,828
+Uh, I would also tell that for the first five or six years that I taught this
+
+549
+00:57:57,828 --> 00:58:08,266
+material, uh, I had the grave difficulties in convincing my audience that.
+
+550
+00:58:08,266 --> 00:58:21,350
+It was a worthwhile exercise to try to, uh, argue about, uh, the
+
+551
+00:58:21,350 --> 00:58:28,170
+corporation of such processes without taking a relative speed philosophy
+
+552
+00:58:28,170 --> 00:58:28,370
+speed into account speed, you think?
+
+553
+00:58:31,041 --> 00:58:44,790
+Each time the, uh, public protested because I knew the speech ratios didn't I?
+
+554
+00:58:44,790 --> 00:58:48,929
+And, and, and not, not using that, ignoring that I, I
+
+555
+00:58:48,929 --> 00:58:49,129
+threw away valuable knowledge.
+
+556
+00:58:51,884 --> 00:58:55,067
+I, I've had a hard time convincing people that, uh,
+
+557
+00:58:55,067 --> 00:59:04,709
+since the only thing you can do with knowledge is use it in the argument.
+
+558
+00:59:04,709 --> 00:59:06,222
+The only thing that knowledge can do is to, to complicate your
+
+559
+00:59:06,222 --> 00:59:06,422
+argument because you have to use it.
+
+560
+00:59:19,202 --> 00:59:27,029
+now we can argue two ways, either we can say, but that, uh, co communicating
+
+561
+00:59:27,029 --> 00:59:33,007
+and cooperating processes with roughly undefined speed ratios, uh, is a
+
+562
+00:59:33,007 --> 00:59:36,264
+familiar abstraction and therefore people don't protest anymore.
+
+563
+00:59:36,264 --> 00:59:44,490
+Uh, I, but I think that the, the explanation is a little bit more
+
+564
+00:59:44,490 --> 00:59:53,689
+encouraging and that, uh, people don't protest, uh, because they are more aware
+
+565
+00:59:53,689 --> 00:59:57,705
+of the fact that, uh, we have to abstract.
+
+566
+01:00:01,404 --> 01:00:02,426
+I hope so, at least.
+
+567
+01:00:04,300 --> 01:00:04,810
+So that will.
+

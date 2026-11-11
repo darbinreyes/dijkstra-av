@@ -1,0 +1,1136 @@
+1
+00:00:10,733 --> 00:00:17,018
+All our separate teams, um, had to be squeezed in 32 words that
+
+2
+00:00:17,018 --> 00:00:18,293
+that took some squeezing and, and
+
+3
+00:00:21,432 --> 00:00:30,640
+on top of that, And without having any clear sequencing discipline in your mind,
+
+4
+00:00:30,640 --> 00:00:35,358
+on top of that, I don't think that I really knew what a variable was, thanks
+
+5
+00:00:35,358 --> 00:00:42,256
+to the fact that, uh, we were forced to change our instructions in store.
+
+6
+00:00:47,014 --> 00:00:48,536
+it all just hadn't been sorted out.
+
+7
+00:00:52,910 --> 00:00:53,720
+Okay.
+
+8
+00:00:53,720 --> 00:01:00,600
+Other names that I have mentioned and wrapped out?
+
+9
+00:01:00,600 --> 00:01:04,937
+Oh, as I remember, uh, MC DBAs, because she was the author of the
+
+10
+00:01:05,305 --> 00:01:13,220
+first production program of the iMac, had to do with the computation of
+
+11
+00:01:13,220 --> 00:01:17,640
+trans transferal movements of railway carriages, and it was incredibly fast.
+
+12
+00:01:17,640 --> 00:01:17,840
+I .R .M .E .C. that
+
+13
+00:01:17,840 --> 00:01:19,458
+We looked with awe to it.
+
+14
+00:01:19,458 --> 00:01:19,658
+I at least.
+
+15
+00:01:22,190 --> 00:01:24,660
+She was bound to become, to become Mrs.
+
+16
+00:01:24,660 --> 00:01:25,901
+Dexter a year later,
+
+17
+00:01:34,690 --> 00:01:35,460
+okay.
+
+18
+00:01:35,460 --> 00:01:41,359
+The only thing that I will mention of Jerry Bla, who
+
+19
+00:01:41,359 --> 00:01:41,559
+was very greatly appreciated.
+
+20
+00:01:45,493 --> 00:01:52,900
+He came straight from, uh, Howard Akins laboratory and imported
+
+21
+00:01:52,900 --> 00:01:56,899
+apart from material, uh, all sorts of decent techniques.
+
+22
+00:01:56,899 --> 00:02:03,380
+Besides that, he was a very punctual man and that was a good thing because,
+
+23
+00:02:03,380 --> 00:02:09,616
+uh, for a couple of months, uh, Jerry bla and I debugged the feta, which
+
+24
+00:02:09,616 --> 00:02:12,275
+was installed at Strip Hall Air.
+
+25
+00:02:12,391 --> 00:02:20,599
+And the place was a little bit hard to reach, but Jerry had been in the
+
+26
+00:02:20,599 --> 00:02:25,740
+United States and thank goodness he had a car, at least some sort,
+
+27
+00:02:25,740 --> 00:02:25,940
+an Anth hand standard fingered.
+
+28
+00:02:25,940 --> 00:02:32,963
+And he was living in the hag at that time, and I was studying in laden.
+
+29
+00:02:32,963 --> 00:02:33,163
+So early in the morning at seven o'clock, I would jump on my bicycle
+
+30
+00:02:33,163 --> 00:02:36,894
+and go, go through the high to the highway, hide my bicycle, climb
+
+31
+00:02:36,920 --> 00:02:44,540
+up, uh, and, uh, waited aside until Jerry came along and picked me up.
+
+32
+00:02:44,540 --> 00:02:51,622
+It was a grim winter, and I know that I, it only could be done thanks
+
+33
+00:02:51,622 --> 00:02:54,120
+to an old, old Canadian army coat.
+
+34
+00:02:54,120 --> 00:02:55,633
+And the fact that Jerry Asad was a very punctual man.
+
+35
+00:02:59,312 --> 00:03:10,300
+Yeah, I remember one horrible occasion that we had been debugging the feta all
+
+36
+00:03:10,300 --> 00:03:14,858
+day long and it was somewhere 10 o'clock in the evening and his end hand standard
+
+37
+00:03:14,858 --> 00:03:15,058
+Aunt's handstand at Fengert
+
+38
+00:03:15,058 --> 00:03:23,340
+finger was the last car on fucker's parking lot, and it was beginning to
+
+39
+00:03:23,340 --> 00:03:26,560
+snow and the thing wouldn't start.
+
+40
+00:03:26,560 --> 00:03:27,016
+I don't remember quite how he came home.
+
+41
+00:03:27,016 --> 00:03:33,500
+I, my guess is that
+
+42
+00:03:33,500 --> 00:03:36,794
+Jerry Bluff fixed it himself, fixed another bug that day.
+
+43
+00:03:39,973 --> 00:03:44,017
+Okay, well that's enough of, of history.
+
+44
+00:03:44,080 --> 00:03:44,640
+I think
+
+45
+00:03:47,530 --> 00:03:51,576
+now, uh, I would like.
+
+46
+00:03:54,933 --> 00:04:01,619
+Combine what, what I knew, what I had understood and what
+
+47
+00:04:01,619 --> 00:04:05,018
+I have seen this last week.
+
+48
+00:04:05,018 --> 00:04:18,499
+Um, I beg your, uh, for forgiveness because part of it, uh, looks like
+
+49
+00:04:18,499 --> 00:04:23,679
+and is perhaps a con pointing out.
+
+50
+00:04:23,679 --> 00:04:26,698
+Between the contrast of contrast between what happened in Europe and
+
+51
+00:04:26,698 --> 00:04:27,132
+what happened in the United States.
+
+52
+00:04:27,260 --> 00:04:31,700
+Now, uh, please
+
+53
+00:04:31,700 --> 00:04:43,000
+realize that if I'm go have to formulate that, I have to do that very, very
+
+54
+00:04:43,000 --> 00:04:47,819
+carefully in order to avoid the impression that I'm just raking up the stale
+
+55
+00:04:47,819 --> 00:04:50,139
+controversy between the old and the new.
+
+56
+00:04:50,139 --> 00:04:53,557
+You know that controversy full of overcompensated, inferiority
+
+57
+00:04:53,557 --> 00:04:57,219
+complexity at both sides.
+
+58
+00:04:57,219 --> 00:05:03,058
+, that is not my intention, eh, but eh, this had to be written in a hurry.
+
+59
+00:05:03,690 --> 00:05:13,879
+And, um, if you think that you listen, that you hear in my
+
+60
+00:05:13,879 --> 00:05:16,294
+words, the raking up of the adult controversy, please correct my words.
+
+61
+00:05:17,379 --> 00:05:17,980
+Mentally
+
+62
+00:05:25,393 --> 00:05:33,820
+Well, as any scientist of my age, that was the first day of this conference.
+
+63
+00:05:33,820 --> 00:05:35,998
+Ritz explained that everyone under 50 had what happened.
+
+64
+00:05:35,998 --> 00:05:36,198
+Not to be taken.
+
+65
+00:05:36,198 --> 00:05:36,398
+Taken seriously.
+
+66
+00:05:38,550 --> 00:05:39,260
+Okay.
+
+67
+00:05:39,413 --> 00:05:45,699
+As any scientist of my age, I'm hoping for yet another few
+
+68
+00:05:45,699 --> 00:05:52,739
+And if the subject matter of my current activity showed signs of
+
+69
+00:05:52,739 --> 00:05:52,939
+decades of fruitful research.
+
+70
+00:05:52,939 --> 00:05:57,538
+approaching a state of completion, I would therefore take that as
+
+71
+00:05:57,538 --> 00:06:01,180
+a warning to shift my attention.
+
+72
+00:06:01,180 --> 00:06:05,257
+That as we all know, such an intellectual migration can be a very
+
+73
+00:06:05,257 --> 00:06:10,114
+difficult and painful process, and it's therefore reassuring to observe
+
+74
+00:06:10,114 --> 00:06:15,478
+that still a lot remains to be done.
+
+75
+00:06:15,478 --> 00:06:24,740
+At my age, a personal pleasure to observe that computing
+
+76
+00:06:24,740 --> 00:06:24,940
+It is for.
+
+77
+00:06:24,940 --> 00:06:25,140
+science is still a very immature.
+
+78
+00:06:26,653 --> 00:06:33,420
+If I were 65, I would feel, feel perhaps different about it.
+
+79
+00:06:33,420 --> 00:06:33,620
+Okay.
+
+80
+00:06:33,620 --> 00:06:36,959
+Now one such sure.
+
+81
+00:06:36,959 --> 00:06:38,234
+Symptom of professional immaturity.
+
+82
+00:06:38,234 --> 00:06:45,817
+Is the heavy use of anthropomorphic terminology when referring to
+
+83
+00:06:45,817 --> 00:06:48,494
+inanimate objects and computing.
+
+84
+00:06:48,494 --> 00:06:52,977
+Science is still loaded with it.
+
+85
+00:06:52,977 --> 00:06:59,338
+Quite recently I heard in a lecture, but when this guy wants to talk to that guy,
+
+86
+00:07:03,013 --> 00:07:05,997
+the speaker was referring to two components of a computer network.
+
+87
+00:07:07,753 --> 00:07:10,017
+Yeah, giving them wishes and all.
+
+88
+00:07:10,017 --> 00:07:10,217
+That's terrible.
+
+89
+00:07:10,217 --> 00:07:19,618
+Okay, now a history of computing might or probably even shoot, try to review the
+
+90
+00:07:19,627 --> 00:07:24,499
+origin of that anthropomorphic tradition.
+
+91
+00:07:24,499 --> 00:07:30,020
+In the meantime, we computing scientists shall try to get rid of
+
+92
+00:07:30,020 --> 00:07:32,713
+it and try to clothe her thoughts in less misleading metaphors.
+
+93
+00:07:41,454 --> 00:07:47,560
+The worst offense, of course, has been to call programming
+
+94
+00:07:47,560 --> 00:07:50,139
+notation conventions, languages.
+
+95
+00:07:50,139 --> 00:07:56,219
+This has given rise to the most terrible confusions from a at
+
+96
+00:07:56,219 --> 00:08:00,695
+I have heard that a course in Algo 60 could contribute to
+
+97
+00:08:00,695 --> 00:08:00,895
+least one respectable university.
+
+98
+00:08:00,895 --> 00:08:01,751
+your foreign language credits.
+
+99
+00:08:04,793 --> 00:08:08,717
+Perhaps the more serious symptom was displayed in a letter from a general,
+
+100
+00:08:08,820 --> 00:08:12,280
+from the US Army that I saw last year.
+
+101
+00:08:12,280 --> 00:08:16,815
+They were looking for new programming languages for the Department of
+
+102
+00:08:16,815 --> 00:08:24,779
+Defense, but the general explained that obviously the DOD was not
+
+103
+00:08:24,779 --> 00:08:33,358
+interested in quote, artificially simplified languages such as Pascal and.
+
+104
+00:08:33,358 --> 00:08:33,558
+What does the journal want?
+
+105
+00:08:33,558 --> 00:08:43,340
+Naturally complicated languages such as PR one  artificially
+
+106
+00:08:43,340 --> 00:08:46,260
+complicated languages such as Argo 68.
+
+107
+00:08:46,260 --> 00:08:47,296
+Military logic is very queer.
+
+108
+00:08:47,296 --> 00:08:56,440
+I can give the historian one hint by the end of the fifties.
+
+109
+00:08:56,440 --> 00:09:02,079
+The heavy use of anthropomorphic terminology in computing science was a
+
+110
+00:09:02,079 --> 00:09:06,379
+well established tradition in the usa.
+
+111
+00:09:06,379 --> 00:09:06,993
+It was not so in Europe.
+
+112
+00:09:08,813 --> 00:09:13,497
+For many European computing scientists of my age, the more intensive
+
+113
+00:09:13,497 --> 00:09:20,880
+exposure to American computing science dates from about that period.
+
+114
+00:09:20,880 --> 00:09:22,318
+Say when communications of the ACM started to appear.
+
+115
+00:09:22,318 --> 00:09:29,959
+I think that was 59, and I remember quite vividly my surprise and amazement
+
+116
+00:09:29,959 --> 00:09:33,635
+when I observed that heavy American news of anthropomorphic terminology.
+
+117
+00:09:33,635 --> 00:09:38,819
+I was even somewhat shocked by it.
+
+118
+00:09:38,819 --> 00:09:42,740
+I was certainly not the only one to feel that.
+
+119
+00:09:42,740 --> 00:09:47,537
+Uh, further confirmation can be found in phrase of Duncan's after dinner speech
+
+120
+00:09:47,537 --> 00:09:55,139
+at the Baron Conference held in 1964.
+
+121
+00:09:55,139 --> 00:09:59,437
+The speech, which has been included in total in the conference proceedings and
+
+122
+00:09:59,437 --> 00:10:05,619
+can be recommended for many other reasons,
+
+123
+00:10:05,619 --> 00:10:09,938
+At that time I didn't worry about the origin of that, an anthropomorphic tradit.
+
+124
+00:10:11,153 --> 00:10:18,660
+How could I, I knew no American to speak of, and as far as I was
+
+125
+00:10:18,660 --> 00:10:19,293
+concerned, it could just be a part of the American linguistic tradition.
+
+126
+00:10:20,372 --> 00:10:28,139
+So I just accepted the fact and confined myself to trying not to copy the bad
+
+127
+00:10:28,139 --> 00:10:31,567
+habit and occasionally correct me a countryman when he slipped into it.
+
+128
+00:10:33,953 --> 00:10:38,099
+Now 17 years.
+
+129
+00:10:38,099 --> 00:10:40,876
+The question of the origin of this anthropomorphic tradition
+
+130
+00:10:41,746 --> 00:10:46,897
+intrigued me up to this conference.
+
+131
+00:10:46,897 --> 00:10:50,657
+I had tacitly assumed that it could be traced through the American
+
+132
+00:10:50,657 --> 00:10:56,080
+cultural climate and its linguistic habits, but I'm no longer social.
+
+133
+00:10:56,080 --> 00:11:04,240
+Sure, during the past few days, I got more than once distinct impression that
+
+134
+00:11:04,240 --> 00:11:04,440
+possibly it could be traced rather.
+
+135
+00:11:04,440 --> 00:11:09,239
+To the talking habits of Dr.
+
+136
+00:11:09,239 --> 00:11:10,815
+, historians might want to trace this.
+
+137
+00:11:13,311 --> 00:11:22,638
+Um, rightly or wrongly, the idea that it's essential that a program
+
+138
+00:11:22,638 --> 00:11:32,140
+modifies its instructions in store is generally contributed to Dr.
+
+139
+00:11:32,140 --> 00:11:33,076
+. There seems to be less general agreement.
+
+140
+00:11:33,240 --> 00:11:36,900
+To the conclusion that our ID of Dr.
+
+141
+00:11:36,900 --> 00:11:42,560
+Van Normans should be classified as a major mistake.
+
+142
+00:11:42,560 --> 00:11:44,658
+Exactly because Dr.
+
+143
+00:11:44,658 --> 00:11:45,380
+Van Norman was such a great man.
+
+144
+00:11:45,380 --> 00:11:51,257
+We must be aware of the danger that our deserved admiration
+
+145
+00:11:51,257 --> 00:11:57,475
+deteriorates into the undesirable worship that blurs our e vision.
+
+146
+00:11:59,830 --> 00:12:00,320
+I.
+
+147
+00:12:00,320 --> 00:12:07,560
+That if we hadn't had such a great admiration for nine months, the end that
+
+148
+00:12:07,560 --> 00:12:09,576
+the B register had been invented earlier.
+
+149
+00:12:12,233 --> 00:12:17,779
+The above remarks have been triggered by the first few days of this research
+
+150
+00:12:17,779 --> 00:12:22,658
+conference on the history of computing, but remarks about the history of IDs.
+
+151
+00:12:22,658 --> 00:12:24,937
+And by consideration that the old tradition of the Roman Catholic
+
+152
+00:12:24,937 --> 00:12:31,299
+Church requires that in the process of canonization, one
+
+153
+00:12:31,299 --> 00:12:34,459
+of the cardinals performs the function of the devil's advocate.
+
+154
+00:12:34,459 --> 00:12:37,958
+And up till now, no one seems to have performed this
+
+155
+00:12:37,958 --> 00:12:39,635
+function at this conference.
+
+156
+00:12:39,635 --> 00:12:42,378
+With respect to Dr.
+
+157
+00:12:42,378 --> 00:12:49,260
+Vaniman , I therefore took that role  in spite of the warnings.
+
+158
+00:12:49,260 --> 00:12:53,717
+That saying Johnny is already a defacto standard, and then I
+
+159
+00:12:53,717 --> 00:12:56,720
+would be stoned from the stage.
+
+160
+00:12:56,720 --> 00:12:59,338
+I was particularly grateful for that last warning because
+
+161
+00:12:59,338 --> 00:13:00,072
+it told me a new expression.
+
+162
+00:13:03,252 --> 00:13:08,318
+Yeah, I sent something else, but I am quite uncertain
+
+163
+00:13:08,318 --> 00:13:09,220
+how to explain this to you.
+
+164
+00:13:09,220 --> 00:13:16,096
+I've never spoken about it very much and I'm not a little sure whether I shall be
+
+165
+00:13:16,096 --> 00:13:16,296
+able to find the right words and express.
+
+166
+00:13:16,296 --> 00:13:24,319
+I felt a strong analogy between an old issue among circuit designers and a
+
+167
+00:13:24,319 --> 00:13:27,659
+modern issue among language designers.
+
+168
+00:13:27,659 --> 00:13:32,920
+And whenever an issue becomes a controversy causing a split between
+
+169
+00:13:32,920 --> 00:13:38,060
+the experts in the field, the long-lasting existence of the controversy
+
+170
+00:13:38,060 --> 00:13:42,980
+demonstrates the inadequacy of the means by which we try to settle the.
+
+171
+00:13:42,980 --> 00:13:46,978
+I got glimpse of the way in which the old hardware question remained
+
+172
+00:13:46,978 --> 00:13:54,299
+unsettled for many years and suddenly realized that today's programming issue
+
+173
+00:13:54,299 --> 00:13:59,618
+is in danger of remaining unsettled in exactly the same way for perhaps
+
+174
+00:13:59,618 --> 00:14:01,978
+an equally long period of time.
+
+175
+00:14:01,978 --> 00:14:08,739
+As that would be a profound disaster, we programmers could perhaps, Learn
+
+176
+00:14:08,739 --> 00:14:14,479
+something of the courses that made it so, so long, so difficult for the
+
+177
+00:14:14,479 --> 00:14:15,153
+hardware community to make up its mind.
+
+178
+00:14:16,993 --> 00:14:24,019
+Let me sketch to you roughly the old hardware, hardware issue that circuit
+
+179
+00:14:24,019 --> 00:14:32,320
+designers for clocked machines faced right from the beginning in a clocked machine.
+
+180
+00:14:32,320 --> 00:14:33,496
+There are basically two types of circuits possible.
+
+181
+00:14:33,496 --> 00:14:34,436
+Let us call them a and.
+
+182
+00:14:35,812 --> 00:14:43,540
+Both types of S Circuit must assume that the components are not too slow.
+
+183
+00:14:43,540 --> 00:14:47,900
+Well, this is obvious because an infinitely slow component is a component
+
+184
+00:14:47,900 --> 00:14:49,596
+that doesn't work at all, and you can't be expected to make a working
+
+185
+00:14:49,596 --> 00:14:50,500
+machine from one working components.
+
+186
+00:14:51,790 --> 00:14:56,340
+The difference is at the other end, while in a Type A circuit components
+
+187
+00:14:56,340 --> 00:15:03,679
+are allowed to be infinitely fast, we have to assume for a type B circuit in.
+
+188
+00:15:03,679 --> 00:15:04,817
+That the components are not too fast.
+
+189
+00:15:06,313 --> 00:15:13,280
+In type B circuitry, awful things would happen if components
+
+190
+00:15:13,280 --> 00:15:13,480
+produced an instantaneous response.
+
+191
+00:15:13,480 --> 00:15:18,717
+Proponents of Type A circuit felt that Type A circuits were safer.
+
+192
+00:15:18,717 --> 00:15:23,838
+If components turned out to be too slow, one could always change to
+
+193
+00:15:23,838 --> 00:15:25,560
+a clock with a lower pulse rate.
+
+194
+00:15:25,645 --> 00:15:32,359
+Without running the risk that in the changed environment, other components
+
+195
+00:15:32,359 --> 00:15:32,559
+would turn out to be too fast.
+
+196
+00:15:32,559 --> 00:15:41,179
+Proponents of C, proponents of circuited B pointed out that style B circuits needed
+
+197
+00:15:41,179 --> 00:15:47,478
+fewer valves and that by means of choice of sufficiently wide safety margins, the
+
+198
+00:15:47,478 --> 00:15:50,234
+existence of a pulse rate suitable for all circuits could easily be guaranteed.
+
+199
+00:15:50,234 --> 00:15:55,539
+The result was a complete debt.
+
+200
+00:15:55,539 --> 00:16:02,859
+that has lasted for about 20 years, but it so happens that I exist a
+
+201
+00:16:02,859 --> 00:16:08,836
+completely different argument that nearly always should all overrule all
+
+202
+00:16:08,836 --> 00:16:16,700
+other considerations in my innocence, I thought that it had settled the
+
+203
+00:16:16,700 --> 00:16:18,494
+matter 10 years ago, but after a few discussions here in lot animals, I'm less.
+
+204
+00:16:18,560 --> 00:16:18,860
+Los Alamos, I am
+
+205
+00:16:18,860 --> 00:16:28,759
+The argument is that style A circuitry admits the separation of two important
+
+206
+00:16:28,759 --> 00:16:34,436
+concerns that with type B circuitry remain inextricably intertwined because
+
+207
+00:16:34,436 --> 00:16:41,037
+type A circuit should also be correct for instantaneously working components.
+
+208
+00:16:41,037 --> 00:16:43,418
+We can study it under that ideal.
+
+209
+00:16:43,418 --> 00:16:50,879
+That is under the elimination of timing considerations, we can check that the
+
+210
+00:16:50,879 --> 00:16:53,880
+circuit will produce the correct result.
+
+211
+00:16:53,880 --> 00:16:58,979
+A completely separate argument then has to show that results, whatever it may be
+
+212
+00:16:58,979 --> 00:17:02,179
+so to speak, will be produced fast enough.
+
+213
+00:17:02,179 --> 00:17:06,538
+Style B circuits do not admit this separation, and the total question had
+
+214
+00:17:06,538 --> 00:17:13,598
+to be, has to be dealed with, right.
+
+215
+00:17:13,598 --> 00:17:21,139
+Intertwined now not separating concerns of which the separat
+
+216
+00:17:21,139 --> 00:17:27,958
+Is always defended with the argument that you don't need the separation because you
+
+217
+00:17:27,958 --> 00:17:28,158
+ability has been discovered.
+
+218
+00:17:28,158 --> 00:17:32,155
+can still cope still quite well with the complexity of the intertwined combination.
+
+219
+00:17:32,155 --> 00:17:40,438
+Now, while this may be perfectly true for the specific case at hand, The
+
+220
+00:17:40,438 --> 00:17:46,839
+refusal to separate, consciously induce the style of designing and thinking
+
+221
+00:17:46,839 --> 00:17:50,377
+that tends to block drastic progress.
+
+222
+00:17:50,377 --> 00:17:55,018
+So for your own education, you should always choose type
+
+223
+00:17:55,018 --> 00:17:55,312
+A circuitry for your design.
+
+224
+00:17:55,312 --> 00:18:02,279
+Let me take a few more valves, but that's easily gained back because
+
+225
+00:18:02,279 --> 00:18:05,260
+your machine is much easier serviced.
+
+226
+00:18:05,260 --> 00:18:07,738
+Now for the analogy, when you are program.
+
+227
+00:18:08,992 --> 00:18:19,320
+Correctness of the result and cost of execution are among your major concerns.
+
+228
+00:18:19,320 --> 00:18:24,719
+Both concerns are so important and each by themselves sufficiently demanding
+
+229
+00:18:24,719 --> 00:18:31,860
+that we should set, try to separate them completely, but that means that
+
+230
+00:18:31,860 --> 00:18:34,937
+by worrying about the correctness of a program, its execution should not need
+
+231
+00:18:34,937 --> 00:18:39,477
+to enter your monthly picture at all.
+
+232
+00:18:39,477 --> 00:18:45,280
+Similarly, when worrying about the cost of program execution, we shouldn't
+
+233
+00:18:45,280 --> 00:18:45,833
+need to worry about what result the program is supposed to produce.
+
+234
+00:18:48,593 --> 00:18:53,838
+But this time, the possibility of separating the concerns depends on
+
+235
+00:18:53,838 --> 00:18:57,434
+the programming language and in a way in which it has been defined.
+
+236
+00:19:00,233 --> 00:19:06,399
+The contr controversy among language designers I was referring to is
+
+237
+00:19:06,399 --> 00:19:10,058
+whether or not to define programming, language, semantics, fire, and
+
+238
+00:19:10,058 --> 00:19:15,279
+interpreter, because the definition of the semantics, fire and interpreter,
+
+239
+00:19:15,279 --> 00:19:18,194
+intertwines meaning and interpretation as executable code right at the bottom.
+
+240
+00:19:18,194 --> 00:19:25,440
+You can expect trouble when you try to disentangle them.
+
+241
+00:19:25,440 --> 00:19:28,437
+And on the count of the above considerations, I'm absolutely certain
+
+242
+00:19:28,437 --> 00:19:36,279
+that a necessary condition for progress is a definition of programming, language
+
+243
+00:19:36,279 --> 00:19:43,619
+semantics, independent, independent of any underlying computational model.
+
+244
+00:19:43,619 --> 00:19:51,140
+But I leave it to future historians to figure out, well, the fact that I have
+
+245
+00:19:51,140 --> 00:19:54,498
+now pointed this out for this important audience has made any difference at.
+
+246
+00:19:54,498 --> 00:19:55,656
+Thank you for your attention.
+
+247
+00:20:03,054 --> 00:20:06,117
+We have time for very few questions, but let us accelerate
+
+248
+00:20:12,531 --> 00:20:21,128
+Uh, there are two points in which I disagree with what the speaker has said.
+
+249
+00:20:21,128 --> 00:20:21,546
+Only the first one.
+
+250
+00:20:21,546 --> 00:20:27,078
+That the drums at the mathematical center run at 50 and 60 revolutions
+
+251
+00:20:27,078 --> 00:20:28,412
+per minute, respectively.
+
+252
+00:20:28,412 --> 00:20:38,439
+The second they did the second point, which it disagree won't mention
+
+253
+00:20:38,439 --> 00:20:38,639
+It was 50 75.
+
+254
+00:20:38,639 --> 00:20:42,035
+because I think the speaker is sufficiently excused by the age of Dyke
+
+255
+00:20:51,230 --> 00:20:52,760
+I will, I will.
+
+256
+00:20:52,760 --> 00:20:57,960
+In fact, in that case, take the opportunity of cutting short this.
+
+257
+00:20:57,960 --> 00:21:03,980
+These questions we have very little time you thank, but I would like
+
+258
+00:21:03,980 --> 00:21:07,137
+to take the opportunity of thanking Dykstra for the lecture and suggest.
+
+259
+00:21:07,137 --> 00:21:07,736
+Uh, we'd clap him in the normal fashion.
+
+260
+00:21:16,453 --> 00:21:20,097
+I would also like to steal a minute or two to thank the organizers.
+
+261
+00:21:20,097 --> 00:21:24,100
+Of this conference.
+
+262
+00:21:24,100 --> 00:21:29,340
+It is a conference which I have enjoyed myself intensely, and I know that that
+
+263
+00:21:29,340 --> 00:21:29,540
+has been shared by most other people.
+
+264
+00:21:29,540 --> 00:21:36,502
+It is the only conference that I ever have ever been to where I have attended
+
+265
+00:21:36,502 --> 00:21:43,340
+all the lectures and enjoyed them and found information of considerable, uh, use
+
+266
+00:21:43,340 --> 00:21:48,540
+to me, uh, about things which I thought I knew and did not know, and I do not
+
+267
+00:21:48,540 --> 00:21:48,740
+quite know how we can properly appreci.
+
+268
+00:21:48,740 --> 00:21:55,020
+Uh, the efforts of the organizers, Nick Metropolis and Jack Walton.
+
+269
+00:21:55,020 --> 00:21:58,055
+Uh, we haven't really time enough to thank him properly now, but nevertheless,
+
+270
+00:21:58,055 --> 00:22:02,919
+I think the statement should be made.
+
+271
+00:22:02,919 --> 00:22:08,940
+Um, Nick Metropolis did ask for a few seconds, um, to talk to you.
+
+272
+00:22:08,940 --> 00:22:10,039
+Uh, before we depart.
+
+273
+00:22:10,039 --> 00:22:15,800
+We have, I think about, uh, six minutes left to attain the bus.
+
+274
+00:22:15,800 --> 00:22:20,360
+So this does give us time for a few seconds, but before that, I think.
+
+275
+00:22:20,360 --> 00:22:22,577
+Applaud the efforts of the organizer, which are not only,
+
+276
+00:22:28,210 --> 00:22:33,620
+thank you very much.
+
+277
+00:22:34,512 --> 00:22:43,400
+What is meaningful about any conference is of course, Measured by the quality of
+
+278
+00:22:43,400 --> 00:22:45,738
+the contributions by the participants.
+
+279
+00:22:45,738 --> 00:22:49,638
+And I think on that basis, almost all of us would agree that it was
+
+280
+00:22:49,638 --> 00:22:55,640
+moderately successful on behalf of the.
+
+281
+00:22:55,640 --> 00:22:55,840
+Full organizing committee.
+
+282
+00:22:55,840 --> 00:23:01,900
+I would like to thank you all for the marvelous contributions that have been
+
+283
+00:23:01,900 --> 00:23:02,794
+made and to wish you safe journey home.
+
+284
+00:23:02,794 --> 00:23:03,996
+Thank you very much.
+

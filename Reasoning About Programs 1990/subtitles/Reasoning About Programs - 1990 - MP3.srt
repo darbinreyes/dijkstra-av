@@ -1,0 +1,1988 @@
+1
+00:00:00,000 --> 00:00:06,153
+They'll present two exercises on reasoning about programs.
+
+2
+00:00:06,153 --> 00:00:08,097
+May I introduce Professor Doctor Edgar w.
+
+3
+00:00:15,726 --> 00:00:19,654
+Welcome to this talk on, um, reasoning about programs.
+
+4
+00:00:22,105 --> 00:00:31,159
+We all know that, um, machines are so fast and stores are so big that they give us
+
+5
+00:00:31,159 --> 00:00:31,993
+plenty of latitude to screw things up.
+
+6
+00:00:34,611 --> 00:00:48,740
+And in order to prevent that, um, we have to prove that our programs indeed produce
+
+7
+00:00:48,740 --> 00:00:48,940
+the results we would like them to produce.
+
+8
+00:00:48,940 --> 00:00:57,320
+Um, this talk will have two key themes.
+
+9
+00:00:57,320 --> 00:01:04,779
+The one theme is, uh, the general structure of correctness
+
+10
+00:01:04,779 --> 00:01:07,199
+arguments about programs.
+
+11
+00:01:07,199 --> 00:01:13,920
+The underlying theme is, uh, how to keep the arguments as
+
+12
+00:01:13,920 --> 00:01:14,173
+clean and as simple as possible.
+
+13
+00:01:17,533 --> 00:01:24,338
+One of the ways of, um, achieving the letter is to separate our
+
+14
+00:01:24,338 --> 00:01:28,538
+concerns as best as we can.
+
+15
+00:01:29,066 --> 00:01:34,136
+One of the first separations of concerns we will encounter is the separation
+
+16
+00:01:34,136 --> 00:01:41,538
+between, uh, total correctness and partial correctness, more precisely between
+
+17
+00:01:41,538 --> 00:01:42,313
+partial correctness and termination.
+
+18
+00:01:42,313 --> 00:01:47,297
+Let me introduce the terms to you.
+
+19
+00:01:47,297 --> 00:01:53,340
+Total correctness is our final target.
+
+20
+00:01:53,340 --> 00:01:58,137
+Total correctness means that the program will produce the right result.
+
+21
+00:02:00,513 --> 00:02:04,657
+Partial correctness is a weaker concept.
+
+22
+00:02:05,968 --> 00:02:10,798
+It only guarantees that the program will produce the right results
+
+23
+00:02:10,798 --> 00:02:12,476
+if its execution terminates.
+
+24
+00:02:16,632 --> 00:02:25,739
+The introduction of the notion of partial correctness now splits our concerns for
+
+25
+00:02:25,739 --> 00:02:29,937
+total correctness into two separate ones.
+
+26
+00:02:29,937 --> 00:02:34,338
+One of them is the concern for partial correctness, and the other one is
+
+27
+00:02:34,338 --> 00:02:37,020
+the concern for termination and.
+
+28
+00:02:39,833 --> 00:02:45,258
+We will see that the separation of these two concerns is really helpful
+
+29
+00:02:45,258 --> 00:02:55,600
+because, uh, the considerations about partial correctness are totally
+
+30
+00:02:55,600 --> 00:02:58,759
+independent of proofs of termination.
+
+31
+00:02:58,759 --> 00:03:04,779
+In order to show you the general structure of.
+
+32
+00:03:04,779 --> 00:03:08,376
+Proves particularly for correctness.
+
+33
+00:03:08,376 --> 00:03:10,656
+Let go for a moment to the blackboard.
+
+34
+00:03:10,656 --> 00:03:12,219
+I will.
+
+35
+00:03:12,232 --> 00:03:18,198
+Um, a not that has been introduced, r who
+
+36
+00:03:18,198 --> 00:03:31,679
+in the late sixties let SBA program, program fragment.
+
+37
+00:03:34,832 --> 00:03:43,640
+That Q be the initial condition and that R be post condition,
+
+38
+00:03:43,640 --> 00:03:47,058
+precondition post condition, initial condition, final condition.
+
+39
+00:03:47,058 --> 00:03:48,520
+These are alternative terms.
+
+40
+00:03:51,652 --> 00:03:59,539
+Tony H introduced this to mean that if the initial state.
+
+41
+00:03:59,539 --> 00:04:05,538
+For the execution of the program, fragment s satisfies condition Q Then
+
+42
+00:04:05,538 --> 00:04:13,080
+upon termination, uh, the program will, um, have taken the machine into a
+
+43
+00:04:13,080 --> 00:04:13,280
+final state that satisfies condition R.
+
+44
+00:04:15,831 --> 00:04:23,837
+Um, it is in this formalism that I will describe the general proof rule for a.
+
+45
+00:04:23,837 --> 00:04:30,340
+Repetitive construct.
+
+46
+00:04:30,340 --> 00:04:32,900
+While the repetitive construct, I will take it.
+
+47
+00:04:32,900 --> 00:04:33,100
+Very simple.
+
+48
+00:04:33,100 --> 00:04:33,612
+One contains of two things.
+
+49
+00:04:33,612 --> 00:04:43,439
+A bullying expression, B, saying that the repeatable statement
+
+50
+00:04:43,439 --> 00:04:50,255
+And here's the statement and here's the final closing bracket.
+
+51
+00:04:50,255 --> 00:04:50,455
+should be executed once more.
+
+52
+00:04:50,455 --> 00:04:50,830
+Odd.
+
+53
+00:04:56,273 --> 00:05:00,718
+Firstly, prior to the execution of the whole repeatable
+
+54
+00:05:00,718 --> 00:05:06,339
+statement, a condition P holds.
+
+55
+00:05:06,339 --> 00:05:06,856
+P, by the way, is called the inva.
+
+56
+00:05:06,856 --> 00:05:16,678
+And if S has the property that the initial validity of p and the guard
+
+57
+00:05:19,293 --> 00:05:23,258
+guarantees that upon completion of.
+
+58
+00:05:23,258 --> 00:05:26,897
+P still holds well then.
+
+59
+00:05:30,688 --> 00:05:37,817
+clearly s is such that it execution does not destroy the validity
+
+60
+00:05:37,817 --> 00:05:40,913
+of p p holding at the beginning.
+
+61
+00:05:40,913 --> 00:05:48,698
+P remains true no matter how often the statement is executed, so
+
+62
+00:05:48,698 --> 00:05:51,920
+upon completion, P still holds.
+
+63
+00:05:51,920 --> 00:05:57,980
+But furthermore, because the repetition is terminated, we know
+
+64
+00:05:57,980 --> 00:05:58,180
+that the guard B is no longer true.
+
+65
+00:06:02,052 --> 00:06:09,379
+Now, here we have the general pattern that we will use over and over again to prove
+
+66
+00:06:09,379 --> 00:06:10,993
+things about the repetitive construct.
+
+67
+00:06:11,340 --> 00:06:12,540
+Do B arrows odd?
+
+68
+00:06:17,811 --> 00:06:23,800
+B is called the guard.
+
+69
+00:06:23,800 --> 00:06:24,000
+P is called the in variant.
+
+70
+00:06:24,000 --> 00:06:24,200
+S is called the statement.
+
+71
+00:06:24,200 --> 00:06:27,477
+And the post condition is P and the negation of the guard.
+
+72
+00:06:32,333 --> 00:06:40,540
+We shall now apply these patterns of reasoning to two different examples, and
+
+73
+00:06:40,540 --> 00:06:48,060
+one of them, uh, the first one, Uh, where the correctness concerns play plays, the
+
+74
+00:06:48,060 --> 00:06:51,655
+major role and the second one in which the termination concern plays the major role.
+
+75
+00:06:51,655 --> 00:07:03,820
+Um, for the first example, we shall consider a one person game.
+
+76
+00:07:03,820 --> 00:07:09,678
+One person game is played with a big urn full of pebbles.
+
+77
+00:07:09,678 --> 00:07:16,920
+And each P is white or black.
+
+78
+00:07:16,920 --> 00:07:19,660
+We don't start with an empty.
+
+79
+00:07:19,660 --> 00:07:26,739
+Now, besides, uh, that earned with pebbles, uh, we have a, at our, our
+
+80
+00:07:26,739 --> 00:07:35,257
+disposal as many white or black pebbles as the playing of the game might require.
+
+81
+00:07:39,833 --> 00:07:48,100
+The game is such that, uh, a move is possible when there are
+
+82
+00:07:48,100 --> 00:07:53,020
+at least two pedals in the urn.
+
+83
+00:07:53,020 --> 00:08:00,960
+And as we've also one person games, um, the rule is that, uh, one goes on
+
+84
+00:08:00,960 --> 00:08:02,214
+playing as long as moves are possible.
+
+85
+00:08:04,775 --> 00:08:11,108
+There for a move, there have to be at least two pebbles in the U
+
+86
+00:08:11,108 --> 00:08:11,717
+because the move is the following.
+
+87
+00:08:11,717 --> 00:08:24,660
+What one does is, uh, one shakes the urn and then looks in the opposite direction.
+
+88
+00:08:24,660 --> 00:08:33,540
+Put son's hand in the u, picks up two pebbles and looks at that.
+
+89
+00:08:33,540 --> 00:08:39,940
+Depending on the color of the two pebbles taken out,
+
+90
+00:08:39,940 --> 00:08:40,996
+one puts pebble into rear.
+
+91
+00:08:40,996 --> 00:08:46,017
+Now, here are the color rules stated.
+
+92
+00:08:48,272 --> 00:08:55,000
+Uh, they're too complicated to remember, but we will return to them later.
+
+93
+00:08:55,000 --> 00:08:58,775
+The idea is that if we take out two of different color,
+
+94
+00:09:01,374 --> 00:09:05,120
+We put back the white one.
+
+95
+00:09:05,120 --> 00:09:08,097
+However, if we take out, uh, two peles of equal color,
+
+96
+00:09:12,494 --> 00:09:17,360
+we put a black one into the earth.
+
+97
+00:09:17,360 --> 00:09:22,320
+Now, that's precisely the reason why we need to have.
+
+98
+00:09:22,320 --> 00:09:25,499
+Pebbles in store, in stock, sorry.
+
+99
+00:09:25,499 --> 00:09:31,097
+Cause you have taken out two white ones, then we have to put in a black one.
+
+100
+00:09:31,097 --> 00:09:34,899
+So we have to have a sufficient supply of black pebbles or quickly drying
+
+101
+00:09:34,899 --> 00:09:35,660
+black paint or something like that sort.
+
+102
+00:09:38,254 --> 00:09:41,659
+Now this is the game.
+
+103
+00:09:41,659 --> 00:09:45,979
+Not very exciting, uh, to play perhaps, but it's a worthwhile
+
+104
+00:09:45,979 --> 00:09:46,179
+exercise to think about.
+
+105
+00:09:51,633 --> 00:09:56,498
+The first question is, uh, does this game terminate?
+
+106
+00:10:02,680 --> 00:10:04,020
+Um, yes it does.
+
+107
+00:10:04,020 --> 00:10:12,938
+You see, because, um, we start with the urn filled with a finite number
+
+108
+00:10:12,938 --> 00:10:17,760
+of pedals in it, and, um, each move.
+
+109
+00:10:18,232 --> 00:10:24,598
+Taking out two pebbles and putting in one back reduces the number of pebbles by one.
+
+110
+00:10:24,598 --> 00:10:33,079
+So as the game proceeds, the number of pebbles in the urine decreases.
+
+111
+00:10:33,079 --> 00:10:35,037
+Now obviously that cannot go on forever.
+
+112
+00:10:35,037 --> 00:10:46,640
+So this is an example in which, um, the termination of the process, It's
+
+113
+00:10:46,640 --> 00:10:50,417
+totally, totally trivial to determine.
+
+114
+00:10:53,312 --> 00:11:04,739
+However, uh, the question we are going to address now is about the final state, the
+
+115
+00:11:04,739 --> 00:11:14,440
+final state of the, and we can't continue the game anymore now to begin with, and
+
+116
+00:11:14,440 --> 00:11:16,254
+that's again, Separation of concerns.
+
+117
+00:11:21,893 --> 00:11:32,880
+We could try to analyze what we can say about this game if we totally
+
+118
+00:11:32,880 --> 00:11:38,515
+complete, totally ignore those complicated, uh, call rules if we only
+
+119
+00:11:38,906 --> 00:11:42,273
+capture taken to account from the move.
+
+120
+00:11:42,273 --> 00:11:51,017
+That in each move, two peles are taken out and one is turned back.
+
+121
+00:11:56,372 --> 00:12:08,200
+You see, problem is that, uh, given the initial contents of the urn, what can
+
+122
+00:12:08,200 --> 00:12:08,533
+be said about the color of the final pe?
+
+123
+00:12:12,833 --> 00:12:18,559
+This is cheating already a little bit because, uh, here the question,
+
+124
+00:12:18,559 --> 00:12:27,160
+uh, says that there is a final table, one table left in the urn.
+
+125
+00:12:27,160 --> 00:12:27,360
+Can we prove that?
+
+126
+00:12:27,360 --> 00:12:37,858
+Yes, we can see, because here is a description of the game being played.
+
+127
+00:12:37,858 --> 00:12:46,898
+It's totally ignoring the colors to introduce a integer variable.
+
+128
+00:12:46,898 --> 00:12:53,517
+Little k K is initialized, but the number of pebbles in the
+
+129
+00:12:53,517 --> 00:12:54,122
+earth, whatever their colors.
+
+130
+00:12:57,073 --> 00:13:03,520
+, our first statement, little K becomes capital K is the initialization.
+
+131
+00:13:03,520 --> 00:13:05,438
+And now we know.
+
+132
+00:13:05,438 --> 00:13:13,219
+That, uh, little K is at least one because we knew that the, before the
+
+133
+00:13:13,219 --> 00:13:16,178
+game was started, the was non empathy.
+
+134
+00:13:16,178 --> 00:13:19,280
+And here are the rules here.
+
+135
+00:13:19,280 --> 00:13:27,839
+The, the rest of the game, uh, there you get a repetition and as long as they're at
+
+136
+00:13:27,839 --> 00:13:32,636
+least two pebbles in the game, that is K at least two, we get the two steps of our.
+
+137
+00:13:34,410 --> 00:13:38,360
+K becomes K minus two models, that two tablets are taken out of
+
+138
+00:13:38,360 --> 00:13:45,957
+the game, followed by K becomes K plus one, modeling that a
+
+139
+00:13:46,090 --> 00:13:52,477
+So you combine those two things, uh, those two steps.
+
+140
+00:13:52,477 --> 00:13:52,677
+put back.
+
+141
+00:13:52,677 --> 00:14:00,079
+The net effect of uh, taking out two and uh, putting one back
+
+142
+00:14:00,079 --> 00:14:02,078
+of course is K becomes K minus.
+
+143
+00:14:02,078 --> 00:14:09,440
+Now here you see the uh, annotated program with annotation.
+
+144
+00:14:09,440 --> 00:14:10,074
+Very much the style as I showed in the blackboard.
+
+145
+00:14:10,074 --> 00:14:18,380
+Little K equals becomes capital K, and since capital K was at least
+
+146
+00:14:18,380 --> 00:14:20,314
+one to start with, here we have the initial condition for the repetition,
+
+147
+00:14:20,314 --> 00:14:24,740
+that little k, at least one.
+
+148
+00:14:24,740 --> 00:14:26,818
+Then we got the repetition.
+
+149
+00:14:26,818 --> 00:14:35,780
+Our previous guard, kv, at least two arrow, and at that
+
+150
+00:14:35,780 --> 00:14:40,160
+moment we can assert the Inva P.
+
+151
+00:14:40,160 --> 00:14:41,137
+That was that K was at least one.
+
+152
+00:14:41,137 --> 00:14:46,680
+Also the guard B K is at least two.
+
+153
+00:14:46,680 --> 00:14:49,159
+So at that place we can assert K at least two.
+
+154
+00:14:49,159 --> 00:14:53,960
+Now obviously, The precondition.
+
+155
+00:14:53,960 --> 00:14:58,760
+K at least two guarantees that after the decrease K becomes
+
+156
+00:14:58,760 --> 00:14:59,997
+K minus one K is at least one.
+
+157
+00:14:59,997 --> 00:15:07,838
+So we see that um, the repeatable statement, K becomes K minus one nicely
+
+158
+00:15:07,946 --> 00:15:13,819
+maintains the truth of K, at least one.
+
+159
+00:15:13,819 --> 00:15:19,399
+So upon completion, we know two things.
+
+160
+00:15:19,399 --> 00:15:21,719
+The is full.
+
+161
+00:15:21,719 --> 00:15:24,419
+So K is no longer at least two.
+
+162
+00:15:24,419 --> 00:15:24,619
+So K is less than two.
+
+163
+00:15:24,619 --> 00:15:34,000
+And furthermore, K is at least one, which has only one solution, K equal one.
+
+164
+00:15:34,000 --> 00:15:43,979
+So using techniques of, um, in variance, we have proved the simple.
+
+165
+00:15:43,979 --> 00:15:52,118
+That our game terminates with one table in the earth.
+
+166
+00:15:57,293 --> 00:16:07,640
+So we are indeed entitled to talk about the final table.
+
+167
+00:16:07,640 --> 00:16:15,918
+Let's now return to, uh, the original question and that is, Given the initial
+
+168
+00:16:16,023 --> 00:16:26,917
+contents of the U, what can we say about the color of the final table?
+
+169
+00:16:30,071 --> 00:16:43,220
+Well, this is clearly the moment to, uh, Take the colo into account so it is
+
+170
+00:16:43,220 --> 00:16:50,959
+no longer sufficient to characterize, um, the initial contents of the
+
+171
+00:16:50,959 --> 00:16:53,539
+earned by the total number of pedals.
+
+172
+00:16:53,539 --> 00:16:58,259
+Obviously we must know the number of blacks and the number of
+
+173
+00:16:58,259 --> 00:17:02,417
+whites, so what we used to call capital K, the initial number.
+
+174
+00:17:02,417 --> 00:17:08,795
+We'll now call capital B plus capital W for the initial numbers
+
+175
+00:17:08,795 --> 00:17:16,516
+of blacks and whites, and there we are, little B and little W represent
+
+176
+00:17:16,740 --> 00:17:20,400
+the number.
+
+177
+00:17:20,400 --> 00:17:26,617
+Black pedals currently in the urn and a number of white
+
+178
+00:17:26,617 --> 00:17:30,940
+pedals currently in the urn.
+
+179
+00:17:30,940 --> 00:17:37,920
+First line of this little program, uh, represents the, um, initialization,
+
+180
+00:17:37,920 --> 00:17:38,120
+the initial filling of the urn.
+
+181
+00:17:40,973 --> 00:17:48,039
+Now remember, our move are move.
+
+182
+00:17:48,039 --> 00:17:53,220
+Required at least two peles in the urn.
+
+183
+00:17:53,220 --> 00:17:53,633
+You took them out and looked at the colors.
+
+184
+00:17:56,434 --> 00:17:59,819
+Now they could have different colors.
+
+185
+00:17:59,819 --> 00:18:02,059
+They could be a white one and a black one.
+
+186
+00:18:02,059 --> 00:18:05,059
+When is that a possible outcome?
+
+187
+00:18:05,059 --> 00:18:08,277
+Well, when initially there was at least a white and at least a black
+
+188
+00:18:08,277 --> 00:18:15,035
+one in the, so the condition under which we could pick up a mixed.
+
+189
+00:18:15,035 --> 00:18:25,540
+A white one and a black one is that W is at least one and B is at least one.
+
+190
+00:18:25,540 --> 00:18:25,740
+Well, that's the gar of the first alternative.
+
+191
+00:18:25,740 --> 00:18:34,460
+You see little W, at least one and little B, at least one arrow there.
+
+192
+00:18:34,460 --> 00:18:39,298
+I have sketched as a reminder between braces, the rule of the game, and that
+
+193
+00:18:39,298 --> 00:18:43,835
+says that when you take up a white one and a black one, a white one is returned.
+
+194
+00:18:46,573 --> 00:18:49,937
+Then the assignment statement B becomes B minus one.
+
+195
+00:18:49,937 --> 00:18:57,100
+We see the net effect of that move.
+
+196
+00:18:57,100 --> 00:18:58,557
+The number of black pedals is decreased by one.
+
+197
+00:18:58,557 --> 00:19:03,057
+The number of white pedals is unchanged.
+
+198
+00:19:03,057 --> 00:19:11,898
+The other two, uh, guided commands deal with the cases in.
+
+199
+00:19:11,898 --> 00:19:15,836
+Two Ps of equal color have taken out.
+
+200
+00:19:17,492 --> 00:19:26,180
+If B is at least two, two black Ps can be taken out and
+
+201
+00:19:26,180 --> 00:19:26,380
+a black will be returned again.
+
+202
+00:19:26,380 --> 00:19:33,197
+The net effect on the filling of the U is B becomes B one.
+
+203
+00:19:33,197 --> 00:19:40,298
+The complicated case and to white pebbles are taken.
+
+204
+00:19:40,298 --> 00:19:49,679
+That's the case where we might need to black paint because W decreases
+
+205
+00:19:49,679 --> 00:19:52,195
+by two and B increases by B plus one.
+
+206
+00:19:57,032 --> 00:20:04,758
+So here we have a description of the game that takes the changes
+
+207
+00:20:04,758 --> 00:20:10,778
+in the filling of the color in, or the number of colors in the u.
+
+208
+00:20:10,778 --> 00:20:17,678
+Into account now a moment's inspection of these three possibilities tells
+
+209
+00:20:17,678 --> 00:20:23,738
+us that as far as change in the earn is concerned, we don't need to
+
+210
+00:20:23,738 --> 00:20:25,958
+distinguish between the first two.
+
+211
+00:20:25,958 --> 00:20:29,520
+They just decrease B by one and leave W as is
+
+212
+00:20:32,673 --> 00:20:40,040
+last one, increase B one and decreases be decreases it by.
+
+213
+00:20:40,040 --> 00:20:41,115
+So we see that whatever happens,
+
+214
+00:20:45,774 --> 00:20:51,900
+w remains constant or w is decreased by two.
+
+215
+00:20:51,900 --> 00:20:55,397
+In other words, W is only decreased by two.
+
+216
+00:20:58,252 --> 00:21:08,560
+And that means that if W started even.
+
+217
+00:21:08,560 --> 00:21:08,760
+It will remain evil.
+
+218
+00:21:08,760 --> 00:21:21,179
+If W started odd, it will remain odd, and I showed a consequence
+
+219
+00:21:21,179 --> 00:21:21,660
+of that on the blackboard.
+
+220
+00:21:21,660 --> 00:21:30,679
+Our originally variance for the repetition was that K was at least one, but K is
+
+221
+00:21:30,679 --> 00:21:33,979
+now equal to little B plus little W.
+
+222
+00:21:33,979 --> 00:21:34,179
+So we translate that.
+
+223
+00:21:34,690 --> 00:21:39,500
+Little beep, but little W is at least one.
+
+224
+00:21:39,500 --> 00:21:47,119
+And furthermore, we have established that the  of W does not change.
+
+225
+00:21:47,119 --> 00:21:56,197
+That is the even little W is equivalent to even
+
+226
+00:21:58,020 --> 00:22:01,240
+big.
+
+227
+00:22:01,364 --> 00:22:09,656
+W, capital W and here me, we have answered our problem.
+
+228
+00:22:09,656 --> 00:22:23,580
+You see, because in the case of even w an even, we start with an
+
+229
+00:22:23,580 --> 00:22:23,780
+even number of white pedals in the U
+
+230
+00:22:27,290 --> 00:22:30,260
+remains, even the pump completion.
+
+231
+00:22:30,260 --> 00:22:38,360
+There is only one pebble in the U and that is odd.
+
+232
+00:22:38,360 --> 00:22:40,517
+So the result is that the final pebble
+
+233
+00:22:40,517 --> 00:22:40,717
+One is odd.
+
+234
+00:22:40,717 --> 00:22:46,034
+is black
+
+235
+00:22:52,750 --> 00:22:53,800
+in formula.
+
+236
+00:22:53,800 --> 00:22:58,116
+The final condition is that little W equals zero.
+
+237
+00:22:58,694 --> 00:23:04,400
+And little b equals one.
+
+238
+00:23:04,400 --> 00:23:08,896
+Of course, if you start with an odd number of white ones in the
+
+239
+00:23:13,247 --> 00:23:23,180
+urn, then the final P is white because the final state is characterized
+
+240
+00:23:23,180 --> 00:23:25,176
+by W equals one and B equals zero.
+
+241
+00:23:26,753 --> 00:23:35,459
+As these are the only solutions of B plus W being natural equal to one.
+
+242
+00:23:35,459 --> 00:23:41,198
+So this settles the problem, what can be said about the color of the final table.
+
+243
+00:23:44,373 --> 00:23:50,318
+Now, you may complain about this argument that, um, the conjunct
+
+244
+00:23:50,318 --> 00:23:56,380
+of the contract of the inva, that even that par of W doesn't change.
+
+245
+00:23:56,380 --> 00:24:03,800
+That is an invention, which in general, uh, would be hard to make.
+
+246
+00:24:03,800 --> 00:24:09,100
+Uh, but that complaint is to a certain extent justified.
+
+247
+00:24:09,100 --> 00:24:16,998
+But fortunately, the designing programmer, um, lives in a different situation.
+
+248
+00:24:16,998 --> 00:24:22,138
+He is not offered the ready made program.
+
+249
+00:24:22,138 --> 00:24:28,980
+The rules of the game that I described to you and has to invent, uh, the
+
+250
+00:24:28,980 --> 00:24:38,939
+invariance in, uh, actual practice when a programmer develops correct proof and
+
+251
+00:24:38,939 --> 00:24:46,958
+program hand in hand, he knows the inva before, um, the program has been written.
+
+252
+00:24:46,958 --> 00:24:51,297
+And suppose that his task would have been the following.
+
+253
+00:24:54,911 --> 00:25:08,299
+Uh, you are given an with black and white PEs, you are requested to remove
+
+254
+00:25:09,065 --> 00:25:18,360
+all but the last pedal from the this u.
+
+255
+00:25:18,360 --> 00:25:26,780
+The way in which you may do that is you're not allowed just to turn the U over.
+
+256
+00:25:26,780 --> 00:25:26,980
+You have to do it very carefully.
+
+257
+00:25:26,980 --> 00:25:37,708
+You have to do that in a series of moves, and in each move, uh, you
+
+258
+00:25:37,708 --> 00:25:40,810
+have to satisfy two constraints.
+
+259
+00:25:40,810 --> 00:25:44,388
+The one constraint is that you have to take out two PEs.
+
+260
+00:25:44,388 --> 00:25:47,005
+Put one back in.
+
+261
+00:25:50,963 --> 00:25:58,190
+While there are all sorts of games with such restrictions and there's the famous
+
+262
+00:25:58,190 --> 00:26:00,585
+puzzle of the, uh, missionaries and the cannibals that have to cross a river
+
+263
+00:26:00,585 --> 00:26:05,604
+and this little boat and the boat can contain two people and one goes back
+
+264
+00:26:05,604 --> 00:26:08,563
+to take the boat to the other side.
+
+265
+00:26:10,202 --> 00:26:19,829
+So, uh, the rule two out one in, uh, is not too unusual if, you know, impose
+
+266
+00:26:19,829 --> 00:26:30,288
+upon someone the constraint that he has to do with this in such a way that the
+
+267
+00:26:30,288 --> 00:26:35,185
+parity of the number of white pebbles in the U between moves remains constant.
+
+268
+00:26:36,780 --> 00:26:40,110
+Precisely the rules of this game will come out.
+
+269
+00:26:40,110 --> 00:26:42,363
+And of course, the rules of the game.
+
+270
+00:26:42,363 --> 00:26:46,046
+They were the analog of the program.
+
+271
+00:26:49,323 --> 00:26:55,108
+Well, that's what I wanted to tell about the first example
+
+272
+00:26:55,108 --> 00:26:59,805
+where determination is trivial.
+
+273
+00:26:59,805 --> 00:27:09,089
+The Inva partial correctness considerations take the
+
+274
+00:27:09,089 --> 00:27:09,481
+majority of the load.
+
+275
+00:27:17,224 --> 00:27:21,527
+Our next example is, um, very different.
+
+276
+00:27:21,527 --> 00:27:28,887
+It in passing, it shows, um, another.
+
+277
+00:27:31,157 --> 00:27:37,266
+Form of the interplay between programming and mathematics.
+
+278
+00:27:39,901 --> 00:27:55,210
+Um, in this example, um, a mathematical theorem has to be proved and, uh, the
+
+279
+00:27:55,210 --> 00:28:02,030
+theorum is an existence theorem tells us.
+
+280
+00:28:02,030 --> 00:28:13,109
+A certain result exists, uh, we shall prove that theory by translating it
+
+281
+00:28:13,109 --> 00:28:21,789
+into a programming exercise and writing a program of which we can demonstrate
+
+282
+00:28:21,789 --> 00:28:25,104
+that it computes the desired result.
+
+283
+00:28:27,043 --> 00:28:31,989
+If you can, uh, construct a program that compute a result,
+
+284
+00:28:31,989 --> 00:28:32,189
+that results certainly exists.
+
+285
+00:28:32,189 --> 00:28:44,270
+Let me explain the program first, the problem first, and we are, uh,
+
+286
+00:28:44,270 --> 00:28:55,769
+considering, um, And blue points in the UK plane and an equal number of red
+
+287
+00:28:55,769 --> 00:29:05,709
+points in the UK plane such that no three of them are on the same straight line.
+
+288
+00:29:05,709 --> 00:29:08,087
+Now that is clearly satisfied in this example.
+
+289
+00:29:11,303 --> 00:29:17,910
+Furthermore, next thing to do is that we consider a one to
+
+290
+00:29:17,910 --> 00:29:19,406
+one correspondence between the blue points and the red points.
+
+291
+00:29:19,406 --> 00:29:25,210
+That is each form and pairs.
+
+292
+00:29:25,210 --> 00:29:30,430
+Each pair consists of a blue and a red one.
+
+293
+00:29:30,430 --> 00:29:33,427
+Each blue point is coupled to a red point and.
+
+294
+00:29:34,040 --> 00:29:42,708
+And the two points of the pair are connected by straight line.
+
+295
+00:29:47,780 --> 00:29:50,790
+Um, there are a number of ways in which you do can do so, cause increases
+
+296
+00:29:50,858 --> 00:29:52,662
+rapidly with a number of points.
+
+297
+00:29:52,662 --> 00:29:59,137
+If there's one red and one blue point, you don't have any freedom at all.
+
+298
+00:29:59,137 --> 00:29:59,337
+You can only pair them in one way.
+
+299
+00:29:59,337 --> 00:30:03,647
+Here, uh, we have, uh, three of each.
+
+300
+00:30:03,647 --> 00:30:08,848
+And then the number of ways, the number of one-to-one correspondences between the
+
+301
+00:30:08,848 --> 00:30:12,595
+reds and the blues, the number of ways in which you can pair them is n factorial.
+
+302
+00:30:12,595 --> 00:30:15,426
+So it's, in this case it is six.
+
+303
+00:30:15,460 --> 00:30:29,209
+Now the theory to be proved is that, um, there exists a one to one
+
+304
+00:30:29,209 --> 00:30:32,324
+correspondence such that none of.
+
+305
+00:30:35,443 --> 00:30:37,887
+Line segments intersect.
+
+306
+00:30:42,483 --> 00:30:49,290
+Uh, here we have another pairing of the same six, six points,
+
+307
+00:30:49,290 --> 00:30:52,567
+and here you see that there is still, uh, an intersecting pair.
+
+308
+00:30:52,567 --> 00:30:59,968
+I think that my next slide shows eight possible so.
+
+309
+00:31:08,302 --> 00:31:18,290
+my guess is that for this situation of red and blue points,
+
+310
+00:31:18,290 --> 00:31:19,509
+this is the only solution.
+
+311
+00:31:19,509 --> 00:31:23,029
+In general, the solution is not unique, but okay.
+
+312
+00:31:23,029 --> 00:31:27,768
+Here we have a um, solution.
+
+313
+00:31:30,443 --> 00:31:34,887
+N line segments connecting the point of the bear do not intersect.
+
+314
+00:31:39,462 --> 00:31:50,650
+Now we have to show that for any value of N this is true.
+
+315
+00:31:50,650 --> 00:32:04,290
+Such a solution exists, and we'll do so by designing a program well.
+
+316
+00:32:04,290 --> 00:32:08,190
+Uh, we are making ourselves now very, very life, very easy.
+
+317
+00:32:08,190 --> 00:32:17,430
+We say, well, our program operates on a single variable, variable, uh, named Z and
+
+318
+00:32:17,430 --> 00:32:17,683
+it is of type one to one correspondence.
+
+319
+00:32:19,340 --> 00:32:21,110
+Since there are.
+
+320
+00:32:21,110 --> 00:32:26,908
+I should have said it is of type one to one correspondence between the given
+
+321
+00:32:26,908 --> 00:32:33,610
+and red points and the and blue points that that long sentence could not and
+
+322
+00:32:33,610 --> 00:32:36,689
+didn't fit on the single view graph.
+
+323
+00:32:36,689 --> 00:32:44,448
+So our variable, that type one to one correspondence, it just has end
+
+324
+00:32:44,448 --> 00:32:51,470
+factorial possible values each of.
+
+325
+00:32:51,470 --> 00:32:57,368
+Representing one of the end factorial one to one correspondences.
+
+326
+00:33:00,703 --> 00:33:07,610
+Now, in any program with a repetition, it always starts with initialization
+
+327
+00:33:07,610 --> 00:33:07,810
+and then has a repetition.
+
+328
+00:33:07,810 --> 00:33:14,550
+So the first statement is initializes Z, that, and upon
+
+329
+00:33:14,550 --> 00:33:18,529
+completion of that initialization, that has a permissible value.
+
+330
+00:33:18,529 --> 00:33:26,147
+That is, Z that nts, one of the end factorial onto one correspondence is
+
+331
+00:33:28,024 --> 00:33:29,646
+now in here we have our little program,
+
+332
+00:33:33,482 --> 00:33:38,467
+The program evaluates the bullying Z that has intersection,
+
+333
+00:33:38,467 --> 00:33:38,667
+we evaluate.
+
+334
+00:33:39,440 --> 00:33:40,990
+which is either true or false.
+
+335
+00:33:40,990 --> 00:33:47,210
+If Z that has no intersection, the repetition, terminate.
+
+336
+00:33:47,210 --> 00:33:47,510
+And we are done.
+
+337
+00:33:51,142 --> 00:33:56,728
+If that has an intersection, the only thing the program
+
+338
+00:33:56,750 --> 00:33:57,870
+has to do is to change is set.
+
+339
+00:34:00,702 --> 00:34:07,888
+Now reading this program, uh, quite clear that upon termination,
+
+340
+00:34:07,888 --> 00:34:15,048
+the value of Z is a one-to-one correspondence without intersection.
+
+341
+00:34:17,303 --> 00:34:20,947
+So our only proof obligation is that
+
+342
+00:34:20,947 --> 00:34:25,344
+this program terminates
+
+343
+00:34:28,701 --> 00:34:29,101
+well,
+
+344
+00:34:32,457 --> 00:34:35,263
+as it stands, we cannot prove that yet.
+
+345
+00:34:35,263 --> 00:34:43,829
+You see, because, um, our program as written is a little bit, a
+
+346
+00:34:43,829 --> 00:34:46,628
+little bit, um, non-deterministic.
+
+347
+00:34:46,628 --> 00:34:53,609
+We have left completely open how z that is initialized and that
+
+348
+00:34:53,609 --> 00:35:03,549
+What is very, an incompleteness that is, uh, more serious is that, uh, we
+
+349
+00:35:03,549 --> 00:35:03,749
+probably not very worrisome.
+
+350
+00:35:03,749 --> 00:35:09,366
+haven't indicated how z that is going to be changed if it has an intersection.
+
+351
+00:35:09,366 --> 00:35:13,407
+So let us investigate the situation.
+
+352
+00:35:13,407 --> 00:35:15,082
+That the statement
+
+353
+00:35:18,797 --> 00:35:28,829
+change that has to cope with, now listen, the preceding guard was,
+
+354
+00:35:28,829 --> 00:35:38,310
+that has in the intersection, so the precondition two of the operation
+
+355
+00:35:38,310 --> 00:35:42,066
+change Z is, that has one inter.
+
+356
+00:35:42,066 --> 00:35:48,268
+At least more intersections cannot be guaranteed.
+
+357
+00:35:50,943 --> 00:36:01,790
+So the as yet unrefined statement change that has to be designed in such to be
+
+358
+00:36:01,790 --> 00:36:10,329
+designed in such a way that it copes with the situation one intersection.
+
+359
+00:36:10,329 --> 00:36:14,569
+Now that's a situation we have.
+
+360
+00:36:14,569 --> 00:36:23,527
+Drawn here, two red, two blue, two red blue connections, and they intersect.
+
+361
+00:36:27,403 --> 00:36:32,527
+Now the presence of this sub figure is the only thing we can rely on.
+
+362
+00:36:36,224 --> 00:36:40,047
+How can the one-to-one correspondence be changed?
+
+363
+00:36:44,462 --> 00:36:53,888
+The only way we can do that is changing the, um, solid lines, but the doted
+
+364
+00:36:53,888 --> 00:37:05,970
+lines, the red point and left top was coupled to one of the blue also now
+
+365
+00:37:05,970 --> 00:37:06,170
+has to be paired to the other blue.
+
+366
+00:37:08,403 --> 00:37:11,626
+So the only freedom we have is
+
+367
+00:37:11,626 --> 00:37:20,906
+to change those two pairings and those two connections and the operation flip.
+
+368
+00:37:25,445 --> 00:37:29,310
+I did not give it a name.
+
+369
+00:37:29,310 --> 00:37:29,926
+The operation Flip.
+
+370
+00:37:33,683 --> 00:37:38,947
+I would like you to understand that in, in the design of that operation, we do not
+
+371
+00:37:38,947 --> 00:37:54,229
+have any choice because the precondition queue only guarantees the existence of
+
+372
+00:37:54,229 --> 00:37:57,445
+one intersecting care of connections.
+
+373
+00:37:59,683 --> 00:38:05,490
+No, of course we have to, uh,
+
+374
+00:38:05,490 --> 00:38:06,645
+find determination argument.
+
+375
+00:38:10,341 --> 00:38:23,169
+Regrettably, we cannot argue that if we replace, um, the, um, solid
+
+376
+00:38:23,169 --> 00:38:27,365
+lines by dotted lines, That then the number of intersections decreases.
+
+377
+00:38:29,194 --> 00:38:38,969
+We have removed the one shown, but we may have introduced more.
+
+378
+00:38:38,969 --> 00:38:39,169
+Well, let me give you an example.
+
+379
+00:38:41,423 --> 00:38:47,428
+We had a situation drawn that this blue and this red were connected
+
+380
+00:38:47,490 --> 00:38:50,570
+and this red with the other blue.
+
+381
+00:38:50,570 --> 00:39:01,269
+And the suggestion was to replace to, to couple this red with that
+
+382
+00:39:01,269 --> 00:39:05,070
+blue and that red with that blue.
+
+383
+00:39:05,070 --> 00:39:10,569
+Now this intersection indeed has disappeared.
+
+384
+00:39:10,569 --> 00:39:22,320
+However, uh, we don't know how many, uh, Pairs were here.
+
+385
+00:39:22,320 --> 00:39:30,296
+Or for instance here, the fact that uh, this new connection and this new
+
+386
+00:39:30,296 --> 00:39:39,059
+connection may intersect, heaven knows how many of the other intersections
+
+387
+00:39:39,059 --> 00:39:40,477
+that we did not take into consideration.
+
+388
+00:39:40,477 --> 00:39:40,677
+That tells.
+
+389
+00:39:40,677 --> 00:39:46,337
+That, uh, if we are looking for a termination argument that we cannot
+
+390
+00:39:46,337 --> 00:39:53,757
+derive it from a de in a decrease of the number of intersections may
+
+391
+00:39:53,757 --> 00:40:01,020
+actually increase, but it tells us what, uh, we have to look for.
+
+392
+00:40:01,020 --> 00:40:06,758
+We cannot count a number of intersections because intersection is the result of
+
+393
+00:40:06,758 --> 00:40:11,236
+a pair of segments and we do not know.
+
+394
+00:40:11,236 --> 00:40:20,278
+With how many UN mentioned, uh, connections, our two connections interfere
+
+395
+00:40:20,278 --> 00:40:29,378
+and it tells us that, uh, we have to find our termination argument from,
+
+396
+00:40:29,378 --> 00:40:41,880
+um, an argument that considers the.
+
+397
+00:40:41,880 --> 00:40:44,037
+Connections on a more individual basis.
+
+398
+00:40:44,037 --> 00:40:52,098
+Now, there is one great advantage in this example, and the example is that
+
+399
+00:40:52,098 --> 00:41:01,358
+the advantage is that our state space has only a finite number of possible values.
+
+400
+00:41:03,674 --> 00:41:07,900
+Our state based consists of the single variables.
+
+401
+00:41:07,900 --> 00:41:11,597
+A single variable set has only end factorial different values.
+
+402
+00:41:11,597 --> 00:41:21,579
+So this is a problem with a finite state space, and we can ensure
+
+403
+00:41:21,579 --> 00:41:31,920
+termination if execution of the algorithm never revisit the same state.
+
+404
+00:41:31,920 --> 00:41:35,178
+Never the same state in which the situation computation
+
+405
+00:41:35,178 --> 00:41:37,415
+can be ever returned.
+
+406
+00:41:39,252 --> 00:41:45,698
+Now this we can guarantee if we can define some sort of function on the
+
+407
+00:41:45,698 --> 00:41:53,056
+state that decreases in each step that we are now no longer restricted.
+
+408
+00:41:53,056 --> 00:42:00,319
+To an integer function counting something as we did in the
+
+409
+00:42:00,319 --> 00:42:14,419
+So it is okay if we can find any real function defined on
+
+410
+00:42:14,419 --> 00:42:14,619
+previous example with the pebbles.
+
+411
+00:42:14,619 --> 00:42:20,359
+a one to one correspondence that decreases in this move.
+
+412
+00:42:20,359 --> 00:42:24,678
+Now, the interference argument tells us that this function, It should
+
+413
+00:42:24,678 --> 00:42:32,139
+be built up from contributions from the individual line segments.
+
+414
+00:42:32,139 --> 00:42:43,219
+And now if you look at it, it's quite clear what decreases, uh, because
+
+415
+00:42:43,219 --> 00:42:48,680
+there is such a thing as the triangle in inequality.
+
+416
+00:42:48,680 --> 00:42:53,180
+In each triangle, the sum of two sides.
+
+417
+00:42:53,180 --> 00:42:56,580
+Exceeds some of the length of the third.
+
+418
+00:42:56,580 --> 00:43:02,080
+Now, in this triangle, the length of these two lengths sums are more than that one.
+
+419
+00:43:02,080 --> 00:43:06,240
+And the sum of these two lengths exceed the other doted one.
+
+420
+00:43:06,240 --> 00:43:14,480
+And we see that in this move, the length of these, sorry, the sum of the length
+
+421
+00:43:14,480 --> 00:43:17,475
+of these two uh, connections decreases.
+
+422
+00:43:19,453 --> 00:43:24,678
+The other pairings in the one-to-one correspondence remaining what they are.
+
+423
+00:43:24,678 --> 00:43:32,898
+We conclude that, uh, in the move some of the lengths of the line
+
+424
+00:43:32,898 --> 00:43:38,176
+segments decreases and that is sufficient to demonstrate termination.
+
+425
+00:43:38,176 --> 00:43:44,719
+Hence, our program terminates and he program establishes a one to
+
+426
+00:43:44,719 --> 00:43:45,434
+one correspondence that has no, I.
+
+427
+00:43:45,434 --> 00:43:51,097
+Two final remarks about this, uh, last program.
+
+428
+00:43:51,770 --> 00:44:01,620
+Um, one might ask what has happened to the in variance, capital P
+
+429
+00:44:01,620 --> 00:44:01,820
+of the original introduction?
+
+430
+00:44:01,820 --> 00:44:08,759
+Uh, in this example, capital P, the in variance of the
+
+431
+00:44:08,759 --> 00:44:08,959
+Well, that's very simple.
+
+432
+00:44:08,959 --> 00:44:10,718
+repetition is identically true.
+
+433
+00:44:10,718 --> 00:44:14,537
+You see, because the Inva states.
+
+434
+00:44:14,537 --> 00:44:20,975
+Um, a condition that will be satisfied, uh, all through the repetition.
+
+435
+00:44:20,975 --> 00:44:30,500
+So all states in which the inva is false are ruled out.
+
+436
+00:44:30,500 --> 00:44:36,699
+But thanks to the introduction of, uh, our abstract variable of type
+
+437
+00:44:36,699 --> 00:44:40,339
+one to one correspondence that we just postulated that can have
+
+438
+00:44:40,339 --> 00:44:40,539
+in factorial different values.
+
+439
+00:44:40,539 --> 00:44:51,858
+The introduction of that abstract variable enabled us, um, to introduce
+
+440
+00:44:51,858 --> 00:44:58,355
+a state space of n factorial, uh, state in which all states are allowed.
+
+441
+00:44:58,355 --> 00:45:05,739
+So nothing is ruled out and p can be true and hence can
+
+442
+00:45:05,739 --> 00:45:05,939
+disappear from the arguments.
+
+443
+00:45:10,292 --> 00:45:21,078
+In a more realistic computation, uh, the one to one correspondence
+
+444
+00:45:21,078 --> 00:45:31,459
+would probably be represented as, um, one of the permutation, one of
+
+445
+00:45:31,459 --> 00:45:36,480
+the in factorial permutations of the number from north through n minus
+
+446
+00:45:36,480 --> 00:45:39,220
+one or something of that sort and.
+
+447
+00:45:39,220 --> 00:45:41,739
+You would probably use an array or a sequence for that.
+
+448
+00:45:41,739 --> 00:45:48,979
+And in that case, part of the inva would be that, um, that array or sequence
+
+449
+00:45:48,979 --> 00:45:57,578
+represents one of the permutations of numbers from not to n minus one, but
+
+450
+00:45:57,578 --> 00:46:04,436
+by proper choice of, uh, the abstract type one-to-one correspondence.
+
+451
+00:46:07,092 --> 00:46:16,778
+We have eliminated, so to speak, uh, the in variant p from our considerations,
+
+452
+00:46:19,653 --> 00:46:25,720
+so much in favor of abstract programs.
+
+453
+00:46:25,720 --> 00:46:30,736
+Another remark to be made is the, to compare this argument with.
+
+454
+00:46:30,736 --> 00:46:37,900
+How classical mathematics would formulate it.
+
+455
+00:46:37,900 --> 00:46:42,879
+I think that classical mathematical argument would be as follows.
+
+456
+00:46:42,879 --> 00:46:45,697
+There is a finite number of one to one correspondences.
+
+457
+00:46:45,697 --> 00:46:53,719
+Consider now the one to one correspondences such that the sum of the
+
+458
+00:46:53,719 --> 00:46:57,439
+lengths of the connections is minimal.
+
+459
+00:46:57,439 --> 00:46:59,057
+And suppose that that one has.
+
+460
+00:47:00,873 --> 00:47:06,318
+Intersection then comes the same argument that we had, and you construct
+
+461
+00:47:06,318 --> 00:47:14,740
+a shorter one to one correspondence.
+
+462
+00:47:14,740 --> 00:47:20,578
+You have contradiction and by reduction at absurd is proved.
+
+463
+00:47:22,993 --> 00:47:30,919
+I think that our argument here is preferable for two reasons.
+
+464
+00:47:30,919 --> 00:47:39,479
+First of all, we have avoided the reduction out absurd and give a
+
+465
+00:47:39,479 --> 00:47:40,833
+completely constructive proof.
+
+466
+00:47:48,350 --> 00:47:49,640
+Secondly, um,
+
+467
+00:47:50,465 --> 00:47:58,118
+we are freed from the moral obligation that many a classical mathematician feels,
+
+468
+00:47:58,118 --> 00:48:09,758
+and that is, Uh, after he has given a proof as a sketched ads note that the
+
+469
+00:48:09,860 --> 00:48:29,420
+shortest one to one correspondence need to not be the only solution in our case.
+
+470
+00:48:29,420 --> 00:48:36,236
+The final value of our program can be any of the intersection,
+
+471
+00:48:36,236 --> 00:48:41,900
+three one-to-one correspondences.
+
+472
+00:48:41,900 --> 00:48:48,038
+If there are, if there is another, uh, one-to-one correspondence because
+
+473
+00:48:48,038 --> 00:48:51,614
+we have left the, uh, first state.
+
+474
+00:48:51,614 --> 00:48:55,957
+Initialize Z, completely undetermined.
+
+475
+00:48:55,957 --> 00:49:01,097
+It could initialize Z with that value.
+
+476
+00:49:01,097 --> 00:49:05,838
+And immediately the repetition terminates.
+
+477
+00:49:05,838 --> 00:49:08,397
+So here we have in program
+
+478
+00:49:13,033 --> 00:49:19,378
+that, uh, yeah, which each possible answer is possible, if I may see so.
+
+479
+00:49:21,966 --> 00:49:31,178
+Now this concludes the treatment of
+
+480
+00:49:31,178 --> 00:49:33,660
+the second example.
+
+481
+00:49:39,352 --> 00:49:50,419
+One final request to you having seen how.
+
+482
+00:49:50,419 --> 00:49:58,596
+We can convince ourselves that programs indeed are totally correct.
+
+483
+00:50:04,273 --> 00:50:11,238
+Please realize that if you have written a program
+
+484
+00:50:14,855 --> 00:50:16,096
+and it's not correct,
+
+485
+00:50:19,933 --> 00:50:26,338
+That is a little bit cowardly to say that your program had a bug.
+
+486
+00:50:29,572 --> 00:50:40,779
+To call errors, bugs is a very primitive animistic attitude.
+
+487
+00:50:40,779 --> 00:50:46,560
+Suggests that that, that the bug has a life of itself.
+
+488
+00:50:46,560 --> 00:50:51,117
+That you're not totally responsible for it, the mean little bug
+
+489
+00:50:52,249 --> 00:50:55,056
+crept in behind your back.
+
+490
+00:50:55,056 --> 00:50:55,256
+At the moment, you were not looking.
+
+491
+00:50:55,256 --> 00:51:03,499
+Yah, now this is not true if the program is not correct.
+
+492
+00:51:03,499 --> 00:51:13,980
+You made an error and my request, my prayer so to speak, is.
+
+493
+00:51:13,980 --> 00:51:18,976
+That you stop using the term bugs for program errors, but
+
+494
+00:51:18,976 --> 00:51:21,432
+call them what they are Errors
+
+495
+00:51:25,952 --> 00:51:37,280
+unless we change our language and call an error and error.
+
+496
+00:51:37,280 --> 00:51:40,140
+Programming and computing science have not yet matured.
+
+497
+00:51:40,140 --> 00:51:42,263
+Thank you for your attention.
+

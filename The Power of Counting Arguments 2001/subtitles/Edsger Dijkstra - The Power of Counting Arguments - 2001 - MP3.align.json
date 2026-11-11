@@ -1,0 +1,14 @@
+{
+  "slug": "counting-2001",
+  "source_srt": "The Power of Counting Arguments 2001/subtitles/Edsger Dijkstra - The Power of Counting Arguments - 2001 - Remastered 2.srt",
+  "source_mp3": "The Power of Counting Arguments 2001/audio/Edsger Dijkstra - Lecture - Power of Counting Arguments - Cadence Labs - 2001.mp3",
+  "output_srt": "The Power of Counting Arguments 2001/subtitles/Edsger Dijkstra - The Power of Counting Arguments - 2001 - MP3.srt",
+  "original_cues": 803,
+  "written_cues": 739,
+  "aligned_cues": 727,
+  "dropped_cues": 76,
+  "machine_cues": 12,
+  "machine_seconds": 28.9,
+  "matched_srt_words": 6375,
+  "srt_words": 7484
+}

@@ -1,0 +1,2172 @@
+1
+00:00:08,853 --> 00:00:13,917
+The problem I would like to deal with in this hour is interesting as an example of
+
+2
+00:00:13,917 --> 00:00:22,337
+the possible interplay between mathematics and um, computing science programming.
+
+3
+00:00:22,337 --> 00:00:28,315
+As a matter of fact, um, The history of this problem is
+
+4
+00:00:29,024 --> 00:00:40,460
+interesting in the sense that, um, Silvester conject it in, uh, 1893.
+
+5
+00:00:40,460 --> 00:00:46,560
+He and his contemporaries could do nothing with it.
+
+6
+00:00:46,560 --> 00:00:51,516
+Uh, it remained dormant until 1933 when air
+
+7
+00:00:51,516 --> 00:01:05,940
+revived interest in the problem and, um, sometime later, uh, a proof was.
+
+8
+00:01:05,940 --> 00:01:06,780
+Given by T. Galli.
+
+9
+00:01:06,780 --> 00:01:11,940
+I have not seen that proof.
+
+10
+00:01:11,940 --> 00:01:19,519
+Uh, but it is a proof that even Coter describes as rather complicated, and we
+
+11
+00:01:19,519 --> 00:01:28,640
+had to wait until 1948 until M M L L M.
+
+12
+00:01:28,640 --> 00:01:28,840
+I don't, I'm not quite sure.
+
+13
+00:01:28,840 --> 00:01:34,339
+So I omitted until Kelly came.
+
+14
+00:01:44,541 --> 00:02:02,516
+State theor, and that is for any finite number of distinct points.
+
+15
+00:02:02,516 --> 00:02:02,716
+Now let me first, uh,
+
+16
+00:02:08,933 --> 00:02:15,318
+In the real  plane, and with real, we mean, uh, that the coordinates are not.
+
+17
+00:02:21,935 --> 00:02:23,857
+We can assert the following.
+
+18
+00:02:25,914 --> 00:02:26,855
+All the points
+
+19
+00:02:27,360 --> 00:02:31,160
+are linear
+
+20
+00:02:36,772 --> 00:02:43,597
+or there exists a straight line.
+
+21
+00:02:43,597 --> 00:02:51,033
+Through exactly two of them
+
+22
+00:02:58,974 --> 00:03:01,277
+with exactly two, I mean, not three.
+
+23
+00:03:03,790 --> 00:03:13,519
+Uh, and now one of the things, uh, That, uh, may indicate that the
+
+24
+00:03:13,519 --> 00:03:19,437
+theorem is possibly not completely trivial, is that this is not a,
+
+25
+00:03:19,437 --> 00:03:23,438
+uh, combinatorial theorem, you see?
+
+26
+00:03:23,438 --> 00:03:25,660
+Because, uh, oh, yeah.
+
+27
+00:03:26,873 --> 00:03:31,217
+For the sake of brevity, when I know the remaining of this hour, I will
+
+28
+00:03:31,217 --> 00:03:35,279
+see points, I mean distinct points.
+
+29
+00:03:35,279 --> 00:03:35,916
+And when I see line, I mean straight line.
+
+30
+00:03:38,410 --> 00:03:52,078
+Uh, for the ellian axiom that connects points and lines, is that any two points
+
+31
+00:03:55,991 --> 00:03:56,953
+determine.
+
+32
+00:03:56,953 --> 00:04:03,380
+Uniquely.
+
+33
+00:04:03,380 --> 00:04:03,580
+Uniquely determined.
+
+34
+00:04:12,014 --> 00:04:13,516
+they line through them.
+
+35
+00:04:13,516 --> 00:04:14,000
+Yeah.
+
+36
+00:04:15,090 --> 00:04:16,220
+Sorry.
+
+37
+00:04:20,614 --> 00:04:24,560
+Now let us translate.
+
+38
+00:04:24,560 --> 00:04:30,839
+The, the, uh, formulation of all these properties and theorems a little bit.
+
+39
+00:04:30,839 --> 00:04:36,816
+Uh, let us call, let us translate points into persons lines, into clubs.
+
+40
+00:04:36,816 --> 00:04:43,628
+A point lies on the line is the person is a member of the club.
+
+41
+00:04:43,628 --> 00:04:50,100
+In that case, the axiom about club membership is that any.
+
+42
+00:04:50,100 --> 00:04:56,376
+Two persons uniquely determine
+
+43
+00:05:00,413 --> 00:05:05,356
+the the club of which they are a member.
+
+44
+00:05:15,294 --> 00:05:18,458
+That's the translation of this one.
+
+45
+00:05:18,458 --> 00:05:29,437
+However, um, the conjecture of, um, Sylvester would be that in a finite
+
+46
+00:05:29,437 --> 00:05:41,040
+population where this club membership rule holds, Either all persons are they exist,
+
+47
+00:05:41,040 --> 00:05:45,918
+either all persons are a member of the same club or their exist club with exactly
+
+48
+00:05:45,918 --> 00:05:52,795
+two members in terms of members and clubs.
+
+49
+00:05:54,034 --> 00:05:55,376
+Theum is not true.
+
+50
+00:05:55,376 --> 00:06:07,337
+It is not too difficult to construct a counter example, uh, place.
+
+51
+00:06:10,266 --> 00:06:18,496
+Uh, A population of seven.
+
+52
+00:06:22,040 --> 00:06:33,037
+And now I'm, I'm going to create seven clubs of three members,
+
+53
+00:06:33,037 --> 00:06:33,237
+Yes.
+
+54
+00:06:36,213 --> 00:06:37,775
+and I do that by,
+
+55
+00:06:42,507 --> 00:06:51,438
+Putting these three members in one club, the remaining six clubs you
+
+56
+00:06:51,438 --> 00:06:52,413
+get by rotation of that triangle,
+
+57
+00:06:57,513 --> 00:07:02,940
+any pair of the complete.
+
+58
+00:07:02,940 --> 00:07:07,874
+Seven graph has six times, seven times six.
+
+59
+00:07:07,874 --> 00:07:08,074
+Seven graph to complete.
+
+60
+00:07:08,074 --> 00:07:11,175
+Over two is 21 edges.
+
+61
+00:07:11,175 --> 00:07:16,014
+That is in the complete, in the population of seven.
+
+62
+00:07:17,606 --> 00:07:24,340
+Persons, you can isolate 21 pairs.
+
+63
+00:07:24,340 --> 00:07:30,400
+Each pair uniquely determines the triangle to each edge.
+
+64
+00:07:30,400 --> 00:07:31,957
+Uniquely determines the triangle to which it belongs.
+
+65
+00:07:31,957 --> 00:07:36,038
+However, uh, You see that with these seven clubs of three members,
+
+66
+00:07:39,454 --> 00:07:44,699
+it is not true that all persons belong to the same club.
+
+67
+00:07:44,699 --> 00:07:46,040
+Cause each club has at most three members.
+
+68
+00:07:46,040 --> 00:07:50,917
+And it is not true that our existing club with exactly two members.
+
+69
+00:07:50,917 --> 00:08:03,620
+So, uh, we know from this counter example, Somewhere along the proof we have to
+
+70
+00:08:03,620 --> 00:08:09,579
+use more of Ellian geometry, more of properties of Ellian plane than just
+
+71
+00:08:09,579 --> 00:08:11,554
+that any two points uniquely determined the straight lines through them.
+
+72
+00:08:13,392 --> 00:08:23,879
+Now what I propose to do is to approach this problem as
+
+73
+00:08:23,879 --> 00:08:30,058
+a programming exercise and.
+
+74
+00:08:30,058 --> 00:08:33,215
+And what I shall do is show
+
+75
+00:08:36,889 --> 00:08:45,040
+that if the given points are not linear, that then there exists aligned
+
+76
+00:08:45,040 --> 00:08:48,359
+through exactly two of those points.
+
+77
+00:08:48,359 --> 00:08:54,516
+And I will show the existence of, um, such a line by.
+
+78
+00:08:54,516 --> 00:09:02,095
+Um, designing an algorithm that computes that line.
+
+79
+00:09:09,690 --> 00:09:10,720
+Well,
+
+80
+00:09:11,367 --> 00:09:17,380
+I need one function, no pole.
+
+81
+00:09:17,380 --> 00:09:21,177
+That is short for the number of points on.
+
+82
+00:09:25,192 --> 00:09:31,638
+Yeah, we have one variable Q of type nine.
+
+83
+00:09:31,638 --> 00:09:38,339
+I may need a little bit more space.
+
+84
+00:09:38,339 --> 00:09:38,860
+I will develop the program here.
+
+85
+00:09:38,860 --> 00:09:46,598
+Um, we have one variable, two of type
+
+86
+00:09:52,294 --> 00:09:53,576
+and what can we do with,
+
+87
+00:09:57,354 --> 00:09:59,717
+we have to initialize that variable.
+
+88
+00:10:02,192 --> 00:10:09,460
+Now, and it's since lines are determined by two points.
+
+89
+00:10:09,460 --> 00:10:20,278
+Uh, my proposal is, uh, that we initial that the program Initializes Q.
+
+90
+00:10:20,278 --> 00:10:27,475
+Such that upon initialization P holds.
+
+91
+00:10:28,690 --> 00:10:30,394
+And what will p b?
+
+92
+00:10:33,351 --> 00:10:41,380
+Well, there's no point in considering, uh, lines.
+
+93
+00:10:41,380 --> 00:10:43,299
+Let's go through no points or only one points.
+
+94
+00:10:44,092 --> 00:10:52,660
+We shall initialize Q in such a way
+
+95
+00:10:52,660 --> 00:10:59,918
+that the number of points on Q, no number of points of Q.
+
+96
+00:10:59,918 --> 00:11:06,820
+Well, ideally, of course, it's exactly two, but I cannot guarantee that it may.
+
+97
+00:11:06,820 --> 00:11:14,279
+But in any case, uh, we can confine our attention to cues that
+
+98
+00:11:14,279 --> 00:11:14,479
+Larger.
+
+99
+00:11:14,479 --> 00:11:14,679
+go through at least two points.
+
+100
+00:11:14,679 --> 00:11:17,718
+So that's being done.
+
+101
+00:11:17,718 --> 00:11:19,376
+Next is the test.
+
+102
+00:11:22,852 --> 00:11:28,398
+We now going to create a repetition, uh, whether this queue is accept.
+
+103
+00:11:28,398 --> 00:11:36,679
+Well, it is acceptable if the number of points on Q equals two.
+
+104
+00:11:36,679 --> 00:11:44,980
+However, if that number is larger than two, then something has to be done.
+
+105
+00:11:44,980 --> 00:11:54,317
+Well upon completion of this, um, loop, we know P and the falsity of the guard.
+
+106
+00:11:54,317 --> 00:12:00,539
+That is the no P of Q is at most two.
+
+107
+00:12:00,539 --> 00:12:02,777
+Well, P says that no P of Q is at least two.
+
+108
+00:12:02,777 --> 00:12:11,916
+So hands, um, The number of points on Q equals two and we.
+
+109
+00:12:12,110 --> 00:12:23,619
+Uh, well, the only thing of course is that, uh, here as repeatable statement, we
+
+110
+00:12:23,619 --> 00:12:28,796
+have to change Q under in variance of B.
+
+111
+00:12:35,886 --> 00:12:39,554
+So this is the program and.
+
+112
+00:12:39,780 --> 00:12:43,620
+It's okay.
+
+113
+00:12:44,914 --> 00:12:49,098
+And does the job provided that we can demonstrate that
+
+114
+00:12:49,098 --> 00:12:51,714
+this program terminates now?
+
+115
+00:12:52,410 --> 00:13:03,019
+Uh, in order to prove termination of this program, we
+
+116
+00:13:03,019 --> 00:13:06,579
+might have to do two things.
+
+117
+00:13:06,579 --> 00:13:08,989
+First of.
+
+118
+00:13:08,989 --> 00:13:11,719
+Uh, we might have to take it to account things that we didn't know,
+
+119
+00:13:11,719 --> 00:13:16,479
+secondly, that we haven't used that are given, but we haven't used yet.
+
+120
+00:13:16,479 --> 00:13:18,795
+Secondly, uh, we, um,
+
+121
+00:13:21,848 --> 00:13:30,659
+May have to resolve some of the non-determinism, earlier vagueness,
+
+122
+00:13:30,659 --> 00:13:40,580
+uh, in the statement that changes q uh, one thing that I have omitted to
+
+123
+00:13:40,580 --> 00:13:47,458
+point out and that is that here we are confining our situation to this case.
+
+124
+00:13:47,458 --> 00:13:50,498
+Points are not linear
+
+125
+00:13:57,734 --> 00:14:02,980
+because that was the circumstance under which we were going to,
+
+126
+00:14:02,980 --> 00:14:05,200
+uh, show the presence of a line Q so that no point Q equals two.
+
+127
+00:14:05,200 --> 00:14:11,738
+The fact that the points are not linear implies that there
+
+128
+00:14:11,738 --> 00:14:14,959
+are at least three points.
+
+129
+00:14:14,959 --> 00:14:19,360
+And therefore it's possible to initialize.
+
+130
+00:14:19,360 --> 00:14:21,139
+Q such that Phole.
+
+131
+00:14:21,139 --> 00:14:28,600
+See, because, uh, to see that the initial value of Q is such that
+
+132
+00:14:28,600 --> 00:14:31,979
+at least two points that I ask you, you need at least two points.
+
+133
+00:14:31,979 --> 00:14:37,379
+So here we are now, uh, what we have.
+
+134
+00:14:37,379 --> 00:14:44,500
+We have made a very meager use of the fact that it is, given that the points are not
+
+135
+00:14:44,500 --> 00:14:46,817
+linear, we have only used the consequence that there are at least two points.
+
+136
+00:14:49,610 --> 00:14:50,700
+Uh, now,
+
+137
+00:14:53,731 --> 00:15:01,537
+uh, question what general conclusion can we draw?
+
+138
+00:15:01,537 --> 00:15:11,237
+With respect to Q and the points from the fact that the points are not colon,
+
+139
+00:15:20,054 --> 00:15:21,936
+there is a point not on Q.
+
+140
+00:15:22,490 --> 00:15:23,100
+Yes.
+
+141
+00:15:28,832 --> 00:15:36,638
+So my proposal is to take that into account by introducing
+
+142
+00:15:36,767 --> 00:15:39,093
+a variable of type point
+
+143
+00:15:42,335 --> 00:15:45,600
+variable.
+
+144
+00:15:45,600 --> 00:15:51,536
+E will of type will be of type point E will also be initialized.
+
+145
+00:15:56,073 --> 00:16:01,818
+And the fact that the points are not linear, I can celebrate that by seeing
+
+146
+00:16:01,818 --> 00:16:16,598
+to it that when Q goes through 3.2 to through two points, E lies not on cue.
+
+147
+00:16:20,214 --> 00:16:22,698
+I'm going to.
+
+148
+00:16:22,698 --> 00:16:32,638
+And, uh, the fact that this possibility to assign to a variable e appoint
+
+149
+00:16:32,638 --> 00:16:38,117
+that lies not on cue, and to maintain that in variance, that is the way
+
+150
+00:16:38,117 --> 00:16:45,676
+in which I exploit, um, the, uh, non-linearity of the given points.
+
+151
+00:16:49,790 --> 00:16:50,600
+Notice.
+
+152
+00:16:50,865 --> 00:16:56,535
+That the possibility to assign to e such a value is the only possible
+
+153
+00:16:56,535 --> 00:17:02,059
+conclusion that we can directly draw from the non-linearity.
+
+154
+00:17:02,059 --> 00:17:07,538
+Yeah, there is the maintenance of this invariance extracts out of the fact
+
+155
+00:17:07,538 --> 00:17:12,294
+that the points are not , everything that can be extracted from it.
+
+156
+00:17:15,450 --> 00:17:16,440
+Now, uh,
+
+157
+00:17:21,354 --> 00:17:29,278
+not surprisingly in the change of queue, we will have to change e as well.
+
+158
+00:17:29,278 --> 00:17:38,140
+Now let us inspect a little bit what kind of freedom we have.
+
+159
+00:17:38,140 --> 00:17:38,340
+Well, what do we know?
+
+160
+00:17:43,690 --> 00:17:51,717
+Uh, More than two points lie on Q, so we can point to at least three
+
+161
+00:17:52,946 --> 00:17:57,416
+points on Q that lie on Q letters.
+
+162
+00:17:57,432 --> 00:18:05,479
+Name them A, B, and C lies lie.
+
+163
+00:18:05,479 --> 00:18:13,896
+On Q and uh, E lies not on q.
+
+164
+00:18:13,896 --> 00:18:26,199
+Uh, and I will make a picture and I promise to you that the, that
+
+165
+00:18:26,199 --> 00:18:26,399
+will be the only picture I make.
+
+166
+00:18:28,974 --> 00:18:31,076
+Uh, and I wait a little bit.
+
+167
+00:18:35,174 --> 00:18:37,918
+We have to change.
+
+168
+00:18:37,918 --> 00:18:38,452
+We have to change Q.
+
+169
+00:18:38,452 --> 00:18:42,216
+Now, what possibilities do we have?
+
+170
+00:18:45,330 --> 00:18:49,116
+Well, I will make two pictures.
+
+171
+00:18:49,116 --> 00:18:49,316
+As it is.
+
+172
+00:18:49,316 --> 00:18:55,420
+Uh, here are A, B, and C.
+
+173
+00:18:55,420 --> 00:18:55,620
+Okay.
+
+174
+00:18:55,620 --> 00:18:55,820
+And here is E.
+
+175
+00:18:57,533 --> 00:19:01,997
+Claim is that we have only three possibilities for the new value of Q,
+
+176
+00:19:01,997 --> 00:19:06,198
+and that's from E through this one.
+
+177
+00:19:06,198 --> 00:19:12,038
+From E to that one, because these four points are the only points, the
+
+178
+00:19:12,038 --> 00:19:12,238
+From E to that one.
+
+179
+00:19:12,238 --> 00:19:13,113
+existence of which we can guarantee.
+
+180
+00:19:14,672 --> 00:19:21,860
+Now through, through two of those is excluded because then we don't change Q.
+
+181
+00:19:21,860 --> 00:19:23,634
+So Q, the new Q has to go through the old E
+
+182
+00:19:26,894 --> 00:19:28,456
+and through one of those three.
+
+183
+00:19:28,456 --> 00:19:37,980
+Now, uh, the one it goes through is, uh, I will call and I'll, I'll wrap it out.
+
+184
+00:19:37,980 --> 00:19:41,200
+I will call a, I'm free in the naming here.
+
+185
+00:19:41,200 --> 00:19:41,720
+So the new value of few.
+
+186
+00:19:44,673 --> 00:19:54,840
+Becomes, uh, the line e a
+
+187
+00:19:54,840 --> 00:19:55,333
+and now I must,
+
+188
+00:20:03,854 --> 00:20:07,559
+now I rub this out again.
+
+189
+00:20:07,559 --> 00:20:07,759
+So
+
+190
+00:20:07,759 --> 00:20:11,320
+I'm going to make a new picture.
+
+191
+00:20:11,320 --> 00:20:11,520
+This is q.
+
+192
+00:20:12,954 --> 00:20:13,755
+And this is E
+
+193
+00:20:21,073 --> 00:20:26,017
+and I've put an A here, and this will be my.
+
+194
+00:20:27,630 --> 00:20:29,440
+Yeah.
+
+195
+00:20:35,652 --> 00:20:48,140
+Now the existence of E has been used to show the, uh, Possibility
+
+196
+00:20:48,140 --> 00:20:50,876
+of introducing E and keeping this second term of the invariance.
+
+197
+00:20:57,434 --> 00:21:01,840
+Now we have to think about a termination arguments.
+
+198
+00:21:01,840 --> 00:21:10,819
+Now listen, in the original statement of the theorem, we
+
+199
+00:21:10,819 --> 00:21:14,078
+have a finite number of points.
+
+200
+00:21:14,078 --> 00:21:28,720
+This means that, uh, our state space that consists of a Q and an E has
+
+201
+00:21:28,720 --> 00:21:28,920
+a finite number of possible values.
+
+202
+00:21:28,920 --> 00:21:37,260
+There's a finite number of values, possible values for q
+
+203
+00:21:37,260 --> 00:21:37,480
+and uh, for each value of Q.
+
+204
+00:21:37,480 --> 00:21:41,394
+There is a finite possible number of values for e.
+
+205
+00:21:41,394 --> 00:21:50,818
+And it is in this finite space that we have to find a termination argument.
+
+206
+00:21:51,834 --> 00:21:56,220
+How do we find a termination argument?
+
+207
+00:21:56,220 --> 00:22:01,539
+Well, the standard way is that you define an a natural function on the
+
+208
+00:22:01,539 --> 00:22:07,639
+state space, which in each step of the repetition is decreased by at least one.
+
+209
+00:22:07,639 --> 00:22:17,040
+However, since our space consists of a finite number of states, uh,
+
+210
+00:22:17,040 --> 00:22:25,259
+we can drop the constraint of the, the variant function being integer.
+
+211
+00:22:25,259 --> 00:22:34,120
+It's suffices to define an integer value, an integer function of the state.
+
+212
+00:22:34,120 --> 00:22:41,380
+Of which subsequently, we can prove that, uh, it's bounded from
+
+213
+00:22:41,380 --> 00:22:42,634
+below and decreases in each step.
+
+214
+00:22:46,412 --> 00:22:56,579
+Now our current state always exists of a line Q and a point E.
+
+215
+00:22:56,579 --> 00:22:58,838
+Not on that line.
+
+216
+00:22:58,838 --> 00:23:07,279
+Can anybody think of a real function of a point and a line
+
+217
+00:23:07,279 --> 00:23:07,479
+that is bounded from below?
+
+218
+00:23:11,834 --> 00:23:14,438
+The yian distance.
+
+219
+00:23:14,438 --> 00:23:14,810
+Thank you very much.
+
+220
+00:23:14,810 --> 00:23:16,779
+Yes.
+
+221
+00:23:16,779 --> 00:23:30,420
+So, but if we do take the yian distance, then I know which of the other two, B
+
+222
+00:23:30,420 --> 00:23:33,839
+and C, she will be taken as our new.
+
+223
+00:23:33,839 --> 00:23:40,059
+The choice that minimizes the distance to the new queue as much as possible.
+
+224
+00:23:40,059 --> 00:23:47,756
+So here we put off B and c, the nearest
+
+225
+00:23:47,756 --> 00:23:54,416
+to our new queue
+
+226
+00:24:00,130 --> 00:24:13,360
+Uh, of the six possibilities that we had here, there are still three
+
+227
+00:24:13,360 --> 00:24:13,560
+and now.
+
+228
+00:24:13,560 --> 00:24:16,295
+left and that is in the choice of capital A, because the choice of which
+
+229
+00:24:16,295 --> 00:24:18,912
+New Point has been settled by this.
+
+230
+00:24:18,912 --> 00:24:31,200
+So now our only obligation is to see, to it to prove.
+
+231
+00:24:31,200 --> 00:24:36,859
+Possibly by resolving the remaining, uh, non determinacy
+
+232
+00:24:36,859 --> 00:24:40,557
+that our algorithm terminates.
+
+233
+00:24:40,557 --> 00:24:54,920
+That is that the distance from E to pew actually decreases.
+
+234
+00:24:54,920 --> 00:24:55,497
+So here we are.
+
+235
+00:24:55,497 --> 00:25:11,099
+Or old E, and this was our old queue, and we call this distance H, and
+
+236
+00:25:11,099 --> 00:25:11,299
+This was our.
+
+237
+00:25:11,299 --> 00:25:17,619
+well B is somewhere the new distance.
+
+238
+00:25:17,619 --> 00:25:23,158
+The distance from B to the new pew is that, and I call that little B.
+
+239
+00:25:28,552 --> 00:25:37,759
+Uh, and I will do the same for capital C, which has a distance,
+
+240
+00:25:37,759 --> 00:25:38,500
+little C to the new cube only.
+
+241
+00:25:38,500 --> 00:25:40,012
+I don't make that drawing.
+
+242
+00:25:40,060 --> 00:25:45,240
+because that invokes a case analysis, uh, uh, because in all
+
+243
+00:25:45,240 --> 00:25:51,620
+sorts of places where she might lie, and I'm not going to do that.
+
+244
+00:25:51,620 --> 00:25:57,739
+My proof obligation for the termination is that I can
+
+245
+00:25:57,739 --> 00:26:00,735
+demonstrate that the, the minimum.
+
+246
+00:26:05,149 --> 00:26:10,796
+Of B, little B and little C is actually less than H.
+
+247
+00:26:10,796 --> 00:26:21,839
+And if I can show that I have satisfied, my proof obligation
+
+248
+00:26:21,839 --> 00:26:26,979
+means the distance from E to.
+
+249
+00:26:26,979 --> 00:26:31,077
+Two will actually decrease in each step.
+
+250
+00:26:39,610 --> 00:26:41,180
+Now
+
+251
+00:26:51,174 --> 00:26:52,296
+I have to show this.
+
+252
+00:26:56,154 --> 00:26:57,735
+I'm going to simplify that.
+
+253
+00:27:01,952 --> 00:27:07,458
+The very first thing is that I wish to eliminate the operator
+
+254
+00:27:07,458 --> 00:27:08,672
+that takes the minimum.
+
+255
+00:27:12,213 --> 00:27:16,557
+So without changing the value of this bullying expression,
+
+256
+00:27:20,034 --> 00:27:23,277
+I wish to eliminate the minimum function.
+
+257
+00:27:28,451 --> 00:27:34,897
+Uh, and the minimum of b and c,
+
+258
+00:27:45,735 --> 00:27:49,060
+less than each.
+
+259
+00:27:49,060 --> 00:27:59,938
+Is according to the rules of my game, the B is less than H, or C is less than H.
+
+260
+00:28:04,254 --> 00:28:07,839
+Everybody agrees equal, huh?
+
+261
+00:28:09,035 --> 00:28:10,778
+No sir.
+
+262
+00:28:10,778 --> 00:28:15,499
+Because for the termination argument, I need actual decrease.
+
+263
+00:28:15,499 --> 00:28:22,797
+So the minimum of these of, of this, if this value has to be less than H, then B
+
+264
+00:28:22,797 --> 00:28:33,160
+is less than then B is less than H, or C is less than H.
+
+265
+00:28:33,160 --> 00:28:37,800
+And this is equivalence because, uh, uh, these two boring
+
+266
+00:28:37,954 --> 00:28:39,516
+expressions have the same value.
+
+267
+00:28:48,810 --> 00:28:49,620
+Now, uh,
+
+268
+00:28:50,006 --> 00:28:56,257
+the next thing I wish to do is to eliminate the lowercase letters.
+
+269
+00:28:58,173 --> 00:29:04,159
+Obviously, obviously because it'll b an H and little C, they
+
+270
+00:29:04,159 --> 00:29:06,760
+only occur in that picture.
+
+271
+00:29:06,760 --> 00:29:11,295
+And the sooner I liberate myself from that picture, the better.
+
+272
+00:29:21,333 --> 00:29:31,080
+My claim is that there is a simple expression that has the
+
+273
+00:29:31,080 --> 00:29:31,773
+same value as B, less than h.
+
+274
+00:29:38,634 --> 00:29:40,856
+Is anybody willing to make a suggestion?
+
+275
+00:29:56,590 --> 00:29:57,480
+Yeah.
+
+276
+00:29:58,353 --> 00:30:02,037
+And that follows from similar triangles.
+
+277
+00:30:06,952 --> 00:30:15,540
+These two triangles are similar cause they both have that right
+
+278
+00:30:15,540 --> 00:30:15,740
+angle there and they share that one.
+
+279
+00:30:15,740 --> 00:30:21,120
+So these two sides, the ratio of them is the same as the
+
+280
+00:30:21,120 --> 00:30:21,320
+ratio of, uh, the Hypothe uses.
+
+281
+00:30:21,971 --> 00:30:26,717
+So b, a less than E
+
+282
+00:30:26,717 --> 00:30:31,164
+is the one.
+
+283
+00:30:34,130 --> 00:30:34,980
+Is that okay?
+
+284
+00:30:47,574 --> 00:30:49,376
+Am I a little bit amazed?
+
+285
+00:30:52,233 --> 00:30:57,398
+Well, according to the rules of the game, uh, the other condition
+
+286
+00:30:57,398 --> 00:31:00,453
+yields me that ca less than.
+
+287
+00:31:00,453 --> 00:31:04,212
+E A,
+
+288
+00:31:12,753 --> 00:31:17,138
+let me check you.
+
+289
+00:31:17,138 --> 00:31:17,338
+Check whether I've made an error
+
+290
+00:31:29,550 --> 00:31:34,560
+You want to, uh, have a, a, b, you have to show that each time, uh, that functions
+
+291
+00:31:36,610 --> 00:31:38,580
+at three for a certain that you, you.
+
+292
+00:31:46,512 --> 00:31:53,078
+Uh, this is not, this is, this does not hold for, um, uh, because the space
+
+293
+00:31:53,078 --> 00:31:58,140
+is finite, but I did make an error.
+
+294
+00:31:58,140 --> 00:31:58,340
+I did make an error.
+
+295
+00:32:04,095 --> 00:32:05,457
+I did make a better.
+
+296
+00:32:11,614 --> 00:32:12,736
+Yes, yes.
+
+297
+00:32:19,372 --> 00:32:25,538
+There's a one bit rabbit in this proof and I made the wrong choice.
+
+298
+00:32:31,512 --> 00:32:40,120
+I chose the line, but I shouldn't do that.
+
+299
+00:32:40,120 --> 00:32:44,097
+This, by the way, was very instructive and I leave it that way, but.
+
+300
+00:32:44,097 --> 00:32:44,297
+Here we go.
+
+301
+00:32:44,297 --> 00:33:00,817
+The remark is that I have to choose
+
+302
+00:33:00,817 --> 00:33:06,595
+a new E and let that be it.
+
+303
+00:33:12,770 --> 00:33:15,000
+That is my new E.
+
+304
+00:33:16,092 --> 00:33:26,599
+And now the question is, will the new pew go through B or will it go through C?
+
+305
+00:33:26,599 --> 00:33:39,478
+So my new, my new E becomes A, and my new Q becomes of the lines B.
+
+306
+00:33:48,634 --> 00:33:53,698
+to A, so, and now I will have P again.
+
+307
+00:33:57,930 --> 00:33:58,460
+Yes.
+
+308
+00:34:00,510 --> 00:34:01,400
+No.
+
+309
+00:34:01,990 --> 00:34:03,380
+No, no.
+
+310
+00:34:03,751 --> 00:34:10,060
+One of the three.
+
+311
+00:34:10,060 --> 00:34:10,260
+One of the.
+
+312
+00:34:10,260 --> 00:34:10,740
+But here now here is our drawing.
+
+313
+00:34:10,951 --> 00:34:16,258
+Here was the old E.
+
+314
+00:34:16,258 --> 00:34:16,458
+Here is Q.
+
+315
+00:34:16,458 --> 00:34:19,369
+Now make the same.
+
+316
+00:34:19,369 --> 00:34:19,914
+Here is
+
+317
+00:34:21,580 --> 00:34:26,340
+my A.
+
+318
+00:34:28,814 --> 00:34:33,479
+Here is for instance my B.
+
+319
+00:34:33,479 --> 00:34:33,960
+Now this.
+
+320
+00:34:37,134 --> 00:34:39,437
+Now I'm interested in this distance.
+
+321
+00:34:39,437 --> 00:34:44,597
+The distance from a to the new pew.
+
+322
+00:34:52,654 --> 00:34:56,439
+Because this will be my new now.
+
+323
+00:34:56,439 --> 00:34:58,718
+Now we have the same picture.
+
+324
+00:34:58,718 --> 00:35:02,260
+We call this B and we call this H.
+
+325
+00:35:03,550 --> 00:35:04,000
+Only.
+
+326
+00:35:04,000 --> 00:35:13,219
+Not becomes a little bit different here because B less than H is now a B.
+
+327
+00:35:13,219 --> 00:35:15,940
+Less than Bs.
+
+328
+00:35:19,395 --> 00:35:20,296
+Similarly,
+
+329
+00:35:23,412 --> 00:35:30,238
+C, less than H will be that A C less than c e.
+
+330
+00:35:35,414 --> 00:35:39,579
+So, oops, again.
+
+331
+00:35:39,579 --> 00:35:42,088
+How am I doing?
+
+332
+00:35:42,088 --> 00:35:42,536
+Um, next step.
+
+333
+00:35:45,094 --> 00:35:46,916
+What does this follow from?
+
+334
+00:35:49,793 --> 00:35:54,060
+We have to derive this.
+
+335
+00:35:54,060 --> 00:35:54,956
+What does this follow from?
+
+336
+00:35:57,996 --> 00:35:58,216
+Now?
+
+337
+00:35:58,260 --> 00:36:00,400
+Have a look.
+
+338
+00:36:05,892 --> 00:36:16,338
+Uh, if X is larger than Y and X Prime is larger than Y Prime,
+
+339
+00:36:16,338 --> 00:36:18,636
+what are you willing to conclude?
+
+340
+00:36:22,053 --> 00:36:28,980
+In Channel X is larger than Y and X Prime is larger than Y Prime.
+
+341
+00:36:28,980 --> 00:36:29,916
+Can you draw an off his conclusion from that?
+
+342
+00:36:31,859 --> 00:36:32,521
+Yes.
+
+343
+00:36:32,521 --> 00:36:40,159
+For instance, X plus X primes is large, is at least, how come?
+
+344
+00:36:40,159 --> 00:36:40,359
+You can put at least here?
+
+345
+00:36:40,359 --> 00:36:40,559
+Yes.
+
+346
+00:36:40,559 --> 00:36:49,156
+X plus X prime is at least Y plus Y Prime mono of the.
+
+347
+00:36:51,112 --> 00:37:02,060
+Right now down the contrapositive of this relation X, less than Y or X
+
+348
+00:37:02,060 --> 00:37:07,356
+prime less than Y Prime follows from X plus X prime less than Y plus Y
+
+349
+00:37:10,313 --> 00:37:20,800
+and therefore, Here you see the form of exactly this
+
+350
+00:37:20,800 --> 00:37:21,636
+relation and our account toity.
+
+351
+00:37:25,952 --> 00:37:35,278
+This follows from a B plus AC is less than b, E plus c E.
+
+352
+00:37:42,475 --> 00:37:43,356
+so far so good.
+
+353
+00:37:47,471 --> 00:37:57,318
+Now listen, we will be and see our distances, so the minimum
+
+354
+00:37:59,068 --> 00:38:03,035
+of them is at least zero.
+
+355
+00:38:03,035 --> 00:38:10,799
+We have to demonstrate that that minimum is less than each.
+
+356
+00:38:10,799 --> 00:38:17,320
+We can never prove that for H is zero.
+
+357
+00:38:17,320 --> 00:38:25,900
+So we have to take into account something, some statement of the
+
+358
+00:38:25,900 --> 00:38:26,733
+fact that H differs from zero.
+
+359
+00:38:26,733 --> 00:38:32,377
+Now H differs from zero.
+
+360
+00:38:38,632 --> 00:38:47,779
+It tells us, because the points A, B, and C are all different, H differs
+
+361
+00:38:47,779 --> 00:38:55,516
+from zero, tells us that A does not lie on Q, but since E only occurs
+
+362
+00:38:55,516 --> 00:39:07,059
+in connection with B and C, we now characterize Q as the line through B and.
+
+363
+00:39:07,059 --> 00:39:09,397
+And H differs from zero.
+
+364
+00:39:09,397 --> 00:39:13,797
+We now formulate as triangle.
+
+365
+00:39:13,797 --> 00:39:19,735
+E B C is not degenerate.
+
+366
+00:39:19,735 --> 00:39:33,996
+But if Triangle, triangle, E b C is not degenerate, degenerate,
+
+367
+00:39:37,223 --> 00:39:44,915
+BC is actually less.
+
+368
+00:39:44,915 --> 00:39:45,115
+hence
+
+369
+00:39:48,651 --> 00:40:00,020
+Then B plus E, the triangular inequality, that the sum of two sides is larger than
+
+370
+00:40:00,020 --> 00:40:00,220
+the sum of the, and then the third side,
+
+371
+00:40:05,495 --> 00:40:06,075
+I don't know.
+
+372
+00:40:10,414 --> 00:40:11,154
+I don't know.
+
+373
+00:40:15,039 --> 00:40:15,400
+Sorry.
+
+374
+00:40:20,472 --> 00:40:29,819
+I'm looking at this and on account of mono monopoli, I conclude that A, that this
+
+375
+00:40:29,819 --> 00:40:33,116
+follows from AB plus AC is at most B C.
+
+376
+00:40:36,853 --> 00:40:37,855
+from modernity.
+
+377
+00:40:42,293 --> 00:40:46,479
+You have from, from this, huh?
+
+378
+00:40:56,693 --> 00:41:03,040
+replacing this by the smaller BC, I don't need to take a into account.
+
+379
+00:41:03,040 --> 00:41:03,240
+You're rushing.
+
+380
+00:41:03,240 --> 00:41:05,935
+Your conclusion is correct.
+
+381
+00:41:12,532 --> 00:41:20,518
+Again, on account of the Triangle of inequality, a b plus AC is at least b.
+
+382
+00:41:25,033 --> 00:41:30,578
+Hence this is equivalent to a B plus AC equals B, C.
+
+383
+00:41:34,033 --> 00:41:41,819
+And these are all non nega, all positive distances, and the only way in which
+
+384
+00:41:41,819 --> 00:41:46,279
+this can be is if a lies between B and C.
+
+385
+00:41:46,279 --> 00:41:59,080
+So we have concluded that, um, it is okay with a between.
+
+386
+00:41:59,080 --> 00:41:59,292
+B and C
+
+387
+00:42:02,767 --> 00:42:07,377
+of course, this is the only symmetric choice, so it's not surprising.
+
+388
+00:42:07,377 --> 00:42:15,256
+But what is charming is that, uh, that fact is forced upon us by the calculation
+
+389
+00:42:15,256 --> 00:42:22,095
+that shows that the minimum of little B and C is less than h and of proof.
+
+390
+00:42:28,354 --> 00:42:30,155
+Why is this very nice?
+
+391
+00:42:40,413 --> 00:42:48,439
+if you, if you compare it with, um, Kelly's proof, uh, that
+
+392
+00:42:48,439 --> 00:42:48,639
+contains the same element.
+
+393
+00:42:49,891 --> 00:42:54,536
+Uh, Cali says, well consider all
+
+394
+00:42:59,610 --> 00:43:03,396
+lines and all possible combinations for q and e.
+
+395
+00:43:03,396 --> 00:43:09,777
+There's all possible pairs of a line and a point not on that line.
+
+396
+00:43:11,952 --> 00:43:20,578
+Finite collection, at least one such pair, uh, contains the minimum distance.
+
+397
+00:43:25,353 --> 00:43:32,320
+And then he said, well, okay, uh, suppose that, that, of course, Kelly in
+
+398
+00:43:32,320 --> 00:43:32,520
+94, 80 48 proved it by a contradiction.
+
+399
+00:43:32,520 --> 00:43:40,100
+So immediately says, suppose that, uh, uh, there are three
+
+400
+00:43:40,100 --> 00:43:40,300
+points on the on the line queue.
+
+401
+00:43:40,300 --> 00:43:43,359
+And then he did write a contradiction.
+
+402
+00:43:43,359 --> 00:43:45,918
+We don't need to do that.
+
+403
+00:43:50,530 --> 00:43:51,620
+Now
+
+404
+00:43:52,303 --> 00:44:09,019
+at the time, uh, Kelly's introduction of, uh, the Ellian distance was greeted
+
+405
+00:44:09,019 --> 00:44:16,700
+as a great invention, uh, original ID that only a genius can have.
+
+406
+00:44:16,700 --> 00:44:19,638
+Uh, because of course it is a foreign element because the problem statement
+
+407
+00:44:19,638 --> 00:44:21,313
+itself has nothing to do with ECL metric.
+
+408
+00:44:27,612 --> 00:44:36,080
+So it is a foreign element, but we know that given a program, uh,
+
+409
+00:44:36,080 --> 00:44:37,773
+with a repetition, we know that.
+
+410
+00:44:40,727 --> 00:44:47,696
+Whereas the invariance of a repetition is uniquely determined by the program itself.
+
+411
+00:44:49,052 --> 00:44:56,080
+Uh, the variant function, the decreasing thing that one intends
+
+412
+00:44:56,080 --> 00:45:00,018
+to prove the termination argument, um, that's not determined at all.
+
+413
+00:45:00,733 --> 00:45:06,740
+If you have some function t that decreases any monotonic
+
+414
+00:45:06,740 --> 00:45:07,516
+function of it will do it as well.
+
+415
+00:45:07,516 --> 00:45:08,304
+If t will do it as.
+
+416
+00:45:08,304 --> 00:45:17,219
+So we know that if in arguments like that, any inventiveness is required, It
+
+417
+00:45:17,219 --> 00:45:20,038
+is at the choice of the variant function.
+
+418
+00:45:20,038 --> 00:45:26,178
+Um, now I have taken extensive experiments with, uh, this problem
+
+419
+00:45:26,178 --> 00:45:31,734
+at oral examinations, and I have also shown this a number of times.
+
+420
+00:45:31,734 --> 00:45:42,099
+Uh, lecturing to an audience at the critical moment that the
+
+421
+00:45:42,099 --> 00:45:46,800
+ellian distance between q and E has been in, has to be invented.
+
+422
+00:45:46,800 --> 00:45:49,337
+It has always been the audience that supplied this
+
+423
+00:45:49,337 --> 00:45:52,514
+foreign body to the argument.
+
+424
+00:45:55,032 --> 00:45:58,916
+As soon in short, as soon as you regard this as a programming exercise.
+
+425
+00:46:04,112 --> 00:46:07,776
+Kelly's invention becomes the most natural thing to do.
+
+426
+00:46:10,332 --> 00:46:13,675
+Uh, so there has been progress.
+
+427
+00:46:16,150 --> 00:46:27,559
+Uh, as a final mark of progress, I would like to read to you because
+
+428
+00:46:27,559 --> 00:46:30,800
+it's a little bit long to write down.
+
+429
+00:46:31,632 --> 00:46:35,457
+Veto's original statement of the problem and that that will give
+
+430
+00:46:35,457 --> 00:46:42,095
+you, uh, another aspect of progress in the century of mathematics.
+
+431
+00:46:44,632 --> 00:46:54,340
+Prove that it is not possible to arrange any finite number of real points so
+
+432
+00:46:54,340 --> 00:46:59,500
+that a right line through every two of them shall pass through a third
+
+433
+00:46:59,500 --> 00:46:59,700
+unless they all lie in the same right.
+
+434
+00:47:03,734 --> 00:47:08,158
+When I tried to read that, I discovered that I couldn't.
+
+435
+00:47:08,158 --> 00:47:12,399
+There were too many negations and illnesses, et cetera,
+
+436
+00:47:12,399 --> 00:47:15,040
+and, uh, in other despair.
+
+437
+00:47:15,045 --> 00:47:22,640
+Finally, I took, uh, the concise Oxford dictionary because I now wanted to
+
+438
+00:47:22,640 --> 00:47:22,840
+know very precisely what unless means.
+
+439
+00:47:22,900 --> 00:47:23,920
+Yeah.
+
+440
+00:47:23,920 --> 00:47:30,720
+Now I'm a modest man and I'm not afraid of going to the authorities
+
+441
+00:47:30,720 --> 00:47:31,216
+was very illuminating because, um,
+
+442
+00:47:31,216 --> 00:47:42,457
+The cod gives two meanings for, uh, unless the one is, if not
+
+443
+00:47:45,452 --> 00:47:54,679
+now, if it follows from and not as negation, this, this, this is, or, and
+
+444
+00:47:54,679 --> 00:47:54,879
+the other one it gives is except when.
+
+445
+00:47:57,693 --> 00:48:02,218
+And if you start analyzing, not except when means, then
+
+446
+00:48:02,218 --> 00:48:02,820
+youll come to not equivalent.
+
+447
+00:48:04,812 --> 00:48:13,778
+So even the statement of, uh, the theum is already ambiguous,
+
+448
+00:48:20,512 --> 00:48:24,937
+Coxin makes it worse in the sense that.
+
+449
+00:48:24,937 --> 00:48:40,080
+He does not give, uh, to begin with the def, the formulation of, um, So fester.
+
+450
+00:48:40,080 --> 00:48:46,899
+He gives his own definition or a statement of the theorum, but thereby he drops
+
+451
+00:48:46,899 --> 00:48:50,134
+the requirement that the points are distinct and then the theorum is false.
+
+452
+00:48:50,134 --> 00:48:54,757
+See me and easily construct account example.
+
+453
+00:48:57,533 --> 00:48:59,316
+Okay, that is what I wanted to say.
+
+454
+00:48:59,460 --> 00:49:03,160
+About how a once
+
+455
+00:49:03,160 --> 00:49:09,614
+Our one deep theorum these days is a trivial programming exercise.
+
+456
+00:49:11,430 --> 00:49:12,212
+Any questions?
+
+457
+00:49:16,413 --> 00:49:20,199
+Yes.
+
+458
+00:49:20,199 --> 00:49:20,399
+Yes.
+
+459
+00:49:20,399 --> 00:49:26,239
+Uh, and that is, uh, that depends on how you'd, how you.
+
+460
+00:49:26,239 --> 00:49:27,733
+Generalize distinct points.
+
+461
+00:49:27,733 --> 00:49:38,374
+Uh, one way of defining distinctness in the plane is that any two, that, uh, any
+
+462
+00:49:43,568 --> 00:49:48,095
+and two points uniquely determine the line through them.
+
+463
+00:49:50,891 --> 00:49:57,697
+Yeah, the generalization for three dimensions is that any three points
+
+464
+00:49:58,927 --> 00:50:01,011
+uniquely determine the planes for them.
+
+465
+00:50:05,592 --> 00:50:13,399
+And then, uh, what you then can do is take one point, uh, project
+
+466
+00:50:13,399 --> 00:50:14,153
+the other points in the plane.
+
+467
+00:50:16,992 --> 00:50:24,302
+Uh, Prove the, the in the plane and then restore the lines in the planes again.
+
+468
+00:50:24,302 --> 00:50:30,818
+My guess is that, um, Coter has missed that gen, that generalization because
+
+469
+00:50:30,818 --> 00:50:34,594
+he never took the trouble of stating explicitly that plane should be distinct.
+
+470
+00:50:37,195 --> 00:50:39,799
+Or he didn't care.
+
+471
+00:50:39,799 --> 00:50:39,999
+I mean, that's the other possibility.
+
+472
+00:50:42,119 --> 00:50:44,728
+Yes, sir.
+
+473
+00:50:44,728 --> 00:50:47,580
+Uh, I'm looking for con conclusion from what you've done and, and I suggest what
+
+474
+00:50:47,580 --> 00:50:55,279
+that is, that, um, we observe the fear of which many years to solve, um, uh,
+
+475
+00:50:55,279 --> 00:51:02,119
+which can be expressed as a fairly simple computer, simple looking computer program.
+
+476
+00:51:02,119 --> 00:51:06,200
+Should I infer from this that actually computer programming
+
+477
+00:51:06,200 --> 00:51:06,400
+really is hard in the mathematical.
+
+478
+00:51:06,400 --> 00:51:06,600
+To a mathematic,
+
+479
+00:51:11,394 --> 00:51:13,336
+untrained, mathematicians find it very difficult.
+
+480
+00:51:13,336 --> 00:51:16,156
+Um, no, not necessarily.
+
+481
+00:51:16,156 --> 00:51:20,237
+Uh, the program is short.
+
+482
+00:51:20,237 --> 00:51:24,096
+I think the correctness proof simple.
+
+483
+00:51:28,252 --> 00:51:36,540
+Uh, but what is certainly true is that, uh, uh, in general, a
+
+484
+00:51:36,540 --> 00:51:37,455
+program is a very compact deposit of our intellectual labels.
+
+485
+00:51:41,980 --> 00:51:42,320
+Sure.
+
+486
+00:51:47,954 --> 00:51:48,435
+Yes sir.
+
+487
+00:51:53,875 --> 00:51:54,356
+Yes.
+
+488
+00:51:57,374 --> 00:52:01,060
+Yeah.
+
+489
+00:52:03,431 --> 00:52:11,820
+Uh, in the seventies, the following cousin of the semester analyze
+
+490
+00:52:11,820 --> 00:52:14,140
+Investor, and I see all this for both. Suppose
+
+491
+00:52:14,140 --> 00:52:19,209
+the So those, you had a finite number of points in the plane.
+
+492
+00:52:19,209 --> 00:52:19,409
+Not all.
+
+493
+00:52:19,550 --> 00:52:20,220
+Same footage.
+
+494
+00:52:21,570 --> 00:52:22,840
+Real UK cleaning plane.
+
+495
+00:52:23,050 --> 00:52:23,500
+Yes, maam.
+
+496
+00:52:23,570 --> 00:52:24,340
+It's not full enough.
+
+497
+00:52:24,340 --> 00:52:25,600
+Cool in other places.
+
+498
+00:52:27,150 --> 00:52:31,720
+and, and they are color the two columns, red and blue.
+
+499
+00:52:31,720 --> 00:52:33,514
+Yeah.
+
+500
+00:52:33,514 --> 00:52:39,778
+Then there is a line, which is uni color.
+
+501
+00:52:39,778 --> 00:52:39,978
+In an.
+
+502
+00:52:39,978 --> 00:52:46,559
+A have more than two points, but they are all either containing more than one point.
+
+503
+00:52:46,559 --> 00:52:51,040
+They are all either red or all either blue finite number of points.
+
+504
+00:52:51,040 --> 00:52:52,872
+Each point is red or blue.
+
+505
+00:52:52,872 --> 00:52:59,599
+There exists a line, uh, that contains more than one point for me.
+
+506
+00:52:59,599 --> 00:53:01,914
+That is how that.
+
+507
+00:53:01,914 --> 00:53:02,114
+How much in the scholar?
+
+508
+00:53:02,114 --> 00:53:02,314
+Yes.
+
+509
+00:53:02,314 --> 00:53:06,218
+The effect is. By all the
+
+510
+00:53:06,218 --> 00:53:10,178
+I mathematical methods, it's a same, mm-hmm.
+
+511
+00:53:10,178 --> 00:53:11,014
+But harder than the line.
+
+512
+00:53:11,014 --> 00:53:18,458
+. Uh huh And I, I'm very curious when your methodology would come as well.
+
+513
+00:53:18,458 --> 00:53:21,429
+It will be okay.
+
+514
+00:53:21,429 --> 00:53:26,217
+It's not, it's not an open, it's a closed problem.
+
+515
+00:53:26,217 --> 00:53:26,417
+It has picked up by the way.
+
+516
+00:53:26,417 --> 00:53:26,617
+It's not open.
+
+517
+00:53:26,617 --> 00:53:30,013
+Well, uh, I might try it tonight in bed.
+
+518
+00:53:30,013 --> 00:53:30,213
+Look.
+
+519
+00:53:30,213 --> 00:53:30,413
+Okay.
+
+520
+00:53:35,354 --> 00:53:38,319
+Well, thinking horizontally.
+
+521
+00:53:38,319 --> 00:53:38,519
+It was a nice, nice place.
+
+522
+00:53:40,270 --> 00:53:44,420
+Anymore if you, had you risk fully chosen a to be the middle point of
+
+523
+00:53:44,420 --> 00:53:51,140
+the three or of Weve been easier to show that I have a small or small C.
+
+524
+00:53:51,140 --> 00:53:51,440
+Them, we could have an
+
+525
+00:53:51,440 --> 00:53:52,511
+No, same argument.
+
+526
+00:53:52,511 --> 00:53:52,711
+Same argument.
+
+527
+00:53:53,390 --> 00:53:53,840
+Yeah.
+
+528
+00:53:54,470 --> 00:53:57,360
+Make monotonous, monotonous arguments.
+
+529
+00:53:57,456 --> 00:53:59,804
+Yeah.
+
+530
+00:53:59,804 --> 00:54:04,557
+Well, uh, you may not, you, you use this step.
+
+531
+00:54:08,953 --> 00:54:13,378
+You may use the, you may use the, uh, implication in the other
+
+532
+00:54:13,378 --> 00:54:13,832
+sense in which it's very common.
+
+533
+00:54:16,693 --> 00:54:21,739
+It, it's, I, I find there's not another comment.
+
+534
+00:54:21,739 --> 00:54:22,736
+Uh, the way in which we have been influenced by our education.
+
+535
+00:54:22,736 --> 00:54:30,979
+Everybody knows the mono necessity of the addition in this form, and it's
+
+536
+00:54:30,979 --> 00:54:33,795
+immediately, if you suggest this, you say, well, what, what can you conclude?
+
+537
+00:54:33,795 --> 00:54:37,599
+People come up with this with a.
+
+538
+00:54:37,599 --> 00:54:37,799
+To do it the other way around
+
+539
+00:54:40,574 --> 00:54:44,439
+is just a form that we don't know.
+
+540
+00:54:44,439 --> 00:54:44,996
+It's logically equivalent.
+
+541
+00:54:44,996 --> 00:54:48,196
+I find that a little bit frightening.
+
+542
+00:54:54,750 --> 00:54:56,560
+Oh, thank you very much.
+
+543
+00:54:56,560 --> 00:54:56,839
+Thank you.
+
