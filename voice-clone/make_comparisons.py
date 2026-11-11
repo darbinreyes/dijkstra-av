@@ -1,18 +1,14 @@
 #!/usr/bin/env python3
 """Cut one checked reference from each lecture and speak the same sentence.
 
-Slices come from the MP3-timed subtitles. Each clip is high-pass filtered
-at 80 Hz and peak-normalized to -3 dBFS before it is used as a reference.
+The clip is the untreated recording. Do not filter or normalize it.
+The Dutch color of the voice is in that spectrum.
 """
 
 import json
 import re
 import subprocess
 from pathlib import Path
-
-import numpy as np
-import soundfile as sf
-from scipy.signal import butter, sosfiltfilt
 
 ROOT = Path(__file__).resolve().parents[1]
 DUMP = "/tmp/dijk-clone/dump"
@@ -89,14 +85,8 @@ def candidates(cues):
 
 
 def prepare(src, dest):
-    audio, sample_rate = sf.read(src)
-    if audio.ndim > 1:
-        audio = audio.mean(axis=1)
-    sos = butter(4, 80.0, btype="highpass", fs=sample_rate, output="sos")
-    cleaned = sosfiltfilt(sos, audio).astype(np.float32)
-    peak = float(np.max(np.abs(cleaned))) or 1.0
-    cleaned *= (10 ** (-3 / 20)) / peak
-    sf.write(dest, cleaned, sample_rate)
+    """Copy the slice through unchanged."""
+    dest.write_bytes(Path(src).read_bytes())
 
 
 def extract(mp3, start, dur, dest):

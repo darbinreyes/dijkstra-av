@@ -81,7 +81,7 @@ Left out, on purpose: Discipline in Thought, the Charles Babbage Institute inter
 
 Each lecture has a second subtitle file, named `... - MP3.srt`, next to the Remastered 2 file. The wording is the Remastered transcript. The times were matched to that MP3, then snapped against the waveform. Use these files when cutting a reference clip. The Remastered files stay as they were, because several of them belong to a different edit of the video.
 
-`voice-clone/align_mp3.py` does the match. `voice-clone/refine_times.py` snaps the times. A reference clip is then high-pass filtered at 80 Hz and peak-normalized to -3 dBFS, which takes out rumble without inventing high frequencies the tape never had.
+`voice-clone/align_mp3.py` does the match. `voice-clone/refine_times.py` snaps the times. Leave the reference clip otherwise untouched. The Dutch color in his English sits in the spectrum of the tape, and a high-pass or loudness filter washes it out.
 
 Early Memories runs about 80 seconds past its old subtitles, and Interplay about three minutes. Those tails are applause and a "thank you," not more of the lecture, so they were left out of the transcript.
 

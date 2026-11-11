@@ -1,9 +1,9 @@
 {
   "source_mp3": "Turing Award Lecture - The Humble Programmer - 1972/audio/Edsger Dijkstra - Turing Award Speech - 1972.mp3",
-  "start_sec": 301.139,
-  "duration_sec": 5.874,
+  "start_sec": 299.969,
+  "duration_sec": 6.9,
   "ref_text": "In retrospect, one can only wonder that those first machines worked at all, at least sometimes.",
   "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-Base-8bit",
-  "reference_processing": "high-pass 80 Hz, peak -3 dBFS",
-  "notes": "Zero-shot reference for the default voice. Extracted from the MP3-timed subtitle. The wav is local and is not in git."
+  "reference_processing": "none",
+  "notes": "Untreated tape. The Dutch color of the English is in this spectrum; do not high-pass or normalize the clip."
 }

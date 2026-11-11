@@ -6,7 +6,6 @@
   "ref_text": "The program will have taken the machine into a final state that satisfies condition R.",
   "spoken_text": "Program testing can be used to show the presence of bugs, but never to show their absence.",
   "output_wav": "voice-clone/by-source/reasoning-1990.wav",
-  "output_duration_sec": 5.92,
-  "reference_processing": "high-pass 80 Hz, peak -3 dBFS",
-  "subtitle": "slice checked against the MP3, not only the subtitle clock"
+  "output_duration_sec": 5.68,
+  "reference_processing": "none"
 }

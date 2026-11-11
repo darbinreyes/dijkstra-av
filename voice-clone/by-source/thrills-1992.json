@@ -6,7 +6,6 @@
   "ref_text": "I took the liberty from my second talk to look back in what I know best, that is my own life.",
   "spoken_text": "Program testing can be used to show the presence of bugs, but never to show their absence.",
   "output_wav": "voice-clone/by-source/thrills-1992.wav",
-  "output_duration_sec": 5.52,
-  "reference_processing": "high-pass 80 Hz, peak -3 dBFS",
-  "subtitle": "slice checked against the MP3, not only the subtitle clock"
+  "output_duration_sec": 5.84,
+  "reference_processing": "none"
 }

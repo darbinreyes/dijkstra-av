@@ -1,12 +1,10 @@
 {
   "slug": "counting-2001",
   "source_mp3": "The Power of Counting Arguments 2001/audio/Edsger Dijkstra - Lecture - Power of Counting Arguments - Cadence Labs - 2001.mp3",
-  "start_sec": 150.509,
-  "duration_sec": 6.488,
-  "ref_text": "a method of trial and error where most of your efforts turn out to be errors.",
+  "start_sec": 1023.5,
+  "duration_sec": 7.8,
+  "ref_text": "Now you have here two males and a female. The only thing you can do is not sending the females.",
   "spoken_text": "Program testing can be used to show the presence of bugs, but never to show their absence.",
   "output_wav": "voice-clone/by-source/counting-2001.wav",
-  "output_duration_sec": 9.28,
-  "reference_processing": "high-pass 80 Hz, peak -3 dBFS",
-  "subtitle": "MP3-timed SRT"
+  "reference_processing": "none"
 }
