@@ -1,0 +1,1020 @@
+1
+00:00:28,000 --> 00:00:34,000
+You just cobble something together
+to sell. It need not be any good.
+
+2
+00:00:34,001 --> 00:00:38,000
+As long as you can fool people
+into buying it...
+
+3
+00:00:38,001 --> 00:00:43,000
+...you can always try to make
+better versions later.
+
+4
+00:00:48,001 --> 00:00:51,000
+So then you get these version numbers...
+
+5
+00:00:51,001 --> 00:00:57,000
+even with decimals, version 2.6 or 2.7,
+That nonsense.
+
+6
+00:01:03,001 --> 00:01:07,000
+While version 1 should have been
+the finished product.
+
+7
+00:01:10,001 --> 00:01:15,000
+Computing science
+is no more about computers...
+
+8
+00:01:15,001 --> 00:01:19,000
+...than astronomy is about telescopes.
+
+9
+00:01:25,001 --> 00:01:29,000
+Professor Edsger Wybe Dijkstra
+is Holland's first programmer
+
+10
+00:01:30,001 --> 00:01:35,000
+In 1972 he received the Turing Award...
+
+11
+00:01:36,001 --> 00:01:38,000
+...the Nobel Prize of computing science.
+
+12
+00:01:39,001 --> 00:01:45,000
+He and his wife now live in Austin,
+Texas, where they moved in 1984.
+
+13
+00:01:45,001 --> 00:01:52,000
+At the time, most university departments
+in the Netherlands...
+
+14
+00:01:52,001 --> 00:01:55,000
+..aimed to water down their curriculum
+
+15
+00:01:57,001 --> 00:02:04,000
+At the same time
+the university of Texas in Austin...
+
+16
+00:02:05,001 --> 00:02:11,000
+...tried to reduce the student enrollment...
+
+17
+00:02:12,001 --> 00:02:15,000
+...and to increase their quality.
+
+18
+00:02:15,001 --> 00:02:22,000
+It was an opposite development
+which was much more attractive...
+
+19
+00:02:23,001 --> 00:02:26,000
+...that what was happening
+in Dutch higher education
+
+20
+00:02:40,001 --> 00:02:45,000
+The universities lack the courage
+to teach hard science.
+
+21
+00:02:46,001 --> 00:02:49,000
+They will continue to misguide
+the students...
+
+22
+00:02:49,001 --> 00:02:54,000
+...and each stage in the infantilization
+of the curriculum will be hailed...
+
+23
+00:02:55,001 --> 00:02:57,000
+...as educational progress.
+
+24
+00:03:00,001 --> 00:03:03,000
+Quality, correctness and elegance...
+
+25
+00:03:03,001 --> 00:03:07,000
+...are what Dijkstra thinks should
+characterize a computer program.
+
+26
+00:03:08,001 --> 00:03:13,000
+In 1954 he resolved
+to make programming a science.
+
+27
+00:03:13,001 --> 00:03:17,000
+But it has been an uphill struggle.
+
+28
+00:03:17,001 --> 00:03:19,000
+I lose no sleep...
+
+29
+00:03:19,001 --> 00:03:25,000
+...that businesses feel
+they cannot afford...
+
+30
+00:03:25,001 --> 00:03:28,000
+....to deliver first-rate products.
+
+31
+00:03:30,001 --> 00:03:35,000
+It doesn't keep me
+from continuing my work.
+
+32
+00:03:41,001 --> 00:03:47,000
+There are very different
+programming styles.
+
+33
+00:04:18,001 --> 00:04:20,000
+There are very different
+programming styles.
+
+34
+00:04:20,001 --> 00:04:25,000
+I tend to see them
+as Mozart versus Beethoven.
+
+35
+00:04:25,001 --> 00:04:31,000
+When Mozart started to write,
+the composition was finished.
+
+36
+00:04:32,001 --> 00:04:37,000
+He wrote the manuscript in one go.
+
+37
+00:04:38,001 --> 00:04:41,000
+In beautiful handwriting, too.
+
+38
+00:04:42,001 --> 00:04:45,000
+Beethoven was a doubter
+and a struggler...
+
+39
+00:04:45,001 --> 00:04:49,000
+...who started writing before he finished
+the composition...
+
+40
+00:04:49,001 --> 00:04:53,000
+...and then glued corrections
+onto the page.
+
+41
+00:04:53,001 --> 00:04:57,000
+In one place he did this nine times.
+
+42
+00:04:57,001 --> 00:05:04,000
+When they peeled them, the last version
+proved identical to the first one.
+
+43
+00:05:05,001 --> 00:05:07,000
+That iterative method of programming...
+
+44
+00:05:08,001 --> 00:05:15,000
+...is somehow a very Anglo-Saxon
+custom.
+
+45
+00:05:15,001 --> 00:05:18,000
+British education is pervaded by it.
+
+46
+00:05:19,001 --> 00:05:24,000
+People learn, when they write,
+not to try to get it right the first time.
+
+47
+00:05:25,001 --> 00:05:30,000
+Just write what's on your mind
+and then rewrite repeatedly...
+
+48
+00:05:31,001 --> 00:05:34,000
+...to get the product you want.
+
+49
+00:05:36,001 --> 00:05:42,000
+That's partly why word processors
+are marketed so aggressively...
+
+50
+00:05:42,001 --> 00:05:46,000
+...and partly why they have been
+so successful there.
+
+51
+00:05:46,001 --> 00:05:52,000
+While it is one of the advantages
+of working with pen and paper...
+
+52
+00:05:52,001 --> 00:05:56,000
+...that when you start a sentence,
+you should have it ready.
+
+53
+00:06:11,001 --> 00:06:18,000
+Dijkstra is a prolific writer: musings,
+talks, mathematical proofs and books.
+
+54
+00:06:18,001 --> 00:06:23,000
+His EWD's (his computing science papers),
+his initials followed by a number.
+(EWD = Edsger Wybe Dijkstra)
+
+55
+00:06:23,001 --> 00:06:27,000
+...are considered
+his best scientific contributions.
+
+56
+00:06:28,001 --> 00:06:33,000
+For myself, the most important thing
+has been...
+
+57
+00:06:33,001 --> 00:06:39,000
+...the daily discipline...
+
+58
+00:06:39,001 --> 00:06:43,000
+...of neatly writing down your thoughts
+and what you do.
+
+59
+00:06:49,001 --> 00:06:54,000
+Due to modern technology,
+they have been much more influential...
+
+60
+00:06:55,001 --> 00:06:57,000
+...than they would have been in the past.
+
+61
+00:06:57,001 --> 00:07:01,000
+You might describe them...
+
+62
+00:07:03,001 --> 00:07:07,000
+...as a modern form
+of scientific correspondence.
+
+63
+00:07:07,001 --> 00:07:12,000
+Albeit that the intellectual traffic
+has been mostly one-directional.
+
+64
+00:07:13,001 --> 00:07:18,000
+The serial numbers have crept up
+to over 1300.
+
+65
+00:07:18,001 --> 00:07:25,000
+In length they vary enormously,
+from 80 pages to one page.
+
+66
+00:07:25,001 --> 00:07:30,000
+As time goes by, they tend to become
+ever shorter.
+
+67
+00:07:31,001 --> 00:07:35,000
+Everyone to whom I sent them...
+
+68
+00:07:35,001 --> 00:07:40,000
+...was implicitly willing to function...
+
+69
+00:07:40,001 --> 00:07:44,000
+...as an internal node
+of the dissemination tree...
+
+70
+00:07:46,001 --> 00:07:52,000
+...and to send second generation copies
+on to others.
+
+71
+00:07:58,001 --> 00:08:05,000
+How many people they have reached,
+I have never been able to estimate.
+
+72
+00:08:05,001 --> 00:08:07,000
+A few hundred, I'd say.
+
+73
+00:08:24,001 --> 00:08:31,000
+In order to compose,
+you have to write scores.
+
+74
+00:08:31,001 --> 00:08:35,000
+To be a composer is to conceive music.
+
+75
+00:08:36,001 --> 00:08:43,000
+In the early days of programming
+you had to write machine code.
+
+76
+00:08:45,001 --> 00:08:51,000
+Meaningless sequences
+of capitals and numbers.
+
+77
+00:08:52,001 --> 00:08:56,000
+That's the analogue of writing scores.
+
+78
+00:08:57,001 --> 00:09:02,000
+People thought that
+THAT was programming.
+
+79
+00:09:04,001 --> 00:09:08,000
+Later that was made easier...
+
+80
+00:09:09,001 --> 00:09:13,000
+...by the invention of the higher
+programming languages:
+
+81
+00:09:13,001 --> 00:09:17,000
+Fortran, Pascal, C++, and such.
+
+82
+00:09:20,001 --> 00:09:26,000
+People thought
+that those languages would...
+
+83
+00:09:28,001 --> 00:09:33,000
+...solve the programming problem.
+
+84
+00:09:34,001 --> 00:09:36,000
+But when you looked closely...
+
+85
+00:09:36,001 --> 00:09:43,000
+...the trivial aspects of programming
+had been automated...
+
+86
+00:09:43,001 --> 00:09:45,000
+...while the hard ones remained.
+
+87
+00:09:46,001 --> 00:09:49,000
+The higher programming languages...
+
+88
+00:09:49,001 --> 00:09:54,000
+...which had been intended
+to facilitate programming...
+
+89
+00:09:54,001 --> 00:10:00,000
+...proved, coupled with the increasing
+ambitions of the applications...
+
+90
+00:10:00,001 --> 00:10:04,000
+...to be more intellectually demanding
+to the programmer.
+
+91
+00:10:07,001 --> 00:10:15,000
+EWD340: "The competent programmer is fully aware
+of the limited size of his own skull.
+
+92
+00:10:15,001 --> 00:10:20,000
+He therefore approaches his task
+in full humility...
+
+93
+00:10:20,001 --> 00:10:24,000
+...and avoids clever tricks like the plague."
+
+94
+00:10:26,001 --> 00:10:29,000
+I remember, in 1970 or thereabouts...
+
+95
+00:10:29,001 --> 00:10:37,000
+...I first went to explain to companies
+how to develop programs...
+
+96
+00:10:37,001 --> 00:10:39,000
+...and keep them under tight control.
+
+97
+00:10:39,001 --> 00:10:42,000
+I first went to Paris
+and then Brussels.
+
+98
+00:10:43,001 --> 00:10:49,000
+In Paris I delivered a lecture
+at the Sorbonne...
+
+99
+00:10:49,001 --> 00:10:52,000
+...and people were very enthusiastic.
+
+100
+00:10:52,001 --> 00:10:57,000
+On the way home I told the same story...
+
+101
+00:10:57,001 --> 00:11:01,000
+...at a large software house in Brussels.
+
+102
+00:11:03,001 --> 00:11:06,000
+The lecture was a complete failure.
+
+103
+00:11:07,001 --> 00:11:11,000
+In a sense, one of my
+least successful lectures.
+
+104
+00:11:11,001 --> 00:11:14,000
+I later found out why.
+
+105
+00:11:15,001 --> 00:11:19,000
+The management didn't want
+faultless programs...
+
+106
+00:11:19,001 --> 00:11:25,000
+...because the company derived its
+stability from maintenance contracts.
+
+107
+00:11:26,001 --> 00:11:29,000
+And the programmers
+weren't interested...
+
+108
+00:11:29,001 --> 00:11:34,000
+...because they derived
+their intellectual excitement...
+
+109
+00:11:35,001 --> 00:11:40,000
+... from the fact that they didn't quite
+know what they were doing.
+
+110
+00:11:41,001 --> 00:11:46,000
+They felt that if you knew precisely
+what you were doing...
+
+111
+00:11:47,001 --> 00:11:50,000
+...and didn't run risks,
+it was a boring job.
+
+112
+00:11:52,001 --> 00:11:56,000
+We should not introduce errors
+through sloppiness...
+
+113
+00:11:56,001 --> 00:12:00,000
+...but systematically keep them out.
+
+114
+00:12:29,001 --> 00:12:33,000
+If in physics there's something
+you don't understand...
+
+115
+00:12:33,001 --> 00:12:41,000
+...you can always hide behind
+the uncharted depths of nature.
+
+116
+00:12:42,001 --> 00:12:47,000
+You can always blame God.
+You didn't make it so complex yourself.
+
+117
+00:12:48,001 --> 00:12:53,000
+But if your program doesn't work,
+there is no one to hide behind.
+
+118
+00:12:55,001 --> 00:12:59,000
+You can not hide behind
+an obstinate nature.
+
+119
+00:12:59,001 --> 00:13:02,000
+A zero is a zero, a 1 is a 1.
+
+120
+00:13:03,001 --> 00:13:05,000
+If it doesn't work, you've messed up.
+
+121
+00:13:07,001 --> 00:13:13,000
+I realized my previous projects
+had just been finger exercises.
+
+122
+00:13:13,001 --> 00:13:15,000
+I had to tackle complexity itself.
+
+123
+00:13:15,001 --> 00:13:19,000
+But it took a long time
+to muster the courage to do so.
+
+124
+00:13:20,001 --> 00:13:25,000
+At the end of the 60's,
+Dijkstra saw that the complexity...
+
+125
+00:13:25,001 --> 00:13:27,000
+...got the better of the programmers.
+
+126
+00:13:28,001 --> 00:13:32,000
+And that it threatened
+the most prestigious projects.
+
+127
+00:13:32,001 --> 00:13:36,000
+That happened in 1969...
+
+128
+00:13:36,001 --> 00:13:42,000
+...just after the first successful
+moon landing.
+
+129
+00:13:43,001 --> 00:13:48,000
+I was at a NATO conference
+on software engineering in Rome...
+
+130
+00:13:48,001 --> 00:13:57,000
+...where I met Joel Aron, who was head
+of IBM's Federal Systems Division...
+
+131
+00:13:58,001 --> 00:14:08,000
+...which had been responsible
+for the software of the moonshot.
+
+132
+00:14:09,001 --> 00:14:16,000
+I knew that each Apollo flight required
+some 40,000 new lines of code.
+
+133
+00:14:16,001 --> 00:14:20,000
+I don't know what unit
+a line of code is...
+
+134
+00:14:20,001 --> 00:14:23,000
+...but 40,000 is allot.
+
+135
+00:14:24,001 --> 00:14:30,000
+I was duly impressed that they got
+so many lines of code correct.
+
+136
+00:14:30,001 --> 00:14:34,000
+So when I met Joel, I said:
+how did you do that?
+
+137
+00:14:35,001 --> 00:14:36,000
+Do that? he asked.
+
+138
+00:14:37,001 --> 00:14:40,000
+Getting that software right.
+
+139
+00:14:41,001 --> 00:14:42,000
+Right? he said.
+
+140
+00:14:43,001 --> 00:14:53,000
+He said that in one of the calculations
+of the orbit of the lunar module...
+
+141
+00:14:55,001 --> 00:14:59,000
+..the moon had been defined
+as repelling instead of attractive.
+
+142
+00:15:00,001 --> 00:15:04,000
+They had discovered that error
+by accident...
+
+143
+00:15:05,001 --> 00:15:07,000
+Imagine, BY ACCIDENT...
+
+144
+00:15:07,001 --> 00:15:09,000
+...five days before the shot.
+
+145
+00:15:10,001 --> 00:15:15,000
+I went white and said:
+
+146
+00:15:15,001 --> 00:15:17,000
+Those guys have been lucky!
+
+147
+00:15:19,001 --> 00:15:21,000
+Yes, Joel Aron agreed.
+
+148
+00:15:24,001 --> 00:15:29,000
+EWD340: "Program testing can convincingly
+show the presence of bugs...
+
+149
+00:15:29,001 --> 00:15:35,000
+..but it is hopelessly inadequate
+to show their absence."
+
+150
+00:15:37,001 --> 00:15:43,000
+Dijkstra knew personally, how
+frighteningly complex programs
+could become
+
+151
+00:15:43,001 --> 00:15:48,000
+He had finished the operating system
+of Holland's biggest computer, the X-8...
+
+152
+00:15:49,001 --> 00:15:50,000
+...under great pressure.
+
+153
+00:15:50,001 --> 00:15:55,000
+I feared that I wouldn't get it right.
+That I would lose control of it.
+
+154
+00:15:57,001 --> 00:16:02,000
+For the X-8 in Eindhoven...
+
+155
+00:16:03,001 --> 00:16:06,000
+...we tried to design
+a multiprogramming system.
+
+156
+00:16:06,001 --> 00:16:13,000
+We were working with a machine
+with a real-time interrupt...
+
+157
+00:16:13,001 --> 00:16:17,000
+...which really means
+that you cannot test your program.
+
+158
+00:16:19,001 --> 00:16:26,000
+I knew that if we designed the program
+with insufficient care...
+
+159
+00:16:26,001 --> 00:16:30,000
+...we would end up with something...
+
+160
+00:16:32,001 --> 00:16:35,000
+...which, once entered
+into the computer...
+
+161
+00:16:38,001 --> 00:16:42,000
+...wouldn't work, and would make
+irreproducible errors...
+
+162
+00:16:42,001 --> 00:16:49,000
+...the cause of which we would be
+unable to determine.
+
+163
+00:16:50,001 --> 00:16:52,000
+That was the reason...
+
+164
+00:16:52,001 --> 00:16:59,000
+...why we applied all possible control
+mechanisms in the development stage.
+
+165
+00:17:06,001 --> 00:17:09,000
+EWD1284: "Elegance is not a dispensable luxury..."
+
+166
+00:17:10,001 --> 00:17:14,000
+...but a factor that decides
+between success and failure.
+
+167
+00:17:17,001 --> 00:17:20,000
+One of the things I discovered
+as early as the 1960's...
+
+168
+00:17:20,001 --> 00:17:26,000
+...is that mathematical elegance...
+
+169
+00:17:27,001 --> 00:17:32,000
+...is NOT a question of aesthetics,
+nor of taste or fashion...
+
+170
+00:17:32,001 --> 00:17:36,000
+...but something you can translate
+into a technical notion.
+
+171
+00:17:37,001 --> 00:17:45,000
+The Concise Oxford Dictionary gives
+as one of the meanings of 'elegant'...
+
+172
+00:17:47,001 --> 00:17:50,000
+...'ingeniously simple and effective'.
+
+173
+00:17:54,001 --> 00:17:58,000
+In practice a program is manageable...
+
+174
+00:17:59,001 --> 00:18:04,000
+...if you make a truly elegant program...
+
+175
+00:18:05,001 --> 00:18:08,000
+...firstly because it is shorter
+than most alternatives...
+
+176
+00:18:09,001 --> 00:18:13,000
+...and consists of discrete parts...
+
+177
+00:18:14,001 --> 00:18:18,000
+...each of which you can replace
+by an alternative implementation...
+
+178
+00:18:19,001 --> 00:18:23,000
+...without influencing
+the rest of the program.
+
+179
+00:18:26,001 --> 00:18:28,000
+But also, curiously...
+
+180
+00:18:33,001 --> 00:18:37,000
+...the most elegant programs
+are often the most efficient.
+
+181
+00:18:45,001 --> 00:18:49,000
+When there were no computers,
+programming was no problem.
+
+182
+00:18:49,001 --> 00:18:53,000
+When we had a few weak computers,
+it became a mild problem.
+
+183
+00:18:54,001 --> 00:18:59,080
+Now that we have gigantic computers,
+programming is a gigantic problem.
+
+184
+00:19:02,001 --> 00:19:08,000
+My first programming years were
+a bit strange compared to now...
+
+185
+00:19:08,001 --> 00:19:12,000
+...in that I programmed
+for non-existing machines.
+
+186
+00:19:12,001 --> 00:19:16,000
+My friends Bram Loopstra
+and Carel Scholten built the machine...
+
+187
+00:19:17,001 --> 00:19:21,000
+...and in the meantime
+I wrote the relevant software.
+
+188
+00:19:23,001 --> 00:19:29,000
+I was used to not testing a program...
+
+189
+00:19:30,001 --> 00:19:33,000
+...because the machine to test it on
+wasn't finished.
+
+190
+00:19:34,001 --> 00:19:37,000
+I knew right away
+that you had to create something...
+
+191
+00:19:38,001 --> 00:19:41,000
+...that you could keep
+under your intellectual control.
+
+192
+00:20:18,001 --> 00:20:23,000
+I started to work at the Mathematical
+Centre in March 1952.
+
+193
+00:20:24,001 --> 00:20:29,000
+My wife to be had worked there
+since the summer of 1949.
+
+194
+00:20:30,001 --> 00:20:33,000
+She had a job as a calculator.
+
+195
+00:20:34,001 --> 00:20:37,000
+I was taken on as a programmer.
+
+196
+00:20:40,001 --> 00:20:42,000
+And I rather liked her.
+
+197
+00:20:43,001 --> 00:20:50,000
+Our first date was to the concert at the
+occasion of the Mathematical Congress...
+
+198
+00:20:51,001 --> 00:20:54,000
+...in 1954 in Amsterdam.
+
+199
+00:20:54,001 --> 00:20:56,000
+Then the news was out...
+
+200
+00:20:57,001 --> 00:21:00,000
+...that I was sweet on her.
+
+201
+00:21:02,001 --> 00:21:05,000
+People complemented me on my taste.
+
+202
+00:21:19,001 --> 00:21:23,000
+Professionally, I was strongly influenced
+by my mother.
+
+203
+00:21:23,001 --> 00:21:27,000
+She was a brilliant mathematician.
+
+204
+00:21:27,001 --> 00:21:32,000
+I remember when I had bought my books
+for the next school year...
+
+205
+00:21:32,001 --> 00:21:39,000
+...I saw the geometry book, which
+scared me with all those Greek letters.
+
+206
+00:21:39,001 --> 00:21:43,000
+I asked my mother if geometry was hard.
+
+207
+00:21:44,001 --> 00:21:45,000
+She said: not at all.
+
+208
+00:21:46,001 --> 00:21:49,000
+Make sure you know all the formulae
+by heart...
+
+209
+00:21:50,001 --> 00:21:55,000
+...and if you need more than five lines,
+you're on the wrong track.
+
+210
+00:22:00,001 --> 00:22:05,000
+Hard toy...
+'Bikkel'. No fun in that.
+
+211
+00:22:08,001 --> 00:22:12,000
+(Dutch) 's Laands wijs, 's lands err... (Dutch)
+Coult it be 'volkslied'?
+
+212
+00:22:12,001 --> 00:22:14,000
+Oh, 'wijs'. I see.
+
+213
+00:22:18,001 --> 00:22:21,000
+Does that fit with anything?
+
+214
+00:22:22,001 --> 00:22:28,000
+The V of 3 down?
+Yes, and the i of 'bikkel'.
+
+215
+00:22:28,001 --> 00:22:31,000
+My rashness is being rewarded.
+
+216
+00:22:32,001 --> 00:22:36,000
+Why has elegance found
+so little following?
+
+217
+00:22:36,001 --> 00:22:39,000
+That's the reality of it.
+
+218
+00:22:41,001 --> 00:22:45,000
+Elegance has the disadvantage,
+if that's what it is...
+
+219
+00:22:49,001 --> 00:22:52,000
+...that hard work is needed
+to achieve it...
+
+220
+00:22:53,001 --> 00:22:56,000
+...and a good education
+to appreciate it.

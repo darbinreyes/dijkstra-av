@@ -1,0 +1,3009 @@
+1
+00:00:00,720 --> 00:00:05,160
+As a result of a long sequence
+of coincidences, I entered the
+
+2
+00:00:05,160 --> 00:00:10,380
+programming profession officially
+on the first spring morning of 1952.
+
+3
+00:00:11,340 --> 00:00:15,090
+And as far as have I have been
+able to trace, I was the first
+
+4
+00:00:15,095 --> 00:00:17,040
+Dutchman to do so in my country.
+
+5
+00:00:18,210 --> 00:00:23,700
+In retrospect, the most amazing
+thing was the slowness with.
+
+6
+00:00:24,555 --> 00:00:30,585
+At least in my part of the world, the
+programming profession emerged a slowness,
+
+7
+00:00:30,765 --> 00:00:36,585
+which is now hard to believe, but I'm
+grateful for two vivid recollections
+
+8
+00:00:36,795 --> 00:00:41,835
+from that period that established
+that slowness beyond any doubt.
+
+9
+00:00:43,515 --> 00:00:47,775
+After having programmed for some three
+years, I had a discussion with Alan
+
+10
+00:00:47,775 --> 00:00:51,775
+Van Farden, who was then my boss at
+the Mathematical Center in Amster.
+
+11
+00:00:52,485 --> 00:00:58,805
+A discussion for which I shall remain
+grateful to him as long as I live.
+
+12
+00:01:00,540 --> 00:01:04,620
+The point was that I was supposed to
+study theoretical physics at University
+
+13
+00:01:04,620 --> 00:01:08,789
+of Lead, and simultaneously, and as
+I found two activities harder and
+
+14
+00:01:08,789 --> 00:01:14,100
+harder to combine, I had to make up
+my mind either to stop programming and
+
+15
+00:01:14,105 --> 00:01:19,530
+become a real respectable, theoretical
+physicist, or to carry my study of
+
+16
+00:01:19,530 --> 00:01:26,520
+physics to a formal completion only with
+minimum of efforts and to become, yes.
+
+17
+00:01:28,250 --> 00:01:34,650
+A programmer, but was that
+a respectable profession for
+
+18
+00:01:34,650 --> 00:01:36,300
+after all it was programming?
+
+19
+00:01:36,660 --> 00:01:40,180
+Where was the sound body of
+knowledge that could support it as an
+
+20
+00:01:40,185 --> 00:01:42,060
+intellectually respectable discipline?
+
+21
+00:01:42,780 --> 00:01:46,500
+I remember quite vividly how I
+envied my hardware colleagues.
+
+22
+00:01:49,649 --> 00:01:53,850
+Who when asked about their professional
+competence could at least point out
+
+23
+00:01:54,030 --> 00:01:58,410
+that they knew everything about vacuum
+tubes and amplifiers and the rest.
+
+24
+00:01:59,340 --> 00:02:01,979
+Whereas I felt that when faced
+with that question, I would
+
+25
+00:02:01,985 --> 00:02:05,340
+stand handed full of misgivings.
+
+26
+00:02:05,345 --> 00:02:09,960
+I knocked on my friend's office
+door asking him whether I could
+
+27
+00:02:09,960 --> 00:02:14,880
+speak to him for a moment when I
+left his office a number of hours.
+
+28
+00:02:16,215 --> 00:02:21,975
+I was another person for after having
+listened to my problems patiently, he
+
+29
+00:02:21,975 --> 00:02:25,935
+agreed that up till that moment, there
+wasn't much programming discipline.
+
+30
+00:02:26,595 --> 00:02:30,255
+But then he went on to explain quietly
+that automatic computers were here to
+
+31
+00:02:30,255 --> 00:02:36,405
+stay, that we were just at the beginning,
+and couldn't I be one of the persons
+
+32
+00:02:36,885 --> 00:02:41,415
+called to make programming a respectable
+discipline in the years to come?
+
+33
+00:02:42,555 --> 00:02:44,985
+This was a turning point in my life.
+
+34
+00:02:45,960 --> 00:02:50,340
+And I completed my study of physics
+formally as quickly as I could.
+
+35
+00:02:51,870 --> 00:02:56,520
+One moral of the above story is of
+course, that we must be very careful
+
+36
+00:02:56,520 --> 00:02:58,710
+when we give advice to younger people.
+
+37
+00:02:58,980 --> 00:03:00,360
+Sometimes they follow it.
+
+38
+00:03:04,965 --> 00:03:10,305
+Another two years later in 1957, I
+married and Dutch marriage rights
+
+39
+00:03:10,454 --> 00:03:12,555
+require you to state your profession.
+
+40
+00:03:12,885 --> 00:03:17,625
+And I stated that I was a programmer,
+but the municipal authorities that of
+
+41
+00:03:17,625 --> 00:03:22,845
+the town of Amsterdam didn't accept
+it on the ground that there was no
+
+42
+00:03:22,845 --> 00:03:26,925
+such profession  and believe it or.
+
+43
+00:03:27,670 --> 00:03:32,830
+But under the Heading Profession,
+my Marriage Act shows the ridiculous
+
+44
+00:03:32,830 --> 00:03:38,860
+entry, theoretical physicist, so
+much for the slowness with which
+
+45
+00:03:38,860 --> 00:03:43,240
+I was, I saw the programming
+profession emerge in my own country.
+
+46
+00:03:44,140 --> 00:03:48,280
+Since then, I have seen more of the
+world, and it's my general impression
+
+47
+00:03:48,280 --> 00:03:52,930
+that in other countries, apart from
+a possible shift of dates, the growth
+
+48
+00:03:53,020 --> 00:03:54,850
+pattern has been very much the.
+
+49
+00:03:56,910 --> 00:04:01,290
+Let me try to capture the situation
+in those old days in a little bit
+
+50
+00:04:01,290 --> 00:04:06,150
+more detail in the hope of getting a
+better understanding of the situation.
+
+51
+00:04:06,150 --> 00:04:12,329
+Today, while we pursue our analysis,
+we shall see how many common
+
+52
+00:04:12,329 --> 00:04:17,130
+misunderstandings about the true
+nature of the programming task can be
+
+53
+00:04:17,130 --> 00:04:21,269
+traced back to that now distant past.
+
+54
+00:04:22,995 --> 00:04:27,405
+The first automatic electronic
+computers were all unique single copy
+
+55
+00:04:27,405 --> 00:04:31,925
+machines, and they were all to be found
+in an environment with the exciting
+
+56
+00:04:31,935 --> 00:04:34,605
+flavor of an experimental laboratory.
+
+57
+00:04:35,625 --> 00:04:40,034
+Once the vision of the automatic
+computer was there, its realization
+
+58
+00:04:40,034 --> 00:04:44,055
+was a tremendous challenge to the
+electronic technology then available.
+
+59
+00:04:44,685 --> 00:04:50,430
+And one thing is, We cannot deny the
+courage of the groups that decided
+
+60
+00:04:50,460 --> 00:04:57,390
+to try and build such a fantastic
+piece of equipment for a fantastic
+
+61
+00:04:57,390 --> 00:04:59,159
+pieces of equipment they were.
+
+62
+00:04:59,969 --> 00:05:04,260
+In retrospect, one can only
+wonder that those first machines
+
+63
+00:05:04,260 --> 00:05:06,780
+worked at all, at least sometimes.
+
+64
+00:05:08,729 --> 00:05:13,200
+The overwhelming problem was to get
+and keep the machine in working order.
+
+65
+00:05:13,859 --> 00:05:18,030
+The preoccupation with the physical
+aspects of automatic computing is
+
+66
+00:05:18,030 --> 00:05:21,900
+still reflected in the names of
+the older scientific societies.
+
+67
+00:05:25,049 --> 00:05:26,460
+What about a poor programmer?
+
+68
+00:05:27,630 --> 00:05:29,940
+Well, to tell the honest truth.
+
+69
+00:05:30,765 --> 00:05:32,265
+He was hardly noticed.
+
+70
+00:05:33,675 --> 00:05:38,475
+For one thing, the first machines were
+so bulky that you could hardly move them,
+
+71
+00:05:38,475 --> 00:05:42,765
+and besides that, they required such
+extensive maintenance that it was quite
+
+72
+00:05:42,770 --> 00:05:47,865
+natural that the place where people tried
+to use the machine was the same laboratory
+
+73
+00:05:48,135 --> 00:05:49,935
+where the machine had been developed.
+
+74
+00:05:51,105 --> 00:05:55,545
+Secondly, his somewhat invisible
+work was without any glamor.
+
+75
+00:05:56,669 --> 00:06:00,810
+You could show the machine to visitors,
+and that was several orders of
+
+76
+00:06:01,210 --> 00:06:07,860
+magnitude more spectacular than some
+sheets of coding, but most important
+
+77
+00:06:07,865 --> 00:06:13,560
+of all, the programmer himself had
+a very modest view of his own work.
+
+78
+00:06:14,550 --> 00:06:20,070
+His work deriv all its significance from
+the existence of that wonderful machine,
+
+79
+00:06:21,390 --> 00:06:23,820
+because that was a unique machine.
+
+80
+00:06:23,970 --> 00:06:30,180
+He knew only too well that his programs
+had only local significance, and also
+
+81
+00:06:31,110 --> 00:06:35,060
+because it was patently obvious that this
+machine would have a limited lifetime.
+
+82
+00:06:35,670 --> 00:06:39,090
+He knew that very little of
+his work would have a lasting.
+
+83
+00:06:41,460 --> 00:06:44,880
+Finally, there's yet another circumstance
+that had a profound influence on the
+
+84
+00:06:45,150 --> 00:06:47,130
+programmer's attitude towards his work.
+
+85
+00:06:48,390 --> 00:06:54,300
+On the one hand, besides being unreliable,
+his machine was usually too slow and
+
+86
+00:06:54,305 --> 00:06:56,490
+his memory was usually too small.
+
+87
+00:06:57,120 --> 00:07:02,460
+That is, he was faced with a pinching
+shoe while on the other hand, it's usually
+
+88
+00:07:03,070 --> 00:07:08,370
+somewhat queer order code would cater
+for the most unexpected construction.
+
+89
+00:07:09,645 --> 00:07:14,025
+And in those days, many a clever
+programmer derived an immense
+
+90
+00:07:14,025 --> 00:07:18,825
+intellectual satisfaction from the
+cunning tricks by means of which he
+
+91
+00:07:18,825 --> 00:07:23,414
+contrived to squeeze the impossible
+into the constraints of his equipment.
+
+92
+00:07:24,945 --> 00:07:28,934
+Two opinions about programming
+date from those days.
+
+93
+00:07:29,474 --> 00:07:32,565
+I mention them now I shall return to them.
+
+94
+00:07:34,575 --> 00:07:39,315
+The one opinion was that a really
+competent programmer should be puzzle
+
+95
+00:07:39,315 --> 00:07:42,585
+minded and very fond of clever tricks.
+
+96
+00:07:43,395 --> 00:07:48,285
+The other opinion was that programming
+was nothing more than optimizing
+
+97
+00:07:48,285 --> 00:07:52,785
+the efficiency of the computational
+process in one direction or the other.
+
+98
+00:07:55,305 --> 00:07:58,455
+The letter of opinion was the result
+of the frequent circumstance that
+
+99
+00:07:58,515 --> 00:08:03,945
+indeed the available equipment was
+often a painfully pinching shoe.
+
+100
+00:08:04,515 --> 00:08:09,045
+And in those days, one often
+encountered the naive expectation
+
+101
+00:08:09,465 --> 00:08:13,995
+that once more powerful machines
+were available, programming would
+
+102
+00:08:13,995 --> 00:08:16,425
+no longer be a problem for them.
+
+103
+00:08:16,425 --> 00:08:20,445
+The struggle to push the machine to its
+limits would no longer be necessary, and
+
+104
+00:08:20,445 --> 00:08:22,275
+that was all what programming was about.
+
+105
+00:08:22,280 --> 00:08:22,605
+Wasn't.
+
+106
+00:08:25,020 --> 00:08:28,710
+But in the next decade, something
+completely different happened.
+
+107
+00:08:30,090 --> 00:08:34,350
+More powerful machines became
+available, not just an order of
+
+108
+00:08:34,750 --> 00:08:39,930
+magnitude, more powerful, even several
+orders of magnitude more powerful.
+
+109
+00:08:41,070 --> 00:08:46,050
+But instead of finding ourselves in the
+state of eternal bliss of all programming
+
+110
+00:08:46,080 --> 00:08:51,730
+problems solved, we found ourselves up
+to our necks in the software crisis.
+
+111
+00:08:52,695 --> 00:08:53,505
+How come
+
+112
+00:08:56,835 --> 00:09:00,405
+there is a minor cause
+in one or two respects?
+
+113
+00:09:00,410 --> 00:09:03,855
+Model machinery is basically
+more difficult to handle
+
+114
+00:09:04,095 --> 00:09:05,385
+than the old machinery.
+
+115
+00:09:06,225 --> 00:09:09,525
+Firstly, we've got the IO
+interrupts occurring at
+
+116
+00:09:09,525 --> 00:09:11,725
+unpredictable and irec moments
+
+117
+00:09:14,765 --> 00:09:17,715
+compared with the old sequential
+machine that pretended to be
+
+118
+00:09:17,925 --> 00:09:19,125
+a fully deterministic ato.
+
+119
+00:09:21,285 --> 00:09:26,805
+This has been a dramatic change and
+many systems programmers, gray hair
+
+120
+00:09:27,105 --> 00:09:31,635
+bears witness to the facts that we
+shouldn't talk lightly about the logical
+
+121
+00:09:31,635 --> 00:09:34,125
+problems created by that feature.
+
+122
+00:09:36,360 --> 00:09:42,209
+Secondly, we've got machines equipped
+with multi-level stores presenting US
+
+123
+00:09:42,209 --> 00:09:46,650
+problems of management strategy that in
+spite of the extensive literature on the
+
+124
+00:09:46,650 --> 00:09:53,939
+subject, still remain rather elusive so
+much for the added complication due to
+
+125
+00:09:54,430 --> 00:09:56,640
+structural changes of the actual machines.
+
+126
+00:09:57,900 --> 00:10:05,910
+But I called this a minor cause the major
+cause is that the machines have become
+
+127
+00:10:05,910 --> 00:10:08,280
+several orders of magnitude more powerful.
+
+128
+00:10:09,240 --> 00:10:12,870
+To put it quite bluntly, as
+long as there were no machines,
+
+129
+00:10:12,875 --> 00:10:14,440
+programming was no problem at all.
+
+130
+00:10:16,790 --> 00:10:17,280
+Okay.
+
+131
+00:10:22,895 --> 00:10:26,505
+And when we had a few weak computers,
+programming became a mild problem,
+
+132
+00:10:26,685 --> 00:10:28,795
+and now we have gigantic computers.
+
+133
+00:10:28,800 --> 00:10:31,485
+Programming has become an
+equally gigantic problem.
+
+134
+00:10:32,445 --> 00:10:36,405
+In this sense, the electronic industry
+hasn't solved a single problem.
+
+135
+00:10:36,495 --> 00:10:37,905
+It has only created them.
+
+136
+00:10:38,205 --> 00:10:43,095
+It has created the problem of using
+its products to put it in another way,
+
+137
+00:10:43,785 --> 00:10:48,135
+as the power of available machines
+grew by a factor of thousand or.
+
+138
+00:10:49,245 --> 00:10:54,495
+Society's ambition to apply these
+machines grew in proportion, and it
+
+139
+00:10:54,495 --> 00:10:59,415
+was the poor programmer who found his
+job in this exploded field of tension
+
+140
+00:10:59,415 --> 00:11:05,835
+between ends and means the increased
+power of the hardware together with
+
+141
+00:11:05,840 --> 00:11:11,115
+the perhaps even more dramatic increase
+in it's reliability made solutions
+
+142
+00:11:11,115 --> 00:11:16,935
+feasible that the program, I hadn't
+dare to dream about a few years before.
+
+143
+00:11:17,940 --> 00:11:24,090
+And now a few years later, he had to
+dream about them, and even worse, he had
+
+144
+00:11:24,090 --> 00:11:26,520
+to transform such dreams into reality.
+
+145
+00:11:27,660 --> 00:11:31,170
+Is it a wonder that we found
+ourselves in a software crisis?
+
+146
+00:11:32,100 --> 00:11:33,810
+No, certainly not.
+
+147
+00:11:35,130 --> 00:11:38,490
+And as you may guess, it was
+even predicted well in advance.
+
+148
+00:11:39,150 --> 00:11:43,350
+But the trouble with minor profits, of
+course, is that it's only five years later
+
+149
+00:11:43,500 --> 00:11:45,150
+that you really know that they had been.
+
+150
+00:11:48,150 --> 00:11:53,760
+Then in the mid sixties,
+something terrible happened.
+
+151
+00:11:55,830 --> 00:12:00,000
+The computers of the so-called third
+generation made their appearance.
+
+152
+00:12:01,710 --> 00:12:06,930
+The official literature tells us that
+their price performance ratio has been
+
+153
+00:12:06,930 --> 00:12:09,210
+one of the major design objectives.
+
+154
+00:12:10,290 --> 00:12:14,790
+But if you take as performance, the
+duty cycle of the machine's, various
+
+155
+00:12:14,790 --> 00:12:20,130
+components, little will prevent you
+from ending up with design and which
+
+156
+00:12:20,130 --> 00:12:24,420
+the major part of your performance goal
+is reached by internal housekeeping
+
+157
+00:12:24,425 --> 00:12:26,790
+activities of doubtful necessity.
+
+158
+00:12:28,200 --> 00:12:33,330
+And if your definition of price is the
+price to be paid for the hardware, little
+
+159
+00:12:33,330 --> 00:12:37,410
+will prevent you from ending up with a
+design that it's terribly hard to program.
+
+160
+00:12:38,955 --> 00:12:43,815
+For instance, the auto code might be
+such as to enforce either upon the
+
+161
+00:12:43,815 --> 00:12:50,105
+programmer or upon the system, early
+binding decisions, presenting conflicts
+
+162
+00:12:50,110 --> 00:12:52,035
+that really cannot be resolved.
+
+163
+00:12:53,175 --> 00:12:58,155
+And to a large extent, these unpleasant
+possibilities seem to have become reality
+
+164
+00:13:00,135 --> 00:13:05,175
+when these machines were announced and
+their functional specifications became known.
+
+165
+00:13:06,990 --> 00:13:10,750
+Quite a few among us must
+have become quite miserable.
+
+166
+00:13:11,490 --> 00:13:12,840
+At least I was.
+
+167
+00:13:14,100 --> 00:13:17,760
+It was only reasonable to expect
+that such machines would flood the
+
+168
+00:13:17,760 --> 00:13:22,560
+computing community, and it was therefore
+all the more important that their
+
+169
+00:13:22,564 --> 00:13:24,750
+design should be as sound as possible.
+
+170
+00:13:25,815 --> 00:13:32,025
+But the design (of the 360) embodied such serious flaws
+that I felt that with a single stroke,
+
+171
+00:13:32,115 --> 00:13:37,215
+the progress of computing science had
+been retarded by at least 10 years.
+
+172
+00:13:38,235 --> 00:13:42,615
+It was then that I had the blackest week
+in the whole of my professional life.
+
+173
+00:13:43,995 --> 00:13:48,074
+Perhaps the most saddening thing now
+is that even after all those years
+
+174
+00:13:48,074 --> 00:13:53,385
+of frustrating experience, still
+so many people honestly believe
+
+175
+00:13:53,745 --> 00:13:58,925
+that some law of nature tells us
+that machines have to be that way.
+
+176
+00:14:00,480 --> 00:14:05,280
+They silence their doubts by observe, and
+how many of these machines have been sold
+
+177
+00:14:08,940 --> 00:14:13,290
+and derive from that observation, the
+false sense of security that after all
+
+178
+00:14:13,290 --> 00:14:15,600
+the design cannot have been that bad.
+
+179
+00:14:17,695 --> 00:14:21,955
+But upon closer inspection, that line
+of defense has the same convincing
+
+180
+00:14:21,955 --> 00:14:26,245
+strength as the argument that
+cigarette smoking must be healthy
+
+181
+00:14:26,245 --> 00:14:27,865
+because so many people do it.
+
+182
+00:14:30,265 --> 00:14:31,525
+It is in this connection.
+
+183
+00:14:32,250 --> 00:14:36,190
+That I regret that it's not customer
+for scientific journals in the
+
+184
+00:14:36,195 --> 00:14:40,890
+computing area to publish reviews
+of newly announced computers.
+
+185
+00:14:41,190 --> 00:14:46,680
+In much the same way as we review
+scientific publications to review
+
+186
+00:14:46,680 --> 00:14:48,990
+machines would be at least as important.
+
+187
+00:14:50,130 --> 00:14:52,380
+And here I have a confession to make.
+
+188
+00:14:53,490 --> 00:14:58,950
+In the early sixties, I wrote such a
+review where the intention of submitting
+
+189
+00:14:58,950 --> 00:15:00,390
+it to the communications of the AC.
+
+190
+00:15:01,860 --> 00:15:05,280
+But in spite of the fact that the
+few colleagues to whom the text was
+
+191
+00:15:05,280 --> 00:15:12,330
+sent for their advice urged me all
+to do so, I didn't dare to submit it
+
+192
+00:15:13,260 --> 00:15:17,160
+fearing that the difficulties either
+for myself or for the editorial
+
+193
+00:15:17,165 --> 00:15:19,860
+bolt would prove to be too great.
+
+194
+00:15:21,120 --> 00:15:26,370
+This suppression was an act
+of cowardice on my side, for
+
+195
+00:15:26,370 --> 00:15:28,680
+which I blame myself more and.
+
+196
+00:15:30,810 --> 00:15:34,980
+The difficulties I foresaw were a
+consequence of the absence of a generally
+
+197
+00:15:34,980 --> 00:15:40,170
+accepted criteria, and although I was
+convinced of the validity of the criteria
+
+198
+00:15:40,170 --> 00:15:45,990
+I had chosen to apply, I feared that
+my review will be refused to discard
+
+199
+00:15:45,995 --> 00:15:49,710
+it as a matter of personal taste.
+
+200
+00:15:50,890 --> 00:15:55,080
+I still think that such reviews
+would be extremely useful
+
+201
+00:15:55,470 --> 00:15:56,970
+and I'm longing to see them.
+
+202
+00:15:58,380 --> 00:16:02,910
+For their accepted appearance
+would be a sure sign of maturity
+
+203
+00:16:03,570 --> 00:16:05,040
+of the computing community.
+
+204
+00:16:07,560 --> 00:16:11,790
+The reason that I have paid the above
+attention to the hardware seen is
+
+205
+00:16:11,790 --> 00:16:16,350
+because I have the feeling that one
+of the most important aspects of any
+
+206
+00:16:16,350 --> 00:16:22,560
+computing tool is its influence on the
+thinking habits of those that try to use.
+
+207
+00:16:23,459 --> 00:16:27,780
+And because I have reasons to believe
+that that influence is many times
+
+208
+00:16:27,780 --> 00:16:30,060
+stronger than is commonly assumed.
+
+209
+00:16:32,189 --> 00:16:36,030
+Let me now switch our attention
+to the software scene.
+
+210
+00:16:37,320 --> 00:16:40,770
+Here, the diversity has been
+so large that I must confine
+
+211
+00:16:40,770 --> 00:16:43,560
+myself to a few stepping stones.
+
+212
+00:16:44,090 --> 00:16:50,070
+I'm painfully aware of thes of my choice
+and I bet you not to draw any conclusions
+
+213
+00:16:50,250 --> 00:16:55,750
+with regard to my appreciation of the
+many efforts that will remain un mansion.
+
+214
+00:16:58,080 --> 00:17:01,590
+In the beginning there was adec in
+Cambridge, England, and I think it's quite
+
+215
+00:17:01,590 --> 00:17:06,450
+impressive that right from the start, the
+notion of a subroutine library played a
+
+216
+00:17:06,450 --> 00:17:11,970
+central role in the design of that machine
+and of the way in which it should be used.
+
+217
+00:17:12,540 --> 00:17:18,569
+It's now nearly 25 years later and the
+computing scene has changed Dramat.
+
+218
+00:17:19,055 --> 00:17:23,075
+But the notion of basic software
+is still with us, and the notion of
+
+219
+00:17:23,075 --> 00:17:27,665
+the closed sub routine is still one
+of the key concepts in programming.
+
+220
+00:17:28,565 --> 00:17:31,575
+We should recognize the closed
+sub routine as one of the
+
+221
+00:17:31,580 --> 00:17:33,365
+greatest software inventions.
+
+222
+00:17:33,845 --> 00:17:38,885
+It has survived three generations of
+computers, and we'll survive a few more
+
+223
+00:17:39,465 --> 00:17:44,015
+because it caters for the implementation
+of one of our basic patterns of abstract.
+
+224
+00:17:45,209 --> 00:17:49,860
+Regrettably enough, its importance has
+been underestimated in the design of the
+
+225
+00:17:49,860 --> 00:17:55,189
+third generation computers in which the
+great number of explicitly named registers
+
+226
+00:17:55,189 --> 00:17:59,969
+of their TIC unit implies a large
+overhead on the subroutine mechanism.
+
+227
+00:18:01,560 --> 00:18:05,429
+But even that didn't kill the concept of
+the subroutine, and we can only pray that
+
+228
+00:18:05,629 --> 00:18:07,770
+the mutation won't prove to be hereditary.
+
+229
+00:18:11,115 --> 00:18:14,325
+The second major development on the
+software scene that I would like
+
+230
+00:18:14,325 --> 00:18:16,395
+to mention is the birth of Fortran.
+
+231
+00:18:17,925 --> 00:18:22,875
+At that time, this was a project of
+great ve, and the people responsible
+
+232
+00:18:22,875 --> 00:18:25,185
+for it deserve our great admiration.
+
+233
+00:18:25,875 --> 00:18:30,105
+It would be absolutely unfair
+to blame them for shortcomings.
+
+234
+00:18:30,105 --> 00:18:36,015
+They only became apparent after a
+decade or so of extensive usage.
+
+235
+00:18:37,335 --> 00:18:41,625
+Groups with a successful look
+ahead of 10 years are quite rare.
+
+236
+00:18:43,245 --> 00:18:49,005
+In retrospect, we must rate for as a
+successful coding technique, but with
+
+237
+00:18:49,125 --> 00:18:55,515
+very few effective age to conception
+age, which are now so urgently needed.
+
+238
+00:18:56,115 --> 00:19:02,235
+That time has come to consider
+it out of date, the sooner we can
+
+239
+00:19:02,235 --> 00:19:05,295
+forget that fraction has ever exist.
+
+240
+00:19:06,240 --> 00:19:09,150
+The better for,
+
+241
+00:19:14,370 --> 00:19:15,990
+for as a vehicle of fault.
+
+242
+00:19:16,530 --> 00:19:17,870
+It is no longer adequate.
+
+243
+00:19:19,020 --> 00:19:20,070
+It wastes our brain.
+
+244
+00:19:20,070 --> 00:19:27,330
+Power is too risky and therefore too
+expensive to use for a trans tragic
+
+245
+00:19:27,330 --> 00:19:30,220
+fate has been its wide acceptance.
+
+246
+00:19:32,470 --> 00:19:36,960
+Mentally chaining thousands and thousands
+of programmers to our past mistakes.
+
+247
+00:19:37,710 --> 00:19:42,630
+I pray daily that more of my
+fellow programmers may find
+
+248
+00:19:42,635 --> 00:19:47,970
+the means of freeing themselves
+from the curse of compatibility.
+
+249
+00:19:50,480 --> 00:19:55,170
+The third project, I wouldn't like to
+leave and mention this list, a fascinating
+
+250
+00:19:55,170 --> 00:19:56,820
+enterprise of a completely different.
+
+251
+00:19:58,440 --> 00:20:00,660
+With a few very basic principles.
+
+252
+00:20:00,660 --> 00:20:04,710
+At its foundation, it has
+shown remarkable stability.
+
+253
+00:20:05,910 --> 00:20:09,750
+Besides that, lisp has been
+the carrier for a considerable
+
+254
+00:20:09,755 --> 00:20:14,490
+number of, in a sense, our most
+sophisticated computer applications.
+
+255
+00:20:15,390 --> 00:20:20,100
+LIS has jokingly been described as the
+most intelligent way to misuse a computer.
+
+256
+00:20:21,060 --> 00:20:24,180
+I think that description
+a great compliment.
+
+257
+00:20:25,005 --> 00:20:30,585
+Because it transmits the full flavor
+of liberation, it has assisted a number
+
+258
+00:20:30,585 --> 00:20:37,335
+of our most gifted fellow humans in
+thinking previously impossible thoughts.
+
+259
+00:20:38,595 --> 00:20:40,725
+The fourth project to
+be mentioned is a 60.
+
+260
+00:20:42,465 --> 00:20:45,705
+While up to the present day, veteran
+programs still tend to understand
+
+261
+00:20:45,705 --> 00:20:49,185
+their programming language in terms
+of the specific implementation
+
+262
+00:20:49,185 --> 00:20:54,074
+they are working with and the
+prevalence of al decimal dumps.
+
+263
+00:20:56,445 --> 00:20:59,985
+Well, the definition of list is still
+a curious mixture of what the language
+
+264
+00:21:00,014 --> 00:21:01,875
+means and how the mechanism works.
+
+265
+00:21:02,985 --> 00:21:06,435
+The famous report on the algorithmic
+language, article 60 is the fruit
+
+266
+00:21:06,435 --> 00:21:11,865
+of a genuine effort to carry
+abstraction a vital step further, and
+
+267
+00:21:11,865 --> 00:21:15,735
+to define a programming language in
+an implementation independent way.
+
+268
+00:21:16,965 --> 00:21:20,895
+One could argue that in this respect,
+his authors have been so successful that
+
+269
+00:21:20,895 --> 00:21:24,915
+they have created serious doubts as to
+whether it could be implemented at all.
+
+270
+00:21:26,865 --> 00:21:30,915
+The report gloriously demonstrated
+that the power of the formal method,
+
+271
+00:21:31,375 --> 00:21:37,845
+bnf, Now fairly known as Beau and
+the power of carefully phrased
+
+272
+00:21:37,845 --> 00:21:42,024
+English, at least when used by
+someone as brilliant as Peter Naau.
+
+273
+00:21:43,635 --> 00:21:47,865
+I think that it's fair to say that
+only very few documents, as short as
+
+274
+00:21:47,865 --> 00:21:52,004
+this, have had an equally profound
+influence on the computing community.
+
+275
+00:21:52,995 --> 00:21:57,675
+The ease with which in later years
+the names algal and algal like have
+
+276
+00:21:57,675 --> 00:22:00,075
+been used as unprotected trademark.
+
+277
+00:22:00,525 --> 00:22:04,425
+To lend some of its glory to a
+number of sometimes heartly related
+
+278
+00:22:04,425 --> 00:22:09,585
+younger projects is a somewhat
+shocking compliment to its standing.
+
+279
+00:22:11,175 --> 00:22:16,095
+The strength of BNF is defining device
+is responsible for what I regard as
+
+280
+00:22:16,095 --> 00:22:18,355
+one of the weaknesses of the language.
+
+281
+00:22:18,990 --> 00:22:24,750
+An over elaborate and not too systematic
+syntax could now be crammed into
+
+282
+00:22:25,020 --> 00:22:31,180
+the confines of a very few pages
+with a device as powerful as bnf.
+
+283
+00:22:31,710 --> 00:22:36,240
+The report on the algorithmic language
+alcohol 60 should have been much shorter.
+
+284
+00:22:36,560 --> 00:22:36,980
+The.
+
+285
+00:22:38,640 --> 00:22:42,330
+Besides that, I'm getting very doubtful
+about article sixty's parameter mechanism.
+
+286
+00:22:42,840 --> 00:22:46,950
+It allows the programmer so much
+combinatorial freedom that its
+
+287
+00:22:46,955 --> 00:22:50,550
+confident use requires a strong
+discipline from the programmer.
+
+288
+00:22:51,750 --> 00:22:56,460
+Besides expensive to implement,
+it seems dangerous to use.
+
+289
+00:22:58,740 --> 00:23:05,580
+Finally, although the subject is not
+a pleasant one, I must mention pl.
+
+290
+00:23:09,150 --> 00:23:12,480
+A programming language for which
+the defining documentation is of
+
+291
+00:23:12,730 --> 00:23:15,050
+a frightening size and complexity.
+
+292
+00:23:16,680 --> 00:23:22,500
+Using PL one must be like flying a
+plane with 7,000 buttons, switches and
+
+293
+00:23:22,500 --> 00:23:24,630
+handles to manipulate in the cockpit.
+
+294
+00:23:26,460 --> 00:23:31,830
+, I absolutely fail to see how we can
+keep our growing programs firmly
+
+295
+00:23:31,835 --> 00:23:38,100
+within our intellectual grip when
+by its sheer baroque the, the.
+
+296
+00:23:44,820 --> 00:23:47,850
+The programming language
+are basic tool mind.
+
+297
+00:23:47,850 --> 00:23:51,360
+You already escapes our
+intellectual control.
+
+298
+00:23:52,590 --> 00:23:56,580
+And if I have to describe the
+influence P one can have on its
+
+299
+00:23:56,580 --> 00:24:03,270
+users, the closest metaphor that
+comes to my mind is that of a drug.
+
+300
+00:24:05,370 --> 00:24:09,060
+I remember from symposium higher
+level programming languages, a lecture
+
+301
+00:24:09,060 --> 00:24:14,160
+given in defense of P one by a man who
+described himself as one of its devoted
+
+302
+00:24:14,160 --> 00:24:21,510
+users, but with in one hour lecture in
+praise of P one, he managed to ask for
+
+303
+00:24:21,510 --> 00:24:25,890
+the addition of about 15 new features.
+
+304
+00:24:26,910 --> 00:24:30,600
+Little supposing that the main source of
+his problem could very well be that it
+
+305
+00:24:30,600 --> 00:24:33,480
+contained already far too many features.
+
+306
+00:24:34,395 --> 00:24:38,925
+The speaker has played all of these
+depressing symptoms of addiction
+
+307
+00:24:39,435 --> 00:24:42,855
+reduced as he was to the state
+of mental stagnation, in which
+
+308
+00:24:42,855 --> 00:24:45,665
+he could only ask for more, more,
+
+309
+00:24:56,595 --> 00:24:57,765
+so much for the past.
+
+310
+00:24:58,275 --> 00:25:02,245
+But there is no point in making
+mistakes unless they're after.
+
+311
+00:25:02,685 --> 00:25:04,425
+We are able to learn from them.
+
+312
+00:25:05,685 --> 00:25:11,355
+As a matter of fact, I think that
+we have learned so much that within
+
+313
+00:25:11,355 --> 00:25:17,024
+a few years, programming can be
+an activity vastly different from
+
+314
+00:25:17,024 --> 00:25:18,855
+what it has been up till now.
+
+315
+00:25:19,695 --> 00:25:24,465
+So different that we have better
+prepare ourselves with a shock.
+
+316
+00:25:26,295 --> 00:25:29,325
+These systems will be
+virtually free of bags.
+
+317
+00:25:31,980 --> 00:25:34,920
+Those two improvements go hand in hand.
+
+318
+00:25:36,000 --> 00:25:39,330
+In the latter aspect, software seems
+to be different from many other
+
+319
+00:25:39,330 --> 00:25:45,000
+products, where as a rule, higher
+quality implies a higher price.
+
+320
+00:25:46,290 --> 00:25:50,490
+But those who want really reliable
+software will discover that.
+
+321
+00:25:50,720 --> 00:25:54,780
+They must find means of avoiding the
+majority of the bugs to start with.
+
+322
+00:25:55,440 --> 00:25:57,810
+And as a result, the
+programming process will become.
+
+323
+00:25:59,070 --> 00:26:02,310
+If you want more effective programmers,
+you will discover that they
+
+324
+00:26:02,310 --> 00:26:04,740
+shouldn't waste their time debugging.
+
+325
+00:26:05,280 --> 00:26:07,470
+They shouldn't introduce
+the bugs to start with.
+
+326
+00:26:08,250 --> 00:26:12,629
+In other words, both goals
+point to the same change.
+
+327
+00:26:14,070 --> 00:26:19,879
+Such a drastic change in such a short
+period of time would be a revolut.
+
+328
+00:26:21,600 --> 00:26:26,520
+And to all persons that base their
+expectations for the future on smooth
+
+329
+00:26:26,550 --> 00:26:32,040
+extrapolation of the recent past,
+the chance that this drastic change
+
+330
+00:26:32,045 --> 00:26:34,680
+will take place must seem negligible.
+
+331
+00:26:36,690 --> 00:26:39,780
+But we all know that sometimes
+revolutions do take place.
+
+332
+00:26:41,100 --> 00:26:43,080
+And what are the chances for this one?
+
+333
+00:26:44,460 --> 00:26:49,050
+There seem to be three major
+conditions that must be fulfilled.
+
+334
+00:26:50,415 --> 00:26:54,405
+The world at large must recognize
+the need for the change.
+
+335
+00:26:55,455 --> 00:26:59,475
+Secondly, the economic need for
+it must be sufficiently strong.
+
+336
+00:27:00,885 --> 00:27:04,965
+And thirdly, the change must
+be technically feasible.
+
+337
+00:27:06,795 --> 00:27:14,325
+Let me discuss these three conditions
+in the above order with respect to
+
+338
+00:27:14,555 --> 00:27:18,495
+the recognition of the need for a
+greater reliability of software.
+
+339
+00:27:19,485 --> 00:27:24,135
+I expect no disagreement
+anymore, only a few years ago.
+
+340
+00:27:24,135 --> 00:27:25,215
+This was different.
+
+341
+00:27:25,754 --> 00:27:28,875
+To talk about a software
+crisis was then blessed for me.
+
+342
+00:27:29,655 --> 00:27:33,315
+But the turning point was the conference
+on software engineering in garment
+
+343
+00:27:33,315 --> 00:27:40,544
+October, 1968, a conference that created
+the sensation as there occurred, the first
+
+344
+00:27:40,635 --> 00:27:43,175
+open admission of the software crisis.
+
+345
+00:27:44,504 --> 00:27:48,375
+And by now, it is generally
+recognized that the design of
+
+346
+00:27:48,585 --> 00:27:54,495
+any large sophisticated system is
+going to be a very difficult job.
+
+347
+00:27:55,950 --> 00:28:00,390
+And when everyone meets, people
+responsible for such undertakings,
+
+348
+00:28:00,780 --> 00:28:06,600
+one finds them very concerned about
+the reliability issue and rightly so.
+
+349
+00:28:07,830 --> 00:28:11,340
+In short, our first
+condition seems satisfied.
+
+350
+00:28:13,470 --> 00:28:18,660
+Now for the economic need nowadays
+will often encounters the opinion
+
+351
+00:28:18,690 --> 00:28:23,580
+that in the sixties programming has
+been an overpaid profession, and
+
+352
+00:28:23,585 --> 00:28:28,020
+that in the coming years, programmer
+salaries may be expected to go down.
+
+353
+00:28:28,980 --> 00:28:33,570
+Usually this opinion is expressed
+in connection with recession,
+
+354
+00:28:34,020 --> 00:28:38,100
+but it could be a symptom of
+something different and quite.
+
+355
+00:28:39,555 --> 00:28:45,015
+To win that perhaps the programs
+of the past decade haven't done so
+
+356
+00:28:45,015 --> 00:28:46,965
+good a job as they should have done.
+
+357
+00:28:48,195 --> 00:28:52,725
+Society is getting dissatisfied
+with the performance of programmers
+
+358
+00:28:52,815 --> 00:28:57,645
+and of their products, but there
+is another factor of much greater
+
+359
+00:28:57,645 --> 00:29:00,615
+weight in the present situation.
+
+360
+00:29:00,615 --> 00:29:01,305
+It is quite.
+
+361
+00:29:02,535 --> 00:29:06,975
+That for a specific system, the price
+to be paid for the development of
+
+362
+00:29:06,975 --> 00:29:13,485
+the software is of the same order of
+magnitude and hardware Prices can be
+
+363
+00:29:13,485 --> 00:29:15,915
+expected to drop with a factor of 10.
+
+364
+00:29:17,010 --> 00:29:21,511
+If software development were to
+continue to be the same clumsy and
+
+365
+00:29:21,516 --> 00:29:27,570
+expensive process as it is now, things
+would get completely out of balance.
+
+366
+00:29:28,230 --> 00:29:33,990
+And you cannot expect society to accept
+this, and therefore we must learn to
+
+367
+00:29:33,990 --> 00:29:36,330
+program an order of magnitude more effect.
+
+368
+00:29:37,830 --> 00:29:42,960
+To put in another way, as long as machines
+were the largest item on the budget,
+
+369
+00:29:43,170 --> 00:29:47,700
+the programming profession could get
+away with its clumsy techniques, but
+
+370
+00:29:47,700 --> 00:29:51,510
+that umbrella will fold very rapidly.
+
+371
+00:29:53,070 --> 00:29:57,990
+In short, also, our second
+condition seems, seems to be
+
+372
+00:29:57,990 --> 00:30:02,400
+satisfied and not a third condition.
+
+373
+00:30:03,720 --> 00:30:05,640
+Is it technically feasible?
+
+374
+00:30:07,649 --> 00:30:14,970
+I think it might, and I shall give you
+six arguments in support of that opinion.
+
+375
+00:30:18,379 --> 00:30:22,770
+A study of program structure
+has revealed that programs, even
+
+376
+00:30:22,770 --> 00:30:26,670
+alternative programs for the same
+task and with the same mathematical
+
+377
+00:30:26,670 --> 00:30:32,310
+content, can differ tremendously in
+their intellectual manageability.
+
+378
+00:30:34,080 --> 00:30:39,179
+A number of rules have been discovered,
+violation of which will either
+
+379
+00:30:39,185 --> 00:30:45,030
+seriously impair or totally destroy the
+intellectual manageability of the program.
+
+380
+00:30:46,560 --> 00:30:48,419
+These rules are of two kinds.
+
+381
+00:30:48,750 --> 00:30:53,320
+Those are the, the first kind are
+easily imposed mechanically by a
+
+382
+00:30:53,324 --> 00:30:55,139
+suitable chosen programming language.
+
+383
+00:30:56,489 --> 00:30:59,580
+Examples are the exclusion of go
+to statements and of procedures
+
+384
+00:30:59,580 --> 00:31:00,810
+with more than one output per.
+
+385
+00:31:03,015 --> 00:31:06,135
+For those of the second kind, I
+at least, but that may be due to
+
+386
+00:31:06,135 --> 00:31:07,875
+a lack of competence on my side.
+
+387
+00:31:08,085 --> 00:31:13,725
+See no way of imposing them mechanically
+as it seems to need some sort of automatic
+
+388
+00:31:13,725 --> 00:31:19,455
+fear improver for which I have no
+existence proof, therefore, for the time
+
+389
+00:31:19,455 --> 00:31:25,035
+being and perhaps the rules of the second
+kind present themselves as elements of
+
+390
+00:31:25,095 --> 00:31:27,765
+discipline required from the program.
+
+391
+00:31:29,054 --> 00:31:32,804
+Some of the rules I have in mind
+are so clear that they can be
+
+392
+00:31:32,895 --> 00:31:36,705
+taught and that there never needs
+to be an argument as to whether a
+
+393
+00:31:36,705 --> 00:31:38,804
+given program violates them or not.
+
+394
+00:31:40,665 --> 00:31:44,475
+Examples are the requirement that no
+loop should be written down without
+
+395
+00:31:44,475 --> 00:31:48,885
+providing a proof or termination, nor
+without stating the relation, whose
+
+396
+00:31:48,885 --> 00:31:52,605
+in variance will not be destroyed by
+the execution of the repeatable state.
+
+397
+00:31:54,794 --> 00:31:59,355
+I now suggest that we confine ourselves
+to the design and implementation of
+
+398
+00:31:59,355 --> 00:32:01,814
+intellectually manageable programs.
+
+399
+00:32:03,435 --> 00:32:07,455
+If someone feels that this restriction
+is so severe that we can't live
+
+400
+00:32:07,455 --> 00:32:09,794
+with it, I can reassure him.
+
+401
+00:32:10,635 --> 00:32:15,645
+The class of intellectual and manageable
+programs is still sufficiently rich to
+
+402
+00:32:15,645 --> 00:32:21,824
+contain many very realistic programs
+for any problem capable of algorithmic.
+
+403
+00:32:21,824 --> 00:32:27,390
+So, We must not forget that it's
+not our business to make programs.
+
+404
+00:32:27,840 --> 00:32:31,650
+It's our business to design
+classes of computations that
+
+405
+00:32:31,650 --> 00:32:33,720
+will display a desired behavior.
+
+406
+00:32:36,390 --> 00:32:40,230
+The suggestion of confining ourselves
+to intellectual and manageable
+
+407
+00:32:40,230 --> 00:32:47,640
+programs is the basis for the first
+two of my announced six arguments.
+
+408
+00:32:49,185 --> 00:32:49,665
+Argument.
+
+409
+00:32:49,665 --> 00:32:55,855
+One is that as the programmer only
+needs to consider intellectually
+
+410
+00:32:55,860 --> 00:33:00,915
+manageable programs, the alternatives
+he is choosing between are
+
+411
+00:33:00,915 --> 00:33:03,435
+much, much easier to cope with.
+
+412
+00:33:06,030 --> 00:33:11,460
+Argument two is that as soon as we
+have decided to restrict ourselves
+
+413
+00:33:11,460 --> 00:33:17,790
+to the subset of the intellectual and
+manageable programs, we have achieved
+
+414
+00:33:18,540 --> 00:33:24,840
+once and for all a drastic reduction
+of the solution space to be considered.
+
+415
+00:33:26,399 --> 00:33:28,710
+And this argument is
+distinct from argument.
+
+416
+00:33:33,045 --> 00:33:36,695
+Argument three is based on the
+constructive approach to the
+
+417
+00:33:36,700 --> 00:33:38,745
+problem of program correctness.
+
+418
+00:33:40,605 --> 00:33:45,675
+Today, a usual technique is to
+make a program and then to test
+
+419
+00:33:45,675 --> 00:33:52,965
+it, but program testing can be
+a very effective way to show the
+
+420
+00:33:53,535 --> 00:33:58,155
+presence of bugs, but is hopelessly
+inadequate for showing their absence.
+
+421
+00:34:02,685 --> 00:34:06,615
+The only effective way to raise
+the confidence level of a program
+
+422
+00:34:06,615 --> 00:34:13,365
+significantly is to give it convincing
+proof of its correctness, but one
+
+423
+00:34:13,365 --> 00:34:17,715
+shouldn't first make the program and then
+prove its correctness, because then the
+
+424
+00:34:17,715 --> 00:34:23,185
+requirement of providing the proof would
+only increase the poor program's burden.
+
+425
+00:34:24,045 --> 00:34:28,515
+On the contrary, the programmer
+should let correctness proof
+
+426
+00:34:28,515 --> 00:34:31,125
+and program grow hand in hand.
+
+427
+00:34:33,255 --> 00:34:36,345
+Argument three is essentially
+based on the following observation.
+
+428
+00:34:37,275 --> 00:34:42,825
+If one first asks oneself what
+the structure of a convincing
+
+429
+00:34:42,825 --> 00:34:48,915
+proof would be, and having found
+this then constructs a program
+
+430
+00:34:49,095 --> 00:34:51,495
+satisfying this proof's requirement.
+
+431
+00:34:53,100 --> 00:35:00,930
+Then these correct concerns turn, turn out
+to be a very effective, holistic guidance.
+
+432
+00:35:02,580 --> 00:35:06,750
+By definition, this approach is only
+applicable when we restrict ourselves
+
+433
+00:35:06,750 --> 00:35:11,070
+to intellectually manageable programs,
+but it provides us with effective
+
+434
+00:35:11,070 --> 00:35:14,600
+means for a satisfactory one among.
+
+435
+00:35:18,870 --> 00:35:23,279
+Argument four has to do with the way
+in which the amount of intellectual
+
+436
+00:35:23,285 --> 00:35:28,740
+effort needed to design a program
+depends on the program length.
+
+437
+00:35:30,600 --> 00:35:35,669
+It has been suggested that there is
+some law of nature telling us that the
+
+438
+00:35:35,669 --> 00:35:41,399
+amount of intellectual effort needed
+grows with a square of program length.
+
+439
+00:35:42,569 --> 00:35:48,120
+But thank goodness no one has been
+able to prove this law, and this
+
+440
+00:35:48,120 --> 00:35:49,589
+is because it mightn't be true.
+
+441
+00:35:50,430 --> 00:35:51,240
+It didn't be true.
+
+442
+00:35:53,279 --> 00:35:54,450
+We all know.
+
+443
+00:35:55,080 --> 00:36:00,120
+That the only mental tool by
+means of which a very finite piece
+
+444
+00:36:00,120 --> 00:36:06,050
+of reasoning can cover a myriad
+cases is called abstraction.
+
+445
+00:36:07,320 --> 00:36:13,350
+As a result, the effective exploitation
+of his powers of abstraction must
+
+446
+00:36:13,355 --> 00:36:19,380
+be regarded as one of the most vital
+activities of a competent programmer.
+
+447
+00:36:21,089 --> 00:36:25,440
+In this connection, it might be
+worthwhile to point out that the purpose
+
+448
+00:36:25,440 --> 00:36:32,279
+of abstracting is not to be vague,
+but to create a new semantic level in
+
+449
+00:36:32,279 --> 00:36:35,370
+which one can be absolutely precise.
+
+450
+00:36:37,275 --> 00:36:41,985
+Of course I have tried to find
+a fundamental cause that would
+
+451
+00:36:41,985 --> 00:36:46,065
+prevent our abstraction mechanisms
+from being sufficiently effective.
+
+452
+00:36:47,055 --> 00:36:50,455
+But no matter how hard I tried,
+I didn't find such a cause.
+
+453
+00:36:51,420 --> 00:36:57,120
+And as a result, I tend to the assumption
+up till now, not disprove by experience
+
+454
+00:36:57,750 --> 00:37:03,210
+that by suitable application of our
+powers of abstraction, the intellectual
+
+455
+00:37:03,210 --> 00:37:09,120
+effort needed to conceive or to
+understand the program need to grow more
+
+456
+00:37:09,120 --> 00:37:11,040
+than proportional to program length.
+
+457
+00:37:12,960 --> 00:37:17,460
+But a byproduct of these investigations
+may be of much greater practical
+
+458
+00:37:17,460 --> 00:37:21,780
+significance and is in fact the
+basis of my fourth argument.
+
+459
+00:37:22,770 --> 00:37:27,780
+The byproduct was the identification
+of a number of patterns of abstraction
+
+460
+00:37:27,780 --> 00:37:33,690
+that play a vital role in the whole
+process of composing programs.
+
+461
+00:37:34,560 --> 00:37:38,580
+Enough is now known about these
+patterns of abstraction that you could
+
+462
+00:37:38,580 --> 00:37:40,470
+devote a lecture to about each of.
+
+463
+00:37:42,090 --> 00:37:47,100
+What the familiarity and conscious
+knowledge of these patterns of abstraction
+
+464
+00:37:47,105 --> 00:37:54,120
+imply don't upon me when I realized
+that had they been common knowledge 15
+
+465
+00:37:54,120 --> 00:38:00,270
+years ago, the step from BNF to syntax
+directed compilers, for instance.
+
+466
+00:38:01,575 --> 00:38:04,995
+Could have taken a few minutes
+instead of a few years.
+
+467
+00:38:06,585 --> 00:38:10,735
+Therefore, I present a recent
+knowledge of vital abstraction
+
+468
+00:38:10,740 --> 00:38:13,245
+patterns as the fourth argument.
+
+469
+00:38:16,005 --> 00:38:19,515
+Now for the fifth argument, it
+has to do with the influence of
+
+470
+00:38:19,515 --> 00:38:23,475
+the tool we are trying to use
+upon our own thinking habits.
+
+471
+00:38:25,035 --> 00:38:27,135
+I observe a cultural tradit.
+
+472
+00:38:28,080 --> 00:38:34,920
+Which in all probability has its roots in
+the Renaissance to ignore this influence
+
+473
+00:38:35,640 --> 00:38:41,610
+to regard the human mind as the supreme
+and autonomous master of its artifacts.
+
+474
+00:38:43,410 --> 00:38:47,970
+But if I start to analyze the thinking
+habits of myself and of my fellow
+
+475
+00:38:47,970 --> 00:38:54,330
+human beings, I come whether I like
+it or not, to a completely different.
+
+476
+00:38:55,920 --> 00:39:02,839
+To WI that the tools we are trying to
+use and the language or notation we are
+
+477
+00:39:02,845 --> 00:39:09,960
+using to express or record our thoughts
+are the major factors determining what
+
+478
+00:39:09,960 --> 00:39:15,450
+we can think or express at resource.
+
+479
+00:39:16,109 --> 00:39:22,259
+They together give us a new collection
+of yardstick for comparing the relative
+
+480
+00:39:22,265 --> 00:39:25,020
+merits of various programming languages.
+
+481
+00:39:27,330 --> 00:39:30,990
+The competent programmer is
+fully aware of the strictly
+
+482
+00:39:30,990 --> 00:39:33,810
+limited size of his own skull.
+
+483
+00:39:35,190 --> 00:39:39,480
+Therefore, he approaches the
+programming task in full humility.
+
+484
+00:39:41,010 --> 00:39:47,250
+And among other things, he avoids
+clever tricks like the plague
+
+485
+00:39:49,980 --> 00:39:53,490
+in the case of a well known
+conversational programming language.
+
+486
+00:39:54,555 --> 00:39:59,355
+I have been told from various sides
+that as soon as a program and community
+
+487
+00:39:59,355 --> 00:40:04,245
+is equipped with the terminal for
+it, a specific phenomenon of girls
+
+488
+00:40:04,875 --> 00:40:10,035
+that even has a well-established
+name, it is called the one-liners.
+
+489
+00:40:14,565 --> 00:40:16,705
+It takes one of two different forms.
+
+490
+00:40:17,730 --> 00:40:21,570
+One program and places a one line
+program on the desk of another,
+
+491
+00:40:22,080 --> 00:40:26,640
+and either he proudly tells what it
+does and adds the question, can you
+
+492
+00:40:26,640 --> 00:40:31,590
+code this in less symbols as if this
+were of any conceptual relevance,
+
+493
+00:40:33,360 --> 00:40:36,570
+or he just asks, guess what it does
+
+494
+00:40:45,960 --> 00:40:50,640
+From this observation, we must conclude
+that this language as a tool is an
+
+495
+00:40:50,645 --> 00:40:53,280
+open invitation for clever tricks.
+
+496
+00:40:54,210 --> 00:40:59,100
+And while exactly, this may be the
+explanation for some of its appeal
+
+497
+00:40:59,880 --> 00:41:04,020
+to it with those who like to show
+how clever they are, I am sure,
+
+498
+00:41:04,260 --> 00:41:08,490
+but I must regard this as one of
+the most damning things that can be
+
+499
+00:41:08,490 --> 00:41:10,380
+said about a programming language.
+
+500
+00:41:12,630 --> 00:41:15,420
+Another lesson we should have learned
+from the recent past is that a
+
+501
+00:41:15,420 --> 00:41:20,580
+development of richer or more powerful
+programming languages was a mistake
+
+502
+00:41:21,090 --> 00:41:25,020
+in the sense that these baroque
+monstrosities, these conglomerations of
+
+503
+00:41:25,020 --> 00:41:32,400
+idiosyncrasies, are really unmanageable
+both mechanically and mentally.
+
+504
+00:41:33,930 --> 00:41:39,300
+I see a great future for a very
+systematic and very modest.
+
+505
+00:41:39,720 --> 00:41:41,310
+Programming languages.
+
+506
+00:41:42,690 --> 00:41:47,940
+When I say modest, I mean that, for
+instance, not only a six is four clauses,
+
+507
+00:41:47,940 --> 00:41:54,090
+but even for a trans do loop may find
+themselves thrown out as being too baro.
+
+508
+00:41:56,130 --> 00:41:59,610
+I have run a little programming
+experiment with really experienced
+
+509
+00:41:59,610 --> 00:42:04,650
+volunteers, but something quite
+unintended and quite unexpected.
+
+510
+00:42:04,650 --> 00:42:04,890
+Turn.
+
+511
+00:42:06,645 --> 00:42:11,055
+None of my volunteers found the
+obvious and most elegant solution.
+
+512
+00:42:12,525 --> 00:42:16,665
+Upon closer analysis, this turned
+out to have a common source.
+
+513
+00:42:17,505 --> 00:42:23,325
+Their notion of repetition was so
+tightly connected to the idea of an
+
+514
+00:42:23,325 --> 00:42:29,134
+associated controlled variable to be
+stepped up, that they were mentally
+
+515
+00:42:29,205 --> 00:42:32,085
+blocked from seeing the obvious.
+
+516
+00:42:33,810 --> 00:42:40,140
+Their solutions were less efficient,
+needlessly, harder to understand, and it
+
+517
+00:42:40,140 --> 00:42:43,620
+took them a very long time to find them.
+
+518
+00:42:45,540 --> 00:42:48,810
+It was a revealing, but also
+shocking experience for me.
+
+519
+00:42:50,700 --> 00:42:54,149
+Finally, in one respect, one
+hopes that tomorrow's programming
+
+520
+00:42:54,549 --> 00:42:57,910
+languages will differ greatly
+from what we are used to now.
+
+521
+00:42:59,235 --> 00:43:02,145
+To a much greater extent than hit two.
+
+522
+00:43:02,835 --> 00:43:08,265
+They should invite us to reflect in
+the structure of what we write down.
+
+523
+00:43:08,925 --> 00:43:15,975
+All abstractions needed to cope
+conceptually with the complexity of what
+
+524
+00:43:15,980 --> 00:43:20,895
+we are designing, training so much for
+the adequacy of our future tools, which
+
+525
+00:43:20,895 --> 00:43:23,085
+was the basis for my fifth argument.
+
+526
+00:43:26,835 --> 00:43:31,395
+As an aside, I would like to insert
+a warning to those who identified
+
+527
+00:43:31,395 --> 00:43:36,075
+the difficulty of program of the
+programming task with a struggle against
+
+528
+00:43:36,075 --> 00:43:40,995
+the inadequacies of our current tools
+because they might conclude that once
+
+529
+00:43:40,995 --> 00:43:45,195
+our tools will be much more adequate,
+programming will no longer be a.
+
+530
+00:43:46,680 --> 00:43:51,990
+Programming will remain very difficult
+because once we have freed ourselves
+
+531
+00:43:51,990 --> 00:43:58,620
+from the circumstantial cumbersomeness,
+we will find ourselves free to
+
+532
+00:43:58,680 --> 00:44:03,520
+tackle the problems that are now
+well beyond our programming capacity.
+
+533
+00:44:05,700 --> 00:44:09,780
+You can quarrel with my sixth argument
+where it's not so easy to collect
+
+534
+00:44:09,840 --> 00:44:11,610
+experimental evidence for its.
+
+535
+00:44:13,080 --> 00:44:18,960
+A fact that will not prevent me from
+believing in its validity up till now.
+
+536
+00:44:18,990 --> 00:44:24,870
+I haven't mentioned the word hierarchy,
+but I think that it is fair to say that
+
+537
+00:44:24,870 --> 00:44:31,649
+this is a key concept for all systems
+embodying a nicely factored solution.
+
+538
+00:44:32,985 --> 00:44:39,345
+I could even go one step further and make
+an article of faith out of it to wi that.
+
+539
+00:44:39,345 --> 00:44:45,255
+The only problems we can really solve
+in a satisfactory manner are those that
+
+540
+00:44:45,260 --> 00:44:48,615
+finally admit a nicely factored solution.
+
+541
+00:44:49,695 --> 00:44:53,865
+At first, I, this view of human
+limitations may strike you as a rather
+
+542
+00:44:53,865 --> 00:44:58,515
+depressing view of our predicament, but
+I don't feel it that way on the contr.
+
+543
+00:44:59,655 --> 00:45:04,695
+The best way to learn to live with
+our limitations is to know them by
+
+544
+00:45:04,695 --> 00:45:09,915
+the time that we are sufficiently
+modest to try factor solutions.
+
+545
+00:45:09,975 --> 00:45:14,445
+Only because other efforts
+escape our intellectual grip.
+
+546
+00:45:15,435 --> 00:45:22,815
+We shall do our utmost best to avoid all
+those interfaces impairing our ability
+
+547
+00:45:23,145 --> 00:45:25,635
+to factor the system in a helpful way.
+
+548
+00:45:27,299 --> 00:45:31,410
+And I cannot but expect that
+this will repeatedly lead to
+
+549
+00:45:31,410 --> 00:45:36,870
+the discovery that an initially
+untractable problem can be factored.
+
+550
+00:45:37,080 --> 00:45:43,680
+After all, anyone who has seen how
+the majority of the troubles of
+
+551
+00:45:43,680 --> 00:45:48,600
+the compiling phase called code
+generation can be tracked down to
+
+552
+00:45:48,600 --> 00:45:50,370
+funny properties of the order code.
+
+553
+00:45:51,120 --> 00:45:54,520
+We'll know a simple example of
+the kind of thing I have in.
+
+554
+00:45:56,700 --> 00:46:02,549
+The wider applicability of nicely
+factored solutions is my sick and
+
+555
+00:46:02,549 --> 00:46:07,770
+last argument for the technical
+feasibility of the revolution that
+
+556
+00:46:07,770 --> 00:46:10,560
+might take place in the current decade.
+
+557
+00:46:13,110 --> 00:46:18,240
+In principle, I leave it to you to
+decide for yourself how much weight you
+
+558
+00:46:18,240 --> 00:46:21,060
+are going to give to my considerations.
+
+559
+00:46:21,780 --> 00:46:26,760
+Knowing only too well that I can
+force no one else to share my
+
+560
+00:46:26,760 --> 00:46:34,820
+beliefs as each serious revolution,
+it will provoke violent oppos.
+
+561
+00:46:35,940 --> 00:46:42,150
+And one can ask oneself where to
+expect the conservative forces trying
+
+562
+00:46:42,210 --> 00:46:44,880
+to counteract such a development.
+
+563
+00:46:46,260 --> 00:46:51,750
+I don't expect them primarily
+in big business, not even
+
+564
+00:46:51,750 --> 00:46:53,190
+in the computer business.
+
+565
+00:46:54,870 --> 00:47:00,210
+I expect them rather in the educational
+institutions that provide today's.
+
+566
+00:47:02,460 --> 00:47:07,410
+And in those conservative groups
+of computer users that think their
+
+567
+00:47:07,410 --> 00:47:11,610
+old programs so important that
+they don't think it worthwhile
+
+568
+00:47:11,640 --> 00:47:13,020
+to rewrite and improve them.
+
+569
+00:47:15,960 --> 00:47:17,860
+In this connection, it is said to observe.
+
+570
+00:47:18,855 --> 00:47:23,024
+That on many university campus,
+the choice of the central computing
+
+571
+00:47:23,024 --> 00:47:29,115
+facility has too often been determined
+by the demands of a few established
+
+572
+00:47:29,504 --> 00:47:31,634
+but expensive applications.
+
+573
+00:47:32,475 --> 00:47:38,915
+We have disregarded the question, how
+many thousands of small users that are
+
+574
+00:47:38,920 --> 00:47:43,555
+willing to write their own programs,
+were going to suffer from this choice.
+
+575
+00:47:46,470 --> 00:47:50,190
+Too often, for instance, high energy
+physics seem to have blackmailed the
+
+576
+00:47:50,190 --> 00:47:54,720
+scientific community with a price of
+its remaining experimental equipment.
+
+577
+00:47:57,150 --> 00:48:04,320
+The easiest answer, of course,
+is a flat denial of the technical
+
+578
+00:48:04,320 --> 00:48:10,020
+feasibility, but I'm afraid that you
+need pretty strong arguments for that.
+
+579
+00:48:11,819 --> 00:48:16,910
+No reassurance allows can be
+obtained from the remark that the
+
+580
+00:48:16,915 --> 00:48:21,660
+intellectual ceiling of today's
+average programmer will prevent the
+
+581
+00:48:21,660 --> 00:48:29,490
+revolution from taking place with others
+programming so much more effectively.
+
+582
+00:48:30,330 --> 00:48:33,480
+He is liable to be edged
+out of the picture anyway.
+
+583
+00:48:36,569 --> 00:48:39,000
+Let may also be political impediments.
+
+584
+00:48:40,785 --> 00:48:45,555
+Even if we know how to educate
+tomorrow's professional programmer,
+
+585
+00:48:46,154 --> 00:48:51,015
+it is not certain that the society we
+are living in will allow us to do so.
+
+586
+00:48:52,365 --> 00:48:55,634
+The first effect of
+teaching a methodology.
+
+587
+00:48:56,490 --> 00:49:01,830
+Rather than disseminating knowledge
+is that of enhancing the capacities of
+
+588
+00:49:01,830 --> 00:49:08,550
+the already capable, thus magnifying
+the difference in intelligence in
+
+589
+00:49:08,750 --> 00:49:15,800
+intellect in a society in which the
+educational system is used as an
+
+590
+00:49:15,805 --> 00:49:20,910
+instrument for the establishment of
+a homogenized culture in which the
+
+591
+00:49:20,910 --> 00:49:23,360
+cream is prevented from rising to the.
+
+592
+00:49:24,870 --> 00:49:29,609
+The education of competent programmers
+could be politically, IM palatable.
+
+593
+00:49:33,720 --> 00:49:34,620
+Let me conclude.
+
+594
+00:49:36,900 --> 00:49:41,640
+Automatic computers have now been
+with us for a quarter of a century.
+
+595
+00:49:42,960 --> 00:49:48,330
+They have had a great impact on our
+society in their capacity of tools,
+
+596
+00:49:49,830 --> 00:49:54,945
+but in that capacity, Their influence
+will be better ripple on the surface
+
+597
+00:49:54,945 --> 00:50:00,045
+of our culture compared with a much
+more profound influence they will have
+
+598
+00:50:00,045 --> 00:50:05,865
+in their capacity of an intellectual
+challenge without precedent in
+
+599
+00:50:05,870 --> 00:50:08,055
+the cultural history of mankind.
+
+600
+00:50:09,960 --> 00:50:14,879
+Hierarchical systems seem to have the
+property that something considered as
+
+601
+00:50:14,879 --> 00:50:20,310
+an undivided entity on one level is
+considered as a composite object on
+
+602
+00:50:20,310 --> 00:50:22,890
+the next lower level of greater detail.
+
+603
+00:50:23,879 --> 00:50:30,089
+As a result, the natural grain of
+space or time that is applicable at
+
+604
+00:50:30,089 --> 00:50:35,400
+each level decreases by an order of
+magnitude when we shift our attention
+
+605
+00:50:35,609 --> 00:50:38,040
+from one level to the next lower.
+
+606
+00:50:39,375 --> 00:50:41,654
+We understand walls in terms of bricks.
+
+607
+00:50:41,685 --> 00:50:45,884
+Bricks, in terms of crystals, crystals
+in terms of molecules, et cetera.
+
+608
+00:50:47,325 --> 00:50:52,305
+As a result, the number of levels
+that can be distinguished meaningfully
+
+609
+00:50:52,605 --> 00:50:58,305
+in a hierarchical system is kind of
+proportional to the algorithm of the ratio
+
+610
+00:50:58,634 --> 00:51:00,975
+between the largest and the smallest.
+
+611
+00:51:02,250 --> 00:51:09,150
+And therefore, unless this ratio is
+very large, we cannot expect many
+
+612
+00:51:09,150 --> 00:51:12,600
+levels in computer programming.
+
+613
+00:51:12,990 --> 00:51:20,250
+Our basic building block has an associated
+timeframe of less than a microsecond, but
+
+614
+00:51:20,255 --> 00:51:22,990
+our program may take hours of computation.
+
+615
+00:51:24,555 --> 00:51:30,255
+I do not know of any other
+technology covering a ratio
+
+616
+00:51:30,255 --> 00:51:33,195
+of 10 to the power 10 or more.
+
+617
+00:51:34,185 --> 00:51:39,945
+The computer, by virtue of its fantastic
+speed, seems to be the first to
+
+618
+00:51:39,945 --> 00:51:44,935
+provide us with an environment where
+highly high hierarchical artifacts
+
+619
+00:51:45,395 --> 00:51:49,055
+are both possible and necessary.
+
+620
+00:51:50,565 --> 00:51:51,455
+This challenge.
+
+621
+00:51:52,665 --> 00:51:57,165
+The confrontation with the
+programming task is so unique
+
+622
+00:51:57,675 --> 00:52:03,645
+that this novel experience can
+teach us a lot about ourselves.
+
+623
+00:52:04,905 --> 00:52:09,705
+It should deepen our understanding of
+the processes of design and creation.
+
+624
+00:52:10,725 --> 00:52:17,055
+It should give us better control over
+the task of organizing our thoughts.
+
+625
+00:52:18,195 --> 00:52:19,215
+If he didn't do.
+
+626
+00:52:21,090 --> 00:52:24,720
+To my taste, we shouldn't
+deserve the computer at all.
+
+627
+00:52:27,450 --> 00:52:31,860
+It has already taught us a few
+lessons, and what I've chosen to
+
+628
+00:52:31,865 --> 00:52:33,780
+stress in this talk is the following.
+
+629
+00:52:34,650 --> 00:52:40,080
+We shall do a much better programming job
+provided that we approach the task with
+
+630
+00:52:40,270 --> 00:52:45,600
+a full appreciation of its tremendous
+difficulty provided that we stick to
+
+631
+00:52:45,600 --> 00:52:48,900
+modest and elegant programming languages.
+
+632
+00:52:49,845 --> 00:52:56,385
+Provided that we restrict the intrinsic
+limitations of the human mind and approach
+
+633
+00:52:56,385 --> 00:53:02,565
+the task as very humble programmers.
+
+634
+00:53:03,405 --> 00:53:03,755
+Uh,
+

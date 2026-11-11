@@ -1,0 +1,5491 @@
+1
+00:00:00,470 --> 00:00:10,080
+It all started in 1951, when my father
+enabled me to go to a programming
+
+2
+00:00:10,130 --> 00:00:13,069
+course in Cambridge, England.
+
+3
+00:00:13,999 --> 00:00:17,911
+It was a frightening experience: it
+was the first time that I left the
+
+4
+00:00:17,911 --> 00:00:23,160
+Netherlands, the first time I ever had
+to understand people speaking English and
+
+5
+00:00:23,160 --> 00:00:35,500
+immediately I was all by myself, trying
+to follow a course on a totally new topic.
+
+6
+00:00:35,500 --> 00:00:35,619
+But I liked it very much.
+
+7
+00:00:35,619 --> 00:00:40,690
+The Netherlands was such a small country
+that Aad van Wijngaarden, who was the
+
+8
+00:00:40,690 --> 00:00:50,750
+director of the Computation Department of
+the Mathematical Centre in Amsterdam, knew
+
+9
+00:00:50,750 --> 00:01:01,630
+of this, and he offered me a job, which
+I could only accept in March of 1952.
+
+10
+00:01:01,630 --> 00:01:06,188
+And on a part-time basis, I became the
+programmer of the Mathematical Centre.
+
+11
+00:01:06,188 --> 00:01:10,770
+They didn’t have computers yet;
+they were trying to build them.
+
+12
+00:01:16,610 --> 00:01:28,020
+I programmed until 1962 and the first
+eight years of my programming there
+
+13
+00:01:28,020 --> 00:01:32,720
+I developed the basic software for a
+series of successive machines being
+
+14
+00:01:32,730 --> 00:01:33,980
+built at the Mathematical Centre.
+
+15
+00:01:33,980 --> 00:01:34,014
+And in those beginning years I was
+a very conservative programmer.
+
+16
+00:01:34,014 --> 00:01:34,020
+The way in which programs were written
+down, the form of the instruction code on
+
+17
+00:01:34,020 --> 00:01:34,026
+paper and the library organization, input,
+output, etc., it was very much modeled
+
+18
+00:01:34,026 --> 00:02:18,140
+after what I had seen in ’51 in Cambridge,
+but it’s all worked satisfactorily.
+
+19
+00:02:18,140 --> 00:02:23,700
+It is my understanding that when you got
+married, you could not enter the term
+
+20
+00:02:23,700 --> 00:02:27,839
+“programmer” into your marriage record?
+
+21
+00:02:27,839 --> 00:02:27,999
+That’s true.
+
+22
+00:02:28,070 --> 00:02:28,870
+Yes.
+
+23
+00:02:29,330 --> 00:02:31,880
+When could that be recognized as a title?
+
+24
+00:02:35,940 --> 00:02:38,440
+I think in the early sixties.
+
+25
+00:02:38,450 --> 00:02:43,770
+I mean it’s a well-known and true story.
+
+26
+00:02:47,100 --> 00:02:50,940
+I was supposed to study theoretical
+physics, I did so and that was the
+
+27
+00:02:50,940 --> 00:02:57,949
+reason for going to Cambridge, because
+I was being groomed to become an
+
+28
+00:02:57,960 --> 00:02:59,750
+excellent theoretical physicist.
+
+29
+00:03:01,200 --> 00:03:06,740
+The idea was that if besides all the
+usual tools I could also use computers, I
+
+30
+00:03:06,790 --> 00:03:13,219
+could perhaps become a better theoretical
+physicist, be more than average.
+
+31
+00:03:15,039 --> 00:03:22,540
+However, in ’55 after three years of
+programming, while I was still a student,
+
+32
+00:03:29,300 --> 00:03:35,469
+I concluded that the intellectual
+challenge of programming was greater
+
+33
+00:03:35,520 --> 00:03:41,380
+than the intellectual challenge of
+theoretical physics, and as a result
+
+34
+00:03:41,480 --> 00:03:53,910
+I chose programming, the reason being
+that programming was so unforgiving.
+
+35
+00:03:55,630 --> 00:04:02,270
+If something went wrong, I mean a
+zero is a zero and a one is a one.
+
+36
+00:04:04,220 --> 00:04:06,510
+I had never used someone else’s software.
+
+37
+00:04:06,520 --> 00:04:12,370
+I used machines that I had myself
+been involved in the design of,
+
+38
+00:04:13,090 --> 00:04:18,340
+I had documented the instruction
+code and I had written my own basic
+
+39
+00:04:18,340 --> 00:04:22,629
+software and all the programs and if
+something went wrong I had done it.
+
+40
+00:04:23,339 --> 00:04:28,910
+And it was that unforgiving-ness
+that challenged me, because I
+
+41
+00:04:28,910 --> 00:04:42,370
+also began to realize that though
+in principle it’s very simple.
+
+42
+00:04:43,560 --> 00:04:46,710
+A zero is a zero and a one is a one, and
+you should have complete intellectual
+
+43
+00:04:46,779 --> 00:04:58,155
+control of what you are doing, in some
+strange and not understood way, programs
+
+44
+00:04:59,090 --> 00:05:02,590
+could become very complicated, tricky.
+
+45
+00:05:05,289 --> 00:05:12,870
+So it was in ’55 when I decided
+not to become a physicist, to
+
+46
+00:05:12,870 --> 00:05:12,885
+become a programmer instead.
+
+47
+00:05:12,890 --> 00:05:19,909
+It was a difficult decision because,
+as I said, I was groomed to become
+
+48
+00:05:19,920 --> 00:05:26,169
+a first-class scientist, and at the
+time programming didn’t look like
+
+49
+00:05:26,169 --> 00:05:38,940
+doing science, it was just a mixture
+of being ingenious and being accurate.
+
+50
+00:05:40,669 --> 00:05:49,760
+I remember that I envied my hardware
+friends, because if you asked them what
+
+51
+00:05:49,760 --> 00:05:55,480
+their professional competence consisted
+of, they could point out that they knew
+
+52
+00:05:56,100 --> 00:06:02,676
+everything about triodes, pentodes,
+the valves and other electronic gear.
+
+53
+00:06:02,690 --> 00:06:04,150
+And there was nothing I could point to!
+
+54
+00:06:06,520 --> 00:06:09,614
+Actually, well, I had made a number of
+programs and I had a very good handwriting
+
+55
+00:06:09,614 --> 00:06:18,420
+So, how did you go about making
+computing science respectable then?
+
+56
+00:06:18,630 --> 00:06:24,490
+Well, that happened later.
+
+57
+00:06:28,929 --> 00:06:33,080
+I spoke with van Wijngaarden in
+’55, and explained my dilemma
+
+58
+00:06:33,330 --> 00:06:39,490
+that I had to take leave from
+science if I became a programmer.
+
+59
+00:06:40,440 --> 00:06:47,190
+And he said, well, first of all
+he pointed out that computers were
+
+60
+00:06:47,190 --> 00:06:52,600
+here to stay, that it was not a fad.
+
+61
+00:06:52,630 --> 00:06:58,534
+And then he said he agreed that there
+was no such thing as a clear scientific
+
+62
+00:06:58,534 --> 00:06:58,551
+component in computer programming, but
+that I might very well be one of the
+
+63
+00:06:58,551 --> 00:06:58,559
+people called to make it a science.
+
+64
+00:06:58,559 --> 00:06:58,579
+And at the time, I was the kind
+of guy to whom you could say such
+
+65
+00:06:58,579 --> 00:06:58,586
+things and would even accept them.
+
+66
+00:06:58,586 --> 00:06:58,598
+As I said, I was trained
+to become a scientist.
+
+67
+00:06:58,598 --> 00:06:58,613
+When I came in 1952, they were
+working on the ARRA, but they
+
+68
+00:06:58,613 --> 00:06:58,627
+could not get it reliable, and an
+updated version, using selenium
+
+69
+00:06:58,627 --> 00:06:58,634
+diodes instead of relais, was built.
+
+70
+00:06:58,634 --> 00:06:58,655
+And then the Mathematical Centre built
+a machine for Fokker Aircraft Industry,
+
+71
+00:06:58,655 --> 00:06:59,422
+because before that we had done on the
+ARRA lots of calculations for the F27.
+
+72
+00:06:59,422 --> 00:06:59,722
+So the FERTA, an updated version of the
+ARRA, was built and installed at Schiphol.
+
+73
+00:06:59,722 --> 00:06:59,747
+The installation I did together with
+the young Gerard Blaauw who later
+
+74
+00:06:59,747 --> 00:06:59,774
+became one of the designers of the
+IBM 360, with Amdahl and Brooks.
+
+75
+00:06:59,774 --> 00:06:59,801
+One funny story about the F27, which
+Fairchild later built under the name
+
+76
+00:06:59,801 --> 00:06:59,828
+“Friendship.” On my first visit to
+Australia, I flew a big 747 from
+
+77
+00:06:59,828 --> 00:06:59,859
+Amsterdam to Los Angeles, then I changed
+planes and I got on another 747, from
+
+78
+00:06:59,859 --> 00:06:59,888
+America I flew to Sydney or Melbourne,
+I don’t remember which of the two.
+
+79
+00:06:59,888 --> 00:06:59,920
+And then it was the final part of
+the journey on an F27 to Canberra,
+
+80
+00:06:59,920 --> 00:06:59,940
+because I had been invited by
+the Australians to Canberra.
+
+81
+00:06:59,940 --> 00:06:59,980
+And we arrived and I left the plane and I
+met my host, whom I had never met before,
+
+82
+00:06:59,980 --> 00:06:59,990
+but we had corresponded extensively.
+
+83
+00:06:59,990 --> 00:07:00,017
+And he was very apologetic that
+this world traveler had to do the
+
+84
+00:07:00,017 --> 00:07:00,040
+last leg of the journey on such
+a shaky two-engine turboprop.
+
+85
+00:07:00,040 --> 00:07:00,071
+And it gave me the dear opportunity for
+a one-upmanship that I never got again.
+
+86
+00:07:00,071 --> 00:07:00,465
+I could honestly say, “Dr.
+
+87
+00:07:00,465 --> 00:07:00,872
+Stanton, I felt quite safe:
+I calculated the resonance
+
+88
+00:07:00,872 --> 00:07:01,098
+frequencies of the wings myself.”
+
+89
+00:07:01,098 --> 00:07:01,698
+Now was this the same journey that
+you continued around the globe?
+
+90
+00:07:01,698 --> 00:07:01,916
+You stopped in India?
+
+91
+00:07:01,916 --> 00:07:03,029
+No, no, this was a different
+trip, that was the trip to Japan.
+
+92
+00:07:03,290 --> 00:07:07,913
+Okay, in ’54 the completion of the
+ARRA, in ’55/’56 I become a programmer.
+
+93
+00:07:07,913 --> 00:07:07,926
+Then, in 1956, all sorts
+of things happened.
+
+94
+00:07:07,926 --> 00:08:02,053
+I got my degree as a
+theoretical physicist.
+
+95
+00:08:22,650 --> 00:11:32,419
+As soon as I had decided to become a
+programmer I finished my studies as
+
+96
+00:11:32,420 --> 00:11:38,246
+quickly as possible, since I no longer
+felt welcome at the University: the
+
+97
+00:11:38,410 --> 00:11:42,819
+physicists would considered me as
+a deserter, and the mathematicians,
+
+98
+00:11:42,970 --> 00:11:51,860
+they were dismissive and somewhat
+contemptuous about computing anyhow.
+
+99
+00:11:53,420 --> 00:11:54,910
+It was all finite, wasn’t it?
+
+100
+00:11:57,050 --> 00:11:59,524
+In the mathematical culture of those
+days in the Netherlands you had
+
+101
+00:11:59,524 --> 00:12:01,393
+to deal with infinity to make your
+topic scientifically respectable.
+
+102
+00:12:01,580 --> 00:12:01,991
+In 1956 I did two important things,
+I got my degree and we had the
+
+103
+00:12:01,991 --> 00:12:01,997
+festive opening of the ARMAC.
+
+104
+00:12:01,997 --> 00:12:02,194
+We had to have a demonstration.
+
+105
+00:12:02,194 --> 00:12:44,879
+Now the ARRA, a few years earlier, had
+been so unreliable, that the only safe
+
+106
+00:12:44,880 --> 00:12:55,439
+demonstration we dared to give was the
+generation of random numbers, but for the
+
+107
+00:12:55,439 --> 00:13:04,170
+more reliable ARMAC I could
+try something more ambitious.
+
+108
+00:13:04,250 --> 00:13:09,360
+The problem of course is that for a
+demonstration for non-computing people
+
+109
+00:13:11,570 --> 00:13:21,300
+you have to have a problem statement
+that non-mathematicians can understand,
+
+110
+00:13:21,300 --> 00:13:23,219
+even they have to understand the answer.
+
+111
+00:13:25,080 --> 00:13:35,910
+So I designed a program that would
+find the shortest route between two
+
+112
+00:13:35,910 --> 00:13:36,385
+cities in the Netherlands, using
+a somewhat reduced roadmap of the
+
+113
+00:13:36,385 --> 00:13:56,449
+Netherlands, on which I had selected,
+64 cities [so that in the coding, 6
+
+114
+00:13:56,479 --> 00:13:59,199
+bits would suffice to identify a city].
+
+115
+00:13:59,239 --> 00:14:01,659
+Somewhat similar to the
+seven-bridges problem?
+
+116
+00:14:02,639 --> 00:14:06,469
+No, it’s just the shortest route.
+
+117
+00:14:08,530 --> 00:14:11,247
+What’s the shortest way to travel from
+Rotterdam to Groningen, in general:
+
+118
+00:14:11,247 --> 00:14:11,260
+from given city to given city.
+
+119
+00:14:11,260 --> 00:14:35,280
+It is the algorithm for the shortest path,
+which I designed in about twenty minutes.
+
+120
+00:14:35,300 --> 00:14:46,345
+One morning I was shopping in
+Amsterdam with my young fiancée,
+
+121
+00:14:46,570 --> 00:14:54,828
+and tired, we sat down on the café
+terrace to drink a cup of coffee and
+
+122
+00:14:54,828 --> 00:14:56,461
+I was just thinking about whether I
+could do this, and I then designed
+
+123
+00:14:56,461 --> 00:14:57,171
+the algorithm for the shortest path.
+
+124
+00:14:57,290 --> 00:15:15,230
+As I said, it was a
+twenty-minute invention.
+
+125
+00:15:15,550 --> 00:15:19,709
+In fact, it was published
+in ’59, three years late.
+
+126
+00:15:21,750 --> 00:15:25,770
+The publication is still readable,
+it is, in fact, quite nice.
+
+127
+00:15:25,780 --> 00:15:32,510
+One of the reasons that it is
+so nice was that I designed
+
+128
+00:15:32,570 --> 00:15:33,195
+it without pencil and paper.
+
+129
+00:15:33,195 --> 00:15:33,287
+I learned later that one of the
+advantages of designing without pencil
+
+130
+00:15:33,287 --> 00:15:34,290
+and paper is that you are almost forced
+to avoid all avoidable complexities.
+
+131
+00:15:34,290 --> 00:15:34,353
+Eventually that algorithm became,
+to my great amazement, one of
+
+132
+00:15:34,353 --> 00:15:34,384
+the cornerstones of my fame.
+
+133
+00:15:34,384 --> 00:16:02,149
+I found it in the early ’60’s in a German
+book on management science - - “Das
+
+134
+00:16:04,409 --> 00:16:07,340
+Dijkstra’sche Verfahren.” Suddenly,
+there was a method named after me.
+
+135
+00:16:07,360 --> 00:16:24,289
+It’s of economic value.
+
+136
+00:16:24,870 --> 00:16:25,500
+Yes.
+
+137
+00:16:27,210 --> 00:16:36,860
+And it jumped again recently because it is
+extensively used in all travel planners.
+
+138
+00:16:37,860 --> 00:16:44,099
+If, these days, you want to go from here
+to there and you have a car with a GPS
+
+139
+00:16:45,259 --> 00:16:54,069
+and a screen, it can give you the shortest
+way from your hotel to Robbie Creek Cove.
+
+140
+00:16:54,600 --> 00:16:54,880
+Yes?
+
+141
+00:16:55,140 --> 00:16:59,209
+I did generate a map, yes, on line.
+
+142
+00:16:59,270 --> 00:17:01,216
+Did you use it?
+
+143
+00:17:01,216 --> 00:17:01,890
+Yes, I did use it.
+
+144
+00:17:02,319 --> 00:17:02,652
+Then you used my algorithm this morning.
+
+145
+00:17:02,710 --> 00:17:16,319
+When was that originally published?
+
+146
+00:17:17,429 --> 00:17:19,990
+It was originally published
+in 1959 in a German article in
+
+147
+00:17:19,990 --> 00:17:28,139
+Numerische Mathematik . 1 F.L.
+
+148
+00:17:28,209 --> 00:17:36,120
+Bauer had founded that journal and
+he was soliciting for articles.
+
+149
+00:17:37,969 --> 00:17:45,980
+Now, at the time, something like an
+algorithm for the shortest path, that was
+
+150
+00:17:45,980 --> 00:17:51,900
+hardly considered mathematics: there was
+a finite number of ways of going from A
+
+151
+00:17:51,950 --> 00:18:00,107
+to B and obviously there is a shortest
+one, so what’s all the fuss about?
+
+152
+00:18:00,107 --> 00:18:08,926
+So that is why it remained unpublished,
+but when Bauer asked whether we could
+
+153
+00:18:08,926 --> 00:18:15,220
+contribute something, I said, yes, I
+could, because in the mean time I had also
+
+154
+00:18:15,220 --> 00:18:21,850
+designed the shortest subspanning tree.
+
+155
+00:18:23,190 --> 00:18:25,090
+I had done that for my hardware friends.
+
+156
+00:18:25,590 --> 00:18:28,740
+You know, on the big panel you have
+to connect a whole lot of points
+
+157
+00:18:28,750 --> 00:18:32,070
+with the same copper wire because
+they have to have the same voltage.
+
+158
+00:18:32,309 --> 00:18:40,357
+How do you minimize the amount of
+copper wire that connects these points?
+
+159
+00:18:40,990 --> 00:18:44,789
+So I wrote an article “A note on
+two problems in connection with
+
+160
+00:18:46,709 --> 00:18:47,290
+graphs” or something like that.
+
+161
+00:18:53,990 --> 00:19:04,300
+But now, when I went to my ophthalmologist
+- - and to the best of my knowledge he did not
+
+162
+00:19:04,300 --> 00:19:12,580
+even know that I was a computing scientist
+- - he said, ‘Have you designed the algorithm
+
+163
+00:19:12,620 --> 00:19:17,582
+for GPS?” It turned out he had seen the
+Scientific American 2 of last November.
+
+164
+00:19:18,610 --> 00:19:19,120
+You asked a question.
+
+165
+00:19:19,150 --> 00:19:21,480
+What did you do with your fame then?
+
+166
+00:19:22,300 --> 00:19:23,959
+What did I do with my fame?
+
+167
+00:19:24,520 --> 00:19:31,280
+I was amazed by it!
+
+168
+00:19:32,020 --> 00:19:36,590
+Okay that was ’56.
+
+169
+00:19:40,669 --> 00:19:45,670
+’57 was the year of my marriage,
+which I had to do as a professional
+
+170
+00:19:45,670 --> 00:19:48,929
+theoretical physicist, crazy story.
+
+171
+00:19:52,590 --> 00:19:59,139
+Besides that I was confronted
+with the real-time interrupt,
+
+172
+00:19:59,230 --> 00:20:03,300
+and I panicked almost.
+
+173
+00:20:04,910 --> 00:20:12,290
+Because, you see, for those first
+five years I had always been
+
+174
+00:20:12,330 --> 00:20:16,699
+programming for non-existing
+machines, not yet existing machines.
+
+175
+00:20:16,770 --> 00:20:24,209
+I would discuss, we would design
+the instruction code, I would check
+
+176
+00:20:24,219 --> 00:20:27,620
+whether this was an instruction code
+I could live with, and my hardware
+
+177
+00:20:27,620 --> 00:20:31,900
+friend would check that this was an
+instruction code that they could build.
+
+178
+00:20:34,350 --> 00:20:39,070
+And then I would write down the
+formal specification of the machine,
+
+179
+00:20:39,080 --> 00:20:46,510
+and all three of us would sign
+it with our blood, so to speak.
+
+180
+00:20:47,760 --> 00:20:52,599
+And then our ways parted and they
+would start, they knew what to build
+
+181
+00:20:53,000 --> 00:20:55,280
+and I knew what I could construct.
+
+182
+00:20:56,589 --> 00:21:00,429
+But all the programming
+I did was on paper.
+
+183
+00:21:03,450 --> 00:21:12,739
+So I was quite used to the fact of
+developing programs without testing them.
+
+184
+00:21:16,110 --> 00:21:17,460
+There’s no way to test them?
+
+185
+00:21:17,460 --> 00:21:21,180
+There was not a way to test them, so
+you’ve got to convince yourself of their
+
+186
+00:21:21,180 --> 00:21:25,080
+correctness by reasoning about them.
+
+187
+00:21:26,340 --> 00:21:36,429
+Now, of course, there could be writing
+errors, I never claimed infallibility.
+
+188
+00:21:38,249 --> 00:21:42,738
+You have to leave that to experts
+in that field like the Pope.
+
+189
+00:21:42,738 --> 00:22:00,039
+But a simple writing error did not matter
+as long as the machine wasn’t there yet,
+
+190
+00:22:00,039 --> 00:22:04,460
+and as soon as errors would show up on the
+machine, they would be simple to correct.
+
+191
+00:22:05,670 --> 00:22:09,759
+However, in ’57, I was confronted
+with the idea of the real-time
+
+192
+00:22:10,000 --> 00:22:17,620
+interrupt and that created a vision
+of a program with non-reproducible
+
+193
+00:22:18,230 --> 00:22:22,709
+errors, because a real-time interrupt
+occurs at an unpredictable moment.
+
+194
+00:22:32,030 --> 00:22:43,990
+My hardware friends flattered
+me out of my resistance.
+
+195
+00:22:45,429 --> 00:22:45,730
+They said, “Yes, yes, we see your
+problem, but surely you must be up
+
+196
+00:22:45,730 --> 00:22:54,090
+to it…” I learned to cope with it.
+
+197
+00:22:57,510 --> 00:23:03,449
+I wrote a real-time interrupt handler
+which was flawless and which became
+
+198
+00:23:03,450 --> 00:23:03,550
+the
+
+199
+00:23:03,550 --> 00:23:04,936
+topic of my Ph.D.
+
+200
+00:23:04,936 --> 00:23:05,283
+thesis.
+
+201
+00:23:05,629 --> 00:23:18,610
+3 Later I would learn that
+over here, this would almost be
+
+202
+00:23:18,610 --> 00:23:19,980
+considered an un-American activity.
+
+203
+00:23:24,260 --> 00:23:25,140
+Why is that?
+
+204
+00:23:28,180 --> 00:23:30,550
+Well, the American reaction
+was very, very different.
+
+205
+00:23:34,660 --> 00:23:50,450
+When IBM had to develop the software for
+the 360, they built one or two machines
+
+206
+00:23:50,450 --> 00:23:54,900
+especially equipped with a monitor.
+
+207
+00:23:56,920 --> 00:24:05,760
+That is an extra piece of machinery that
+would exactly record when interrupts
+
+208
+00:24:06,250 --> 00:24:13,940
+took place and from where to where.
+
+209
+00:24:13,940 --> 00:24:19,739
+And if something went wrong, it
+could replay it again and use
+
+210
+00:24:19,739 --> 00:24:30,220
+the recorded history to control
+when interrupts would occur.
+
+211
+00:24:30,220 --> 00:24:37,519
+So they made it reproducible, yes,
+but at the expense of much more
+
+212
+00:24:37,519 --> 00:24:40,390
+hardware than we could afford.
+
+213
+00:24:45,360 --> 00:24:45,459
+Needless
+
+214
+00:24:45,460 --> 00:24:45,540
+to
+
+215
+00:24:47,120 --> 00:24:49,969
+say, they never got the OS/360 right.
+
+216
+00:24:50,879 --> 00:24:51,310
+That’s true.
+
+217
+00:24:51,310 --> 00:24:53,000
+That’s very true.
+
+218
+00:24:54,230 --> 00:24:54,890
+Because
+
+219
+00:24:58,980 --> 00:25:01,330
+…
+ Now that would have never
+occurred to a European?
+
+220
+00:25:02,309 --> 00:25:03,490
+No, we were too poor.
+
+221
+00:25:04,530 --> 00:25:06,070
+To consider it?
+
+222
+00:25:06,070 --> 00:25:33,000
+We were too poor to consider it and
+we also decided that we should try to
+
+223
+00:25:33,000 --> 00:25:39,080
+structure our designs in such a way
+that we could keep things under our
+
+224
+00:25:39,090 --> 00:25:46,240
+intellectual control and that there was
+no need to search experimentally for bugs.
+
+225
+00:25:47,150 --> 00:26:06,499
+This was a major difference between
+European and American attitudes about
+
+226
+00:26:06,499 --> 00:26:09,139
+programming to which I will return later.
+
+227
+00:26:13,930 --> 00:26:19,210
+Okay, in 1958, I wrote the basic
+software and I wrote my thesis about it.
+
+228
+00:26:20,290 --> 00:26:28,700
+I only had the oral defense a year later
+because I wrote my thesis in Dutch.
+
+229
+00:26:28,950 --> 00:26:31,300
+Those were the days when I could not write
+fluently in English, and it was translated
+
+230
+00:26:31,350 --> 00:26:38,070
+with the aid of a South African colleague.
+
+231
+00:26:38,160 --> 00:26:48,720
+In 1959, I published those two
+algorithms, shortest path and
+
+232
+00:26:48,720 --> 00:26:48,903
+the shortest subspanning tree.
+
+233
+00:26:48,910 --> 00:26:54,030
+I had my oral defense and became Dr.
+
+234
+00:26:54,030 --> 00:26:54,250
+Dijkstra.
+
+235
+00:26:56,250 --> 00:27:07,389
+And there was one illuminating
+experience at the Mathematical Centre.
+
+236
+00:27:11,429 --> 00:27:20,760
+I had challenged my colleagues with
+the following programming task.
+
+237
+00:27:22,830 --> 00:27:32,070
+Consider two cyclic programs, and
+in each cycle occurs a section
+
+238
+00:27:32,230 --> 00:27:33,689
+called the critical section.
+
+239
+00:27:36,100 --> 00:27:41,700
+The two programs can
+communicate by single reads and
+
+240
+00:27:41,800 --> 00:27:42,200
+single
+
+241
+00:27:42,290 --> 00:27:57,510
+writes in a common store, and
+about the relative speeds of
+
+242
+00:27:58,070 --> 00:27:59,570
+the programs nothing is known.
+
+243
+00:28:02,860 --> 00:28:06,590
+Try to synchronize these programs
+in such a way that at any moment
+
+244
+00:28:06,610 --> 00:28:14,250
+in time at most one of them is
+engaged in its critical section.
+
+245
+00:28:15,990 --> 00:28:22,511
+It’s an implementation of the mutual
+exclusion problem which later became
+
+246
+00:28:22,511 --> 00:28:34,820
+a cornerstone of THE Multiprogramming
+System - - underlying the monitor
+
+247
+00:28:35,099 --> 00:28:42,340
+concept and a whole lot of things.
+
+248
+00:28:42,340 --> 00:28:44,800
+I looked at it and realized that
+it was not trivial at all, there
+
+249
+00:28:44,800 --> 00:28:46,450
+were all sorts of side conditions.
+
+250
+00:28:46,469 --> 00:28:50,900
+For instance, if
+
+251
+00:28:50,900 --> 00:28:56,859
+one of the programs would stay for
+a very long time in its non-critical
+
+252
+00:28:57,099 --> 00:29:03,290
+section, the other one should be
+able to go on unhampered, so going
+
+253
+00:29:03,290 --> 00:29:06,040
+critical alternatingly was not allowed.
+
+254
+00:29:07,350 --> 00:29:11,820
+Another thing that was not allowed was
+what we called ‘After-you-after-you’
+
+255
+00:29:16,649 --> 00:29:22,179
+blocking, where the programs would
+compete for access to the critical section
+
+256
+00:29:22,520 --> 00:29:24,675
+and the dilemma would never be solved.
+
+257
+00:29:24,675 --> 00:29:24,768
+Now, my friends at the Mathematical
+Centre handed in their solutions,
+
+258
+00:29:24,768 --> 00:29:24,811
+but they were all wrong.
+
+259
+00:29:24,820 --> 00:29:55,960
+For each purported solution I would sketch
+a scenario that would reveal the bug.
+
+260
+00:29:56,250 --> 00:30:00,830
+Well, what happened then was that
+people made their programs more
+
+261
+00:30:01,090 --> 00:30:05,410
+sophisticated, more complicated,
+and one or two days later they would
+
+262
+00:30:05,460 --> 00:30:06,870
+come down with their next version.
+
+263
+00:30:07,320 --> 00:30:13,499
+It was wrong as well, only the
+construction and counter-examples
+
+264
+00:30:13,500 --> 00:30:17,070
+became even more time-consuming and I
+had to change the rules of the game.
+
+265
+00:30:17,949 --> 00:30:24,060
+I said, “Sir, sorry but I can
+no longer spend all my days
+
+266
+00:30:24,190 --> 00:30:26,690
+refuting your vain efforts.
+
+267
+00:30:28,120 --> 00:30:37,390
+From now onwards I only accept a solution
+with an argument why it is correct.”
+
+268
+00:30:41,280 --> 00:30:42,640
+With the program correctness?
+
+269
+00:30:42,650 --> 00:30:47,556
+Yes, and within three hours or so Th.
+
+270
+00:30:47,556 --> 00:30:48,273
+J.
+
+271
+00:30:48,990 --> 00:30:57,750
+Dekker came with a perfect solution
+and a proof of its correctness.
+
+272
+00:30:57,750 --> 00:31:09,079
+He had analyzed what kind
+of proof would be needed.
+
+273
+00:31:09,139 --> 00:31:10,860
+What are the things I have to show?
+
+274
+00:31:10,930 --> 00:31:12,509
+How can I prove them?
+
+275
+00:31:13,219 --> 00:31:18,080
+What would be an acceptable
+structure of the correctness proof?
+
+276
+00:31:19,080 --> 00:31:27,249
+Having settled that, he wrote down a
+program that met the proof’s requirement.
+
+277
+00:31:32,310 --> 00:31:42,489
+Which very clearly shows that you
+lose a lot when you restrict the
+
+278
+00:31:42,489 --> 00:31:45,053
+role of mathematics to program
+verification as opposed to program
+
+279
+00:31:45,053 --> 00:31:45,822
+construction or derivation.
+
+280
+00:31:45,822 --> 00:32:17,909
+That was what we learned from the
+competition that was won by Dekker.
+
+281
+00:32:17,909 --> 00:32:33,159
+[Excuse me for a moment.]
+
+282
+00:32:41,570 --> 00:32:52,810
+. . . . .
+Another experience of 1959 was the Zeroth
+IFIP Congress in Paris, a precursor
+
+283
+00:32:52,860 --> 00:32:57,300
+under the auspices of the United Nations.
+
+284
+00:33:03,360 --> 00:33:12,150
+I attended that, though I was still
+a not too well-known youngster.
+
+285
+00:33:12,150 --> 00:33:23,092
+I had visited England a few times,
+I had visited Germany a few times.
+
+286
+00:33:23,420 --> 00:33:33,130
+My international contacts had
+started in December ’58, when
+
+287
+00:33:38,440 --> 00:33:46,240
+the preparatory meetings for
+the design of ALGOL 60 started.
+
+288
+00:33:51,470 --> 00:33:56,279
+Normally the Mathematical Centre
+would have been represented by my
+
+289
+00:33:56,279 --> 00:34:02,483
+boss, Aad van Wijingaarden, but he had
+had a serious car accident, and J.A.
+
+290
+00:34:02,949 --> 00:34:20,290
+Zonneveld and I, as his immediate
+underlings, had to replace him.
+
+291
+00:34:20,440 --> 00:34:26,629
+Zonneveld was a numerical analyst and
+did the numerical work, while I, as a
+
+292
+00:34:26,629 --> 00:34:28,449
+programmer, did the programming work.
+
+293
+00:34:28,869 --> 00:34:41,349
+And so I began attending the
+preparatory meetings for ALGOL 60.
+
+294
+00:34:41,949 --> 00:34:50,740
+That was about the first time that
+I had to carry out spontaneously
+
+295
+00:34:50,740 --> 00:34:53,309
+discussions in English.
+
+296
+00:34:54,479 --> 00:34:55,539
+It was tough.
+
+297
+00:34:56,050 --> 00:34:56,760
+How did you learn?
+
+298
+00:35:01,160 --> 00:35:07,330
+Well, I had, of course, had
+English in school, in high school.
+
+299
+00:35:10,190 --> 00:35:17,290
+I had read a lot, I had no
+experience in writing or speaking it.
+
+300
+00:35:21,120 --> 00:35:26,420
+I learned an awful lot from
+friends as soon as they knew
+
+301
+00:35:26,470 --> 00:35:28,160
+that I liked to be corrected.
+
+302
+00:35:30,000 --> 00:35:38,940
+And I’m extremely grateful to Mike
+Woodger of the National Physical
+
+303
+00:35:38,940 --> 00:35:43,670
+Laboratory, Teddington, whom I met
+in December ’58 for the first time.
+
+304
+00:35:45,920 --> 00:35:52,020
+He quickly made it a rule for himself
+that he would only correct those
+
+305
+00:35:52,059 --> 00:35:55,258
+errors he heard me make the second
+time, because otherwise conversation
+
+306
+00:35:55,258 --> 00:35:55,616
+would have been impossible.
+
+307
+00:35:55,616 --> 00:36:13,140
+That greatly helped and I think that
+after three or four years or so, I
+
+308
+00:36:13,140 --> 00:36:13,745
+was beginning to feel comfortable.
+
+309
+00:36:13,889 --> 00:36:22,270
+I heard you remark that learning
+many different languages
+
+310
+00:36:22,310 --> 00:36:23,576
+is useful to programming.
+
+311
+00:36:23,576 --> 00:36:28,850
+Oh yes, it’s useful.
+
+312
+00:36:33,410 --> 00:36:40,600
+There is an enormous difference between
+one who is monolingual and someone
+
+313
+00:36:41,040 --> 00:36:48,469
+who at least knows a second language
+well, because it makes you much
+
+314
+00:36:48,469 --> 00:36:59,450
+more conscious about the phenomenon
+of language structure in general.
+
+315
+00:36:59,460 --> 00:37:04,249
+You will discover that certain
+constructions in one language
+
+316
+00:37:04,249 --> 00:37:09,397
+you just can’t translate.
+
+317
+00:37:09,397 --> 00:37:29,079
+I was once asked what were the
+most vital assets of a competent
+
+318
+00:37:29,349 --> 00:37:44,260
+programmer, and I said, at the time,
+a mathematical inclination and an
+
+319
+00:37:44,260 --> 00:37:46,540
+exceptional mastery of his native tongue.
+
+320
+00:37:50,160 --> 00:37:55,839
+I said “mathematical inclination”
+because at the time it was not
+
+321
+00:37:55,980 --> 00:38:01,650
+clear how mathematics as understood
+at that moment could contribute
+
+322
+00:38:01,650 --> 00:38:03,680
+to a programming challenge.
+
+323
+00:38:04,660 --> 00:38:21,520
+And I said “native tongue” and not
+“English” because, well for lack
+
+324
+00:38:21,570 --> 00:38:38,450
+of formalism, you have to think in
+terms of words and sentences using
+
+325
+00:38:38,450 --> 00:38:43,910
+a language you are familiar with.
+
+326
+00:38:46,200 --> 00:38:54,009
+Moreover, but I didn’t know that at the
+time, research has shown that when people
+
+327
+00:38:54,009 --> 00:39:02,290
+acquire a second language, they never
+get a greater mastery of it than they
+
+328
+00:39:02,710 --> 00:39:06,549
+have of their own language, their native
+tongue: that clearly sets the standard
+
+329
+00:39:06,790 --> 00:39:17,909
+for how articulate you are going to be.
+
+330
+00:39:18,299 --> 00:39:20,350
+I know I’ve interrupted
+your chronology here.
+
+331
+00:39:21,010 --> 00:39:23,580
+For frame of reference, how far
+away are we from the beginning
+
+332
+00:39:23,580 --> 00:39:27,520
+of the 2.3 Working Group?
+
+333
+00:39:27,750 --> 00:39:28,740
+Ten years.
+
+334
+00:39:29,580 --> 00:39:30,360
+Ten years later?
+
+335
+00:39:30,360 --> 00:39:30,385
+Yes.
+
+336
+00:39:30,385 --> 00:39:30,462
+That started in…
+
+337
+00:39:30,462 --> 00:39:30,488
+’69
+
+338
+00:39:30,488 --> 00:39:30,514
+?
+ Yes.
+
+339
+00:39:30,540 --> 00:39:47,670
+’69, and we were at ’59 in Paris.
+
+340
+00:39:52,360 --> 00:40:00,790
+One of the main things that I
+remember from that was that Alan
+
+341
+00:40:00,870 --> 00:40:03,980
+Perlis of Carnegie Institute
+
+342
+00:40:03,980 --> 00:40:04,020
+of
+
+343
+00:40:04,089 --> 00:40:10,849
+Technology, I don’t think it
+was already CMU at that moment,
+
+344
+00:40:10,850 --> 00:40:14,669
+tried to hire Peter Naur and me.
+
+345
+00:40:21,980 --> 00:40:34,550
+He must have had good taste to
+pick us, to pick Peter and me
+
+346
+00:40:34,550 --> 00:40:42,709
+out of that crowd of people.
+
+347
+00:40:44,809 --> 00:40:49,420
+As soon as Peter heard what
+Perlis would like us to do,
+
+348
+00:40:49,420 --> 00:40:50,932
+he became very contemptuous.
+
+349
+00:40:50,932 --> 00:40:56,830
+He referred to the United States
+as “The Backward Country.”
+
+350
+00:40:58,550 --> 00:40:59,110
+Peter did?
+
+351
+00:41:00,889 --> 00:41:01,189
+Yes.
+
+352
+00:41:08,329 --> 00:41:10,880
+He said that if they wanted to
+embark on a silly project, they
+
+353
+00:41:13,660 --> 00:41:14,300
+had better do it themselves.
+
+354
+00:41:16,469 --> 00:41:19,200
+I think he’s mellowed since then.
+
+355
+00:41:20,089 --> 00:41:21,110
+I’ve known him for years.
+
+356
+00:41:22,370 --> 00:41:24,615
+He’s a friend of Arthur
+Norberg’s, the Director at CBI.
+
+357
+00:41:24,615 --> 00:41:24,621
+Oh yes?
+
+358
+00:41:24,621 --> 00:41:24,635
+They are still in touch.
+
+359
+00:41:24,635 --> 00:41:24,641
+They are?
+
+360
+00:41:24,641 --> 00:42:10,470
+Now then, ALGOL 60 came, which in
+retrospect, I think, should be regarded
+
+361
+00:42:10,470 --> 00:42:16,690
+as the beginning of computing science;
+if we wish to mark a discontinuity in the
+
+362
+00:42:16,690 --> 00:42:27,830
+way in which we thought about computing,
+then that is the emergence of ALGOL 60.
+
+363
+00:42:27,960 --> 00:42:33,919
+I will return to that later, to the
+extent in which it has made, for instance,
+
+364
+00:42:33,920 --> 00:42:37,890
+the topic academically respectable.
+
+365
+00:42:38,490 --> 00:42:40,319
+Yes, I want to hear more about that.
+
+366
+00:42:42,879 --> 00:42:46,170
+I had published a paper called “Recursive
+Programming,” again in Numerische
+
+367
+00:42:46,320 --> 00:42:51,133
+Mathematik, 4 which was crazy because
+it had nothing to do with numerical
+
+368
+00:42:51,133 --> 00:42:53,590
+mathematics, but that was the medium then.
+
+369
+00:42:57,430 --> 00:43:07,009
+In ’61, I just started thinking
+about programming and was beginning
+
+370
+00:43:07,009 --> 00:43:11,220
+to realize that programming really
+was an intellectual challenge.
+
+371
+00:43:22,110 --> 00:43:30,460
+One of the things Peter and I did
+was to be main speakers at a workshop
+
+372
+00:43:30,460 --> 00:43:34,950
+or a summer school that had been
+organized in Brighton, England.
+
+373
+00:43:37,010 --> 00:43:42,770
+There was there some sort of study
+institute on automatic programming,
+
+374
+00:43:46,000 --> 00:43:55,620
+organized by a certain Goodman; there
+were quite a number of well-known British
+
+375
+00:43:56,070 --> 00:44:05,870
+scientists in that audience and I think
+that that has played a major role in
+
+376
+00:44:05,870 --> 00:44:10,270
+me becoming known in Great Britain.
+
+377
+00:44:15,290 --> 00:44:24,039
+In my audience I had Tony Hoare,
+and neither of us remembers that.
+
+378
+00:44:26,149 --> 00:44:29,380
+I don’t remember him because he was
+one of the many people in the audience,
+
+379
+00:44:30,310 --> 00:44:36,960
+and he doesn’t remember it because
+in his memory Peter Naur and I, both
+
+380
+00:44:36,969 --> 00:44:43,269
+bearded and both with a Continental
+accent, have merged into one person.
+
+381
+00:44:43,269 --> 00:44:48,063
+We reconstructed later
+that we were both there.
+
+382
+00:44:48,110 --> 00:44:49,080
+You were both there?
+
+383
+00:44:49,110 --> 00:44:54,400
+We were both there: he was
+in the audience, and I was
+
+384
+00:44:54,400 --> 00:44:55,470
+one of the main speakers.
+
+385
+00:44:58,160 --> 00:45:14,159
+Okay, now in 1962, that was when my
+thinking about program synchronization
+
+386
+00:45:16,480 --> 00:45:26,100
+resulted in the P- & V- operations;
+that was one major step in 1962.
+
+387
+00:45:26,100 --> 00:45:33,409
+The other thing I remember was
+a conference in Rome on symbol
+
+388
+00:45:33,410 --> 00:45:36,240
+manipulation, in April or so.
+
+389
+00:45:40,450 --> 00:45:42,270
+Peter was there, with his wife.
+
+390
+00:45:44,510 --> 00:45:54,209
+And they, the girls, went to Rome during
+the day, and one day they came back
+
+391
+00:45:54,250 --> 00:45:59,959
+and there was a reception at the end
+of the day; it was early and while we
+
+392
+00:46:00,370 --> 00:46:06,680
+were walking through the crowd, they
+hear one guy summarizing to another
+
+393
+00:46:06,730 --> 00:46:41,379
+the political situation: quite clearly,
+of course, there were the Americans,
+
+394
+00:46:41,379 --> 00:46:41,503
+and there were the Germans, and there
+were the French and the English.
+
+395
+00:46:41,503 --> 00:46:46,750
+“Et alors il’y a les deux Fidel
+Castros!” A hilarious moment….
+
+396
+00:46:46,750 --> 00:46:46,765
+There were panel discussions and
+Peter and I were sitting next to each
+
+397
+00:46:46,765 --> 00:46:52,240
+other and we had all sorts of nasty
+comments, but we made it the rule
+
+398
+00:46:52,300 --> 00:46:59,180
+that we would go downstairs to the
+microphone in turn - - when it was
+
+399
+00:46:59,820 --> 00:47:02,320
+my turn, I would go and next time he.
+
+400
+00:47:05,469 --> 00:47:17,540
+This had gone on for an hour or so,
+and van Wijngaarden, my boss, was
+
+401
+00:47:17,540 --> 00:47:25,339
+sitting next to an American and at
+a given moment the American grabs
+
+402
+00:47:25,820 --> 00:47:27,580
+his shoulder and says “My God!
+
+403
+00:47:27,620 --> 00:47:41,590
+There are two of them.” This may
+be included in an oral history?
+
+404
+00:47:41,760 --> 00:47:49,624
+It’s not mathematics, it isn’t computer
+science either, but it is a true story…..
+
+405
+00:47:49,624 --> 00:47:53,761
+The next thing was that in September, I
+went to the first IFIP Congress, which was
+
+406
+00:47:53,761 --> 00:48:16,270
+held in Munich, and gave an invited speech
+on advancing programming, and it was there
+
+407
+00:48:16,270 --> 00:48:32,720
+that I got a number of curtain calls:
+clearly I was telling something unusual.
+
+408
+00:48:33,710 --> 00:48:35,999
+I will return to that also later.
+
+409
+00:48:37,990 --> 00:48:42,620
+Then I became a professor of Mathematics
+in Eindhoven, and for two years
+
+410
+00:48:42,770 --> 00:48:44,221
+I lectured on numerical analysis.
+
+411
+00:48:44,221 --> 00:48:44,279
+By 1963/64, I had designed with Carel S.
+
+412
+00:48:44,279 --> 00:48:44,366
+Scholten the specification of the hardware
+channels and the interrupts of the
+
+413
+00:48:44,366 --> 00:48:44,482
+Electrologica X8, the last machine my
+friends built, and then I started on the
+
+414
+00:48:44,482 --> 00:49:02,778
+design of THE Multi-programming System,
+which was completed a few years later.
+
+415
+00:49:02,778 --> 00:49:09,559
+Of course, ’64 was the year in
+which IBM announced the 360.
+
+416
+00:49:09,959 --> 00:49:23,910
+I was extremely cross with Jerry
+Blaaw, with whom I had cooperated and
+
+417
+00:49:23,920 --> 00:49:53,690
+who should have known better, because
+there were serious flaws built into
+
+418
+00:49:58,910 --> 00:50:00,330
+the I/O organization of that machine.
+
+419
+00:50:00,480 --> 00:50:00,650
+5
+
+420
+00:50:01,400 --> 00:50:03,310
+Which you had discussed with him before?
+
+421
+00:50:05,020 --> 00:50:11,210
+No I hadn’t, but he should
+have known of my Ph.D.
+
+422
+00:50:11,280 --> 00:50:17,830
+thesis, and he should have known
+about the care that has to go into the
+
+423
+00:50:17,830 --> 00:50:27,780
+design of such things, but that was
+clearly not a part of the IBM culture.
+
+424
+00:50:35,469 --> 00:50:36,511
+In my Turing Lecture I have
+described the week that I studied the
+
+425
+00:50:36,511 --> 00:50:36,514
+specifications of the 360, it was the
+darkest week in my professional life.
+
+426
+00:50:36,514 --> 00:50:36,518
+In a NATO Conference on Software
+Engineering in 1969 in Rome, 6
+
+427
+00:50:36,518 --> 00:50:36,525
+I have characterized the Russian
+decision to build a bit-compatible
+
+428
+00:50:36,525 --> 00:51:17,180
+copy of the IBM 360 as the greatest
+American victory in the Cold War.
+
+429
+00:51:22,299 --> 00:51:23,790
+Did that make the proceedings?
+
+430
+00:51:24,630 --> 00:51:25,320
+I don’t remember.
+
+431
+00:51:25,720 --> 00:51:25,850
+No.
+
+432
+00:51:26,120 --> 00:51:40,700
+That did not make the proceedings, no;
+Brian Randell and John Buxton saw to that.
+
+433
+00:51:40,700 --> 00:51:41,800
+But it got spread anyhow.
+
+434
+00:51:46,570 --> 00:52:11,252
+I was given an announcement that
+for many years has been posted
+
+435
+00:52:11,252 --> 00:52:11,256
+in a sovjet computation center.
+
+436
+00:52:11,256 --> 00:52:13,870
+It was a Cossack dancing with a
+flag saying, “We want IBM.” and
+
+437
+00:52:13,900 --> 00:52:22,974
+underneath you have that quotation,
+about the victory in the Cold War.
+
+438
+00:52:22,974 --> 00:52:30,004
+And I had the pleasure of telling it
+to a Russian audience in Petersburg.
+
+439
+00:52:30,004 --> 00:52:39,830
+Somebody asked me my opinion about the
+360, and I thought this the most compact
+
+440
+00:52:39,839 --> 00:52:42,049
+summary that existed and I gave it.
+
+441
+00:52:45,649 --> 00:52:51,553
+And a third of the people laughed, so you
+knew how many of them understood English.
+
+442
+00:52:51,553 --> 00:52:53,490
+My way of checking them.
+
+443
+00:52:56,950 --> 00:53:01,519
+Okay now, 64-65.
+
+444
+00:53:01,609 --> 00:53:15,640
+I had generalized Dekker’s solution for
+N processes and the last sentence of
+
+445
+00:53:15,640 --> 00:53:23,060
+that one-page article is, “And this, the
+author believes, completes the proof.”
+
+446
+00:53:26,370 --> 00:53:30,010
+According to Doug Ross, who wrote a
+review of the article, it was about
+
+447
+00:53:30,010 --> 00:53:37,789
+the first publication of an algorithm
+that included its correctness proof.
+
+448
+00:53:37,789 --> 00:53:37,989
+Whether that is right or not I don’t know.
+
+449
+00:53:49,410 --> 00:53:56,670
+Yes, I wrote “Cooperating Sequential
+Processes,” and I invented the
+
+450
+00:53:56,670 --> 00:54:08,800
+Problem of the Dining Quintuple,
+which later became known as the
+
+451
+00:54:08,809 --> 00:54:10,060
+Problem of the Dining Philosophers.
+
+452
+00:54:10,060 --> 00:54:13,150
+7 That name was given to it by Tony Hoare.
+
+453
+00:54:16,920 --> 00:54:22,980
+And I gave an invited talk at
+the IFIP Conference in New York.
+
+454
+00:54:22,990 --> 00:54:25,400
+That was your first trip?
+
+455
+00:54:26,260 --> 00:54:28,350
+No, it was my second trip.
+
+456
+00:54:28,350 --> 00:54:32,960
+My first trip had been in ’63.
+
+457
+00:54:32,960 --> 00:54:36,250
+That was to an ACM
+Conference in Princeton.
+
+458
+00:54:36,250 --> 00:54:45,470
+And I later visited a number of
+Burroughs outfits, that was the
+
+459
+00:54:45,490 --> 00:54:55,470
+first time I met Donald Knuth.
+
+460
+00:54:55,520 --> 00:55:03,580
+Talk about fame - - in one way or another
+I must already have had some fame in 1963
+
+461
+00:55:03,580 --> 00:55:10,509
+at my first visit to the States, because
+that was an ACM workshop with about 60 to
+
+462
+00:55:13,359 --> 00:55:18,570
+80 participants and I was invited to join.
+
+463
+00:55:21,250 --> 00:55:22,122
+And they paid me five hundred dollars.
+
+464
+00:55:22,122 --> 00:55:23,044
+Five hundred dollars was quite a lot in
+those days, and there was nothing I needed
+
+465
+00:55:23,044 --> 00:55:38,499
+to do: I didn’t need to give a speech, I
+didn’t need to sit in a panel discussion,
+
+466
+00:55:38,509 --> 00:55:45,029
+they just would like me to be there.
+
+467
+00:55:45,049 --> 00:55:45,779
+Quite an amazing experience.
+
+468
+00:55:45,870 --> 00:55:46,110
+Yes.
+
+469
+00:55:46,110 --> 00:55:46,309
+That was the start of my visit.
+
+470
+00:55:46,309 --> 00:56:00,819
+And then I found some other
+money to do some more traveling.
+
+471
+00:56:00,889 --> 00:56:04,899
+What do you remember of your
+first two trips to America that
+
+472
+00:56:05,420 --> 00:56:12,900
+surprised you about the way the
+profession seemed to be operating?
+
+473
+00:56:16,099 --> 00:56:31,690
+Well, the first lecture at that
+workshop was given by a guy from IBM.
+
+474
+00:56:31,690 --> 00:56:36,430
+It was very algebraic and complicated.
+
+475
+00:56:37,219 --> 00:56:41,310
+On the blackboard he wrote
+wall-to-wall formulae and I didn’t
+
+476
+00:56:41,340 --> 00:56:49,130
+understand a single word of it.
+
+477
+00:56:49,130 --> 00:56:50,554
+But there were many people that
+joined the conversation, that joined
+
+478
+00:56:50,840 --> 00:56:54,230
+the discussion and posed questions.
+
+479
+00:56:56,030 --> 00:57:01,139
+And I couldn’t understand those
+questions either, nor the answers,
+
+480
+00:57:01,139 --> 00:57:05,509
+and, as I said, I had been invited
+to come and was even paid to come.
+
+481
+00:57:05,589 --> 00:57:20,310
+I felt miserably out of place and in the
+evening, during a reception, I voiced my
+
+482
+00:57:20,320 --> 00:57:25,069
+worry that I was there on false premises.
+
+483
+00:57:26,529 --> 00:57:33,534
+“How come?” “The first speaker, I
+did not understand a word of it.”
+
+484
+00:57:35,219 --> 00:57:38,990
+“Oh,” he said, “none of us did.
+
+485
+00:57:39,330 --> 00:57:47,580
+That was all nonsense and gibberish,
+but IBM is sponsoring this, so we had to
+
+486
+00:57:47,580 --> 00:57:48,520
+give the first slot to an IBM speaker.”
+
+487
+00:57:51,639 --> 00:57:52,370
+Very common.
+
+488
+00:57:55,160 --> 00:57:58,730
+Well, that was totally
+new, totally new for me.
+
+489
+00:57:59,440 --> 00:58:11,529
+That a keynote speaker would be
+someone who really wasn’t going to
+
+490
+00:58:11,670 --> 00:58:13,819
+participate in the conversation?
+
+491
+00:58:15,109 --> 00:58:18,590
+Yes, and everybody knowing this and
+everybody going through the motions.
+
+492
+00:58:18,590 --> 00:58:18,950
+It was a degree of scientific
+dishonesty I was not prepared for.
+
+493
+00:58:30,090 --> 00:58:30,820
+Or… “a degree of scientific
+
+494
+00:58:30,820 --> 00:58:35,570
+dishonesty,” that is a
+bit too strong of a term.
+
+495
+00:58:36,000 --> 00:58:50,060
+Let’s say that the fence between
+science and industry, the fence
+
+496
+00:58:50,090 --> 00:58:55,610
+around a University Campus, is
+here not as high as I was used to.
+
+497
+00:58:59,980 --> 00:59:05,489
+Were public intellectuals and
+scientists under attack those first
+
+498
+00:59:05,490 --> 00:59:12,770
+two trips, do you recall, the way
+they were a couple years later?
+
+499
+00:59:14,090 --> 00:59:19,890
+Oh yes.
+
+500
+00:59:19,890 --> 00:59:25,230
+It was on this trip, I think my first
+trip, that I learned the term “egghead.”
+
+501
+00:59:40,119 --> 00:59:43,810
+The most hilarious memory has
+nothing to do with computing science.
+
+502
+00:59:45,340 --> 00:59:47,253
+I was sitting in front of The Old
+Nassau Inn and there was a reunion
+
+503
+00:59:47,253 --> 00:59:47,265
+of veterans of some war who wanted
+their picture taken and the wife of
+
+504
+00:59:47,265 --> 01:00:06,950
+one of them would take the picture.
+
+505
+01:00:08,050 --> 01:00:16,759
+However that was an old Polaroid
+Land camera, and you had to hold
+
+506
+01:00:16,839 --> 01:00:21,260
+it some time and she couldn’t do
+that: each time, a minute later,
+
+507
+01:00:21,330 --> 01:00:21,476
+when the thing came out, it was all
+blurry, I looked and I had seen that.
+
+508
+01:00:21,476 --> 01:00:21,740
+Then one of the guys hollers
+to me, “Hi, young man.
+
+509
+01:00:37,620 --> 01:00:48,110
+Got a steady hand?” So this young man
+had a steady hand and took the picture.
+
+510
+01:00:48,110 --> 01:00:54,090
+In ’66 was the completion of the design
+of the THE System, the Banker’s Algorithm.
+
+511
+01:00:55,820 --> 01:01:06,480
+’67 was the ACM Conference on Operating
+Systems principles in Gatlinburg.
+
+512
+01:01:21,449 --> 01:01:29,481
+That, I think, was the first time
+that I had a large American audience.
+
+513
+01:01:29,481 --> 01:01:54,049
+It was at that meeting, one afternoon
+I was just sitting outside, that I
+
+514
+01:01:54,049 --> 01:02:05,779
+explained to Brian Randell and a few
+others one of the reasons why the GO
+
+515
+01:02:05,779 --> 01:02:08,060
+TO statement introduced complexity.
+
+516
+01:02:09,790 --> 01:02:12,053
+And they asked me to publish it.
+
+517
+01:02:12,053 --> 01:02:20,609
+So I sent an article to the Communications
+of the ACM, called “A Case Against the
+
+518
+01:02:20,769 --> 01:02:30,300
+GO TO Statement.” The editor of the
+section wanted to publish it as quickly
+
+519
+01:02:30,300 --> 01:02:39,400
+as possible, so he turned it from an
+article into a Letter to the Editor,
+
+520
+01:02:39,889 --> 01:02:41,310
+which could be published immediately.
+
+521
+01:02:41,310 --> 01:02:52,750
+And in doing so, he changed the title
+into, “The GO TO Considered Harmful.” 8
+
+522
+01:02:52,750 --> 01:02:53,810
+What was the original title?
+
+523
+01:02:53,810 --> 01:02:57,070
+The original title was “A Case
+Against the GO TO Statement.”
+
+524
+01:02:59,690 --> 01:03:02,549
+Well, that changes things considerably.
+
+525
+01:03:03,510 --> 01:03:06,220
+Yes, and the title became a template.
+
+526
+01:03:07,320 --> 01:03:15,030
+Hundreds of writers have “X
+considered harmful,” with X anything.
+
+527
+01:03:15,040 --> 01:03:24,360
+The editor who made this
+change was Niklaus Wirth.
+
+528
+01:03:27,700 --> 01:03:27,990
+Wow.
+
+529
+01:03:29,509 --> 01:03:31,039
+That is a phrase that’s entered
+
+530
+01:03:32,599 --> 01:03:33,139
+…
+ the lingo….
+
+531
+01:03:33,139 --> 01:03:34,140
+common lexicon … yes.
+
+532
+01:03:34,170 --> 01:03:34,420
+Yes.
+
+533
+01:03:34,420 --> 01:03:34,430
+Now to ’68.
+
+534
+01:03:40,930 --> 01:03:51,770
+’68 was exciting because of
+the first NATO Conference on
+
+535
+01:03:51,770 --> 01:03:51,830
+Software Engineering, in Garmisch.
+
+536
+01:03:51,830 --> 01:03:51,842
+In BIT I published a paper, 9 which
+remained unnoticed because the
+
+537
+01:03:51,842 --> 01:04:11,463
+circulation of BIT was too small, on “A
+Constructive Approach to the Problem of
+
+538
+01:04:11,719 --> 01:04:24,929
+Program Correctness.” Remember what I
+said about Dekker’s experience in ’59.
+
+539
+01:04:27,719 --> 01:04:37,750
+’68 was also the year of the IBM
+advertisement in Datamation, of a
+
+540
+01:04:38,260 --> 01:04:47,580
+beaming Susy Mayer, in full color, who
+had just solved all her programming
+
+541
+01:04:47,600 --> 01:04:48,633
+problems by switching to PL/I.
+
+542
+01:04:48,633 --> 01:04:48,750
+Remember, those were the days we were
+forced to, led to believe that the
+
+543
+01:04:48,750 --> 01:04:48,754
+problems of programming were the problems
+of the deficiencies of the programming
+
+544
+01:04:48,754 --> 01:04:48,765
+language you were working with, and
+if you took the right language then
+
+545
+01:04:48,765 --> 01:04:49,022
+there would be no problems anymore.
+
+546
+01:04:49,060 --> 01:04:51,448
+Iverson’s APL was unsatisfactory?
+
+547
+01:04:51,448 --> 01:04:54,090
+Was it already there?
+
+548
+01:04:56,000 --> 01:04:56,250
+I believe
+
+549
+01:05:23,270 --> 01:05:23,540
+so.
+
+550
+01:05:23,820 --> 01:05:27,170
+Maybe it had not - - it got a slow start.
+
+551
+01:05:30,400 --> 01:05:30,684
+How did I characterize it?
+
+552
+01:05:30,720 --> 01:05:33,132
+“APL is a mistake, carried
+through to perfection.
+
+553
+01:05:33,132 --> 01:05:37,176
+It is the language of the future for the
+programming techniques of the past: it
+
+554
+01:05:37,176 --> 01:05:39,580
+creates a new generation of coding bums.”
+One of the things that I had told them
+
+555
+01:06:16,830 --> 01:06:18,069
+in Munich in 1962
+
+556
+01:06:18,569 --> 01:06:27,819
+in an invited lecture was that programmers
+should not be puzzle-minded, which was
+
+557
+01:06:27,819 --> 01:06:32,840
+one of the criteria on which IBM selected
+programmers, but that we would be much
+
+558
+01:06:32,840 --> 01:06:39,545
+better served by clean, systematic
+minds, with a sense of elegance, yes.
+
+559
+01:06:39,545 --> 01:06:44,903
+And APL, with its one-liners, went
+
+560
+01:06:46,240 --> 01:06:46,700
+in the other
+
+561
+01:06:46,700 --> 01:06:47,419
+direction.
+
+562
+01:06:55,119 --> 01:07:01,200
+I have been exposed to more
+APL than I’d like because
+
+563
+01:07:04,250 --> 01:07:06,620
+Alan Perlis had an APL period.
+
+564
+01:07:09,210 --> 01:07:09,830
+I didn’t know that.
+
+565
+01:07:10,080 --> 01:07:10,529
+Oh yes.
+
+566
+01:07:12,160 --> 01:07:18,450
+I think he outgrew it before his
+death, but for many years APL was “It”.
+
+567
+01:07:21,780 --> 01:07:22,096
+And that was one of the reasons why he
+wrote together with Lipton and De Millo a
+
+568
+01:07:22,096 --> 01:07:22,102
+paper against correctness proofs, because
+he could not do it for APL programs.
+
+569
+01:07:22,102 --> 01:07:22,109
+He published a very obnoxious
+paper 10 arguing against a
+
+570
+01:07:22,109 --> 01:07:22,116
+mathematical approach to programming.
+
+571
+01:07:22,116 --> 01:07:22,290
+What was
+
+572
+01:07:22,300 --> 01:07:23,939
+wrong with ALGOL?
+
+573
+01:08:04,760 --> 01:08:04,780
+He
+
+574
+01:08:12,700 --> 01:08:13,230
+got dissatisfied
+
+575
+01:08:13,280 --> 01:08:13,900
+with that
+
+576
+01:08:25,420 --> 01:08:27,970
+or - - I’ve never understood the
+development of Alan Perlis, but he
+
+577
+01:08:32,680 --> 01:08:34,479
+got severely a-mathematical.
+
+578
+01:08:35,870 --> 01:08:39,680
+Whether that was a reaction to his
+
+579
+01:08:40,800 --> 01:08:44,000
+environment, a set of socially acceptable…
+
+580
+01:08:45,359 --> 01:08:53,910
+or if it was of his own, I don’t know.
+
+581
+01:08:54,889 --> 01:09:16,209
+Okay, 1969.
+
+582
+01:09:16,549 --> 01:09:16,699
+In that year I
+
+583
+01:09:16,770 --> 01:09:18,826
+wrote “Notes on Structured Programming,”
+11 which in retrospect I think owed
+
+584
+01:09:18,826 --> 01:09:19,707
+its American impact to the fact
+that it had been written at the
+
+585
+01:09:19,707 --> 01:09:27,880
+other side of the Atlantic Ocean;
+which has two very different sides.
+
+586
+01:09:27,930 --> 01:09:28,240
+Yes it does.
+
+587
+01:09:40,690 --> 01:14:35,389
+It does, yes, and I have the feeling
+
+588
+01:16:15,730 --> 01:16:17,339
+that I can talk about this with some
+authority, having lived here for
+
+589
+01:16:24,639 --> 01:16:25,769
+the better part of seventeen years.
+
+590
+01:16:26,420 --> 01:16:27,900
+The Netherlands and Texas
+
+591
+01:16:27,900 --> 01:16:28,979
+are very different places.
+
+592
+01:16:28,979 --> 01:16:29,009
+Sure.
+
+593
+01:16:29,009 --> 01:16:38,960
+But there is one thing
+
+594
+01:16:41,170 --> 01:16:44,480
+that one of these days I
+will state emphatically
+
+595
+01:16:44,830 --> 01:17:01,190
+in public, but I can voice it already
+here, and that is that I think that
+
+596
+01:17:02,090 --> 01:17:04,540
+thanks to the greatly improved
+possibility of communication,
+
+597
+01:17:10,830 --> 01:17:12,360
+we overrate its importance.
+
+598
+01:17:19,730 --> 01:17:21,060
+Even stronger, we underrate
+
+599
+01:17:53,249 --> 01:17:53,779
+the importance of isolation.
+
+600
+01:17:54,070 --> 01:17:58,769
+See, look at what that ’63 invitation
+to the ACM workshop illustrates, at
+
+601
+01:18:01,969 --> 01:18:05,210
+a time when I had published very
+little, I had not done that much either.
+
+602
+01:18:05,490 --> 01:18:09,120
+I had implemented ALGOL 60
+and I had written a real-time
+
+603
+01:18:09,710 --> 01:18:15,900
+interrupt handler, I had just
+become a professional programmer.
+
+604
+01:18:17,000 --> 01:18:23,090
+Yet I turned out to be quite well known.
+
+605
+01:18:23,460 --> 01:18:23,870
+How come?
+
+606
+01:18:28,790 --> 01:18:31,450
+I didn’t fully understand
+it, but what certainly played
+
+607
+01:18:31,450 --> 01:18:46,130
+a role is that, thanks to my isolation,
+I would do other things and would
+
+608
+01:18:46,530 --> 01:18:49,740
+do things differently than people
+
+609
+01:18:50,660 --> 01:18:51,340
+subjected to
+
+610
+01:18:53,260 --> 01:18:56,660
+the standard pressures of conformity.
+
+611
+01:18:59,400 --> 01:19:01,330
+I see, the IBM way.
+
+612
+01:19:04,250 --> 01:19:04,740
+Yes.
+
+613
+01:19:04,750 --> 01:19:04,790
+I had
+
+614
+01:19:07,639 --> 01:19:08,629
+no pressure
+
+615
+01:19:09,059 --> 01:19:23,139
+to please IBM or please the people
+who thought that IBM was great.
+
+616
+01:19:23,389 --> 01:19:25,550
+I was a free man.
+
+617
+01:19:35,670 --> 01:19:36,370
+So IBM
+
+618
+01:19:36,380 --> 01:19:37,349
+Europe did not have
+
+619
+01:19:37,470 --> 01:19:38,120
+control
+
+620
+01:19:39,639 --> 01:19:40,059
+the way
+
+621
+01:19:40,070 --> 01:19:40,460
+…
+ No.
+
+622
+01:19:40,460 --> 01:19:40,491
+One of the things that saved Europe
+was that until 1960 or so, the first
+
+623
+01:19:40,491 --> 01:19:40,515
+ten years so to speak; it was not
+considered an interesting market.
+
+624
+01:19:40,515 --> 01:19:40,845
+So we were ignored.
+
+625
+01:19:40,845 --> 01:19:41,305
+We were spared the pressure.
+
+626
+01:19:41,305 --> 01:19:41,509
+Of course I didn’t understand all that at
+
+627
+01:20:10,919 --> 01:20:11,009
+the time.
+
+628
+01:20:11,009 --> 01:20:14,580
+I had no idea
+
+629
+01:20:15,350 --> 01:20:15,860
+of the power
+
+630
+01:20:25,810 --> 01:20:26,450
+of large companies.
+
+631
+01:20:26,450 --> 01:20:26,510
+It
+
+632
+01:20:31,130 --> 01:20:31,960
+was only recently that
+
+633
+01:20:32,400 --> 01:20:42,279
+I learned that in constant dollars the
+development of the IBM 360 has been
+
+634
+01:20:45,240 --> 01:20:47,430
+more expensive than the Manhattan
+
+635
+01:20:47,590 --> 01:20:48,020
+Project.
+
+636
+01:20:49,470 --> 01:20:50,030
+I didn’t know that.
+
+637
+01:20:50,030 --> 01:20:50,180
+Yes.
+
+638
+01:20:56,570 --> 01:20:57,980
+Considering that the IBM
+360 might have created
+
+639
+01:20:58,059 --> 01:20:58,429
+greater
+
+640
+01:20:59,530 --> 01:20:59,910
+damage, it
+
+641
+01:21:01,710 --> 01:21:01,769
+would
+
+642
+01:21:01,769 --> 01:21:03,476
+be appropriate.
+
+643
+01:21:04,330 --> 01:21:05,960
+Now American popular
+
+644
+01:21:05,980 --> 01:21:10,309
+culture also, does that have an effect?
+
+645
+01:21:10,490 --> 01:21:12,682
+The sort of homogenization
+of the culture that exists?
+
+646
+01:21:12,682 --> 01:21:12,684
+I did not notice that.
+
+647
+01:21:12,684 --> 01:21:12,691
+I remember that when I was beginning to
+see American publications in the first
+
+648
+01:21:12,691 --> 01:21:12,702
+issue of the Communications of the ACM,
+I was shocked by the clumsy, immature
+
+649
+01:21:12,702 --> 01:21:25,545
+way in which they talked about computing.
+
+650
+01:21:25,770 --> 01:21:27,442
+There was a very heavy use of
+anthropomorphic terminology,
+
+651
+01:21:27,442 --> 01:21:27,460
+the “electronic brains
+or machines that think.”
+
+652
+01:21:27,460 --> 01:21:27,740
+Yes.
+
+653
+01:21:27,740 --> 01:21:28,450
+Yes, and
+
+654
+01:21:28,770 --> 01:22:08,540
+that is absolutely killing,
+because one of the most
+
+655
+01:22:09,160 --> 01:22:10,650
+devious things we do is
+
+656
+01:22:10,650 --> 01:22:12,449
+existing in time
+
+657
+01:22:13,599 --> 01:22:18,870
+and the use of anthropomorphic
+terminology forces you linguistically
+
+658
+01:22:19,620 --> 01:22:25,219
+to adopt an operational view.
+
+659
+01:22:25,219 --> 01:22:31,960
+And it makes it practically
+impossible, at least very
+
+660
+01:22:31,960 --> 01:22:33,930
+difficult to argue about programs
+
+661
+01:22:34,760 --> 01:22:37,460
+independently of their
+possibility of being executed.
+
+662
+01:22:39,360 --> 01:22:40,009
+So is this
+
+663
+01:22:40,010 --> 01:22:40,330
+why
+
+664
+01:22:40,450 --> 01:22:44,919
+Artificial Intelligence research seemingly
+
+665
+01:22:44,960 --> 01:22:46,610
+doesn’t take hold in Europe?
+
+666
+01:22:50,960 --> 01:23:02,480
+There was a very clear
+financial constraint: at the
+
+667
+01:23:04,809 --> 01:23:06,585
+time we had to use the machines we
+could build with the available stuff.
+
+668
+01:23:06,585 --> 01:23:06,880
+There is
+
+669
+01:23:12,290 --> 01:23:18,679
+also a great cultural barrier.
+
+670
+01:23:18,679 --> 01:23:36,240
+The European mind tends to
+maintain a greater distinction
+
+671
+01:23:36,240 --> 01:23:37,580
+between man and machine.
+
+672
+01:23:49,350 --> 01:23:50,310
+It’s less
+
+673
+01:23:50,830 --> 01:23:53,389
+inclined to describe machines in
+
+674
+01:23:54,000 --> 01:23:56,879
+anthropomorphic terminology; it’s
+
+675
+01:23:56,880 --> 01:23:58,570
+also less inclined to
+
+676
+01:23:59,370 --> 01:24:07,169
+describe the human mind
+in mechanical terminology.
+
+677
+01:24:07,320 --> 01:24:19,279
+I don’t know whether you realize that
+Freud never became a rage in Europe
+
+678
+01:24:19,300 --> 01:24:21,010
+as he had become in the United States.
+
+679
+01:24:27,020 --> 01:24:27,210
+Maybe
+
+680
+01:24:30,840 --> 01:24:33,089
+this is a good place
+to- - I was reading through
+
+681
+01:24:33,230 --> 01:24:36,770
+some of your Burroughs
+reports and there was
+
+682
+01:24:37,010 --> 01:24:39,810
+a really interesting statement
+
+683
+01:24:40,170 --> 01:24:40,600
+there.
+
+684
+01:24:42,160 --> 01:24:44,300
+Forgive me for repeating this back.
+
+685
+01:24:44,309 --> 01:24:44,339
+Yes.
+
+686
+01:24:44,800 --> 01:24:51,269
+You said, “The tools we use have a
+profound and devious influence on
+
+687
+01:24:51,270 --> 01:24:54,769
+our thinking habits, and therefore
+on our thinking abilities.”
+
+688
+01:24:54,869 --> 01:24:55,189
+Yes.
+
+689
+01:24:56,000 --> 01:24:58,133
+And then, in another
+place, you said, to take
+
+690
+01:24:58,350 --> 01:25:00,000
+a different tack, “As
+
+691
+01:25:00,000 --> 01:25:03,480
+long as we regard computers
+primarily as tools we might grossly
+
+692
+01:25:03,510 --> 01:25:05,150
+underestimate their significance.
+
+693
+01:25:05,750 --> 01:25:09,190
+Their influence as tools might
+turn out to be but a ripple on
+
+694
+01:25:09,190 --> 01:25:10,929
+the surface of our culture.”
+
+695
+01:25:11,709 --> 01:25:12,570
+Are you talking
+
+696
+01:25:12,570 --> 01:25:16,950
+here about the whole cybernetic gaze that
+
+697
+01:25:18,090 --> 01:25:22,070
+they have lent to society?
+
+698
+01:25:22,230 --> 01:25:28,610
+Have we become like - - do
+we think like our machines?
+
+699
+01:25:28,709 --> 01:25:30,110
+No no no no.
+
+700
+01:25:30,690 --> 01:25:33,170
+Do our machines think like we would
+
+701
+01:25:33,410 --> 01:25:34,150
+wish them to?
+
+702
+01:25:37,650 --> 01:25:38,000
+No.
+
+703
+01:25:42,460 --> 01:25:43,490
+The devious influence
+
+704
+01:25:48,360 --> 01:25:49,860
+was inspired by
+
+705
+01:25:49,860 --> 01:25:52,070
+the experience
+
+706
+01:25:52,100 --> 01:25:52,230
+with a
+
+707
+01:25:53,310 --> 01:25:54,360
+bright student.
+
+708
+01:25:55,820 --> 01:26:05,870
+In the oral examination
+we solved a problem.
+
+709
+01:26:05,870 --> 01:26:14,259
+Together we constructed the program,
+decided what had to be done, but
+
+710
+01:26:14,280 --> 01:26:34,780
+very close to the end, the kid got
+
+711
+01:26:35,280 --> 01:26:35,320
+stuck.
+
+712
+01:26:35,320 --> 01:26:35,402
+He could not conceive of - - and
+actually I was amazed because he was a
+
+713
+01:26:35,402 --> 01:26:35,444
+bright kid and he knew perfectly well,
+
+714
+01:26:35,450 --> 01:26:37,009
+he had understood the problem perfectly.
+
+715
+01:26:37,009 --> 01:26:37,469
+And he
+
+716
+01:26:45,669 --> 01:26:48,410
+noticed that he got stuck and
+
+717
+01:26:53,270 --> 01:26:56,540
+without acceptable reason.
+
+718
+01:26:56,540 --> 01:27:14,000
+We were almost finished, he had
+already his grade, in my mind at least.
+
+719
+01:27:16,209 --> 01:27:17,500
+We discussed how he got stuck.
+
+720
+01:27:17,549 --> 01:27:21,959
+It turned out that
+
+721
+01:27:23,600 --> 01:27:24,820
+what he had to do
+
+722
+01:27:24,830 --> 01:27:30,106
+was to write a subscripted value in a
+
+723
+01:27:30,700 --> 01:27:32,129
+subscript position, the
+
+724
+01:27:33,099 --> 01:27:40,070
+idea of a subscripted subscript,
+something that was not allowed in FORTRAN.
+
+725
+01:27:40,230 --> 01:27:50,629
+And having been educated in FORTRAN,
+he couldn’t think of it, although
+
+726
+01:27:50,650 --> 01:27:53,739
+it was a construction that he
+had seen me using at my lectures.
+
+727
+01:28:03,529 --> 01:28:05,269
+So the use of that language had
+
+728
+01:28:05,980 --> 01:28:06,639
+made him
+
+729
+01:28:09,269 --> 01:28:10,049
+unable to solve that?
+
+730
+01:28:10,329 --> 01:28:10,379
+Indeed.
+
+731
+01:28:12,499 --> 01:28:26,810
+And I have also discovered
+that when young students had
+
+732
+01:28:26,820 --> 01:28:29,180
+difficulty in understanding recursion,
+
+733
+01:28:36,530 --> 01:28:37,020
+it was always due
+
+734
+01:28:37,240 --> 01:28:39,870
+to the fact that they
+
+735
+01:28:41,250 --> 01:28:55,400
+had learned programming in a programming
+language that did not permit it.
+
+736
+01:28:57,120 --> 01:29:09,886
+If you are now trained in such an
+operational way of thinking, at a given
+
+737
+01:29:10,010 --> 01:29:25,350
+moment your pattern of understanding
+becomes visualizing what happens during
+
+738
+01:29:25,350 --> 01:29:25,550
+the execution of the algorithm and
+the only way in which you can see the
+
+739
+01:29:25,550 --> 01:29:34,510
+algorithm is as a FORTRAN program.
+
+740
+01:29:34,510 --> 01:29:35,130
+So your pattern of understanding
+becomes familiarizing yourself with the
+
+741
+01:29:52,750 --> 01:29:55,019
+FORTRAN program that would do it.
+
+742
+01:29:55,019 --> 01:30:01,690
+Which, of course, meant that
+understanding recursion implied
+
+743
+01:30:01,720 --> 01:30:10,559
+that he felt mentally compelled
+to implement recursion in FORTRAN.
+
+744
+01:30:10,559 --> 01:30:12,830
+I did not expect him to
+do be able to do that.
+
+745
+01:30:13,020 --> 01:30:15,809
+I’ve heard a similar comment from a
+
+746
+01:30:16,590 --> 01:30:19,019
+friend of mine, Herb Pelnar, a
+
+747
+01:30:19,570 --> 01:30:20,480
+programmer on
+
+748
+01:30:21,320 --> 01:30:23,330
+System 3 all the
+
+749
+01:30:23,840 --> 01:30:26,870
+way through System 38; he said
+
+750
+01:30:26,889 --> 01:30:29,180
+that it wasn’t until
+after he retired that he
+
+751
+01:30:29,780 --> 01:30:32,700
+really came to grips with the
+
+752
+01:30:32,700 --> 01:30:35,909
+object-oriented approach to programming.
+
+753
+01:30:36,089 --> 01:30:37,189
+He attempted
+
+754
+01:30:37,210 --> 01:30:43,350
+many times to really understand it,
+but the way that he looked at the
+
+755
+01:30:43,350 --> 01:30:45,720
+problems prohibited him
+
+756
+01:30:45,940 --> 01:30:47,170
+from understanding it all.
+
+757
+01:30:49,570 --> 01:30:49,600
+Yes.
+
+758
+01:30:54,700 --> 01:30:58,099
+And what’s the answer then
+
+759
+01:30:59,260 --> 01:30:59,525
+for our
+
+760
+01:30:59,770 --> 01:31:00,490
+future students?
+
+761
+01:31:02,740 --> 01:31:04,480
+Try to avoid the same trap?
+
+762
+01:31:04,500 --> 01:31:23,440
+Teach them as soon as possible a decent
+programming language that appeals to,
+
+763
+01:31:24,700 --> 01:31:25,620
+that exercises
+
+764
+01:31:25,630 --> 01:31:43,490
+their power of abstraction.
+
+765
+01:31:43,499 --> 01:31:44,729
+Where does- - at
+
+766
+01:31:44,730 --> 01:31:48,500
+what point then does this idea of
+mathematical programming become
+
+767
+01:31:49,360 --> 01:31:58,249
+a way of describing the
+approach that you were taking?
+
+768
+01:32:13,709 --> 01:32:14,410
+Was that
+
+769
+01:32:15,500 --> 01:32:15,600
+a
+
+770
+01:32:15,600 --> 01:32:18,400
+term you coined or was that…
+
+771
+01:32:18,400 --> 01:32:19,740
+Mathematical
+
+772
+01:32:21,080 --> 01:32:21,490
+programming?
+
+773
+01:32:21,549 --> 01:32:21,819
+No.
+
+774
+01:32:21,979 --> 01:32:37,040
+No, it was an idea that someone else…
+
+775
+01:32:37,660 --> 01:32:43,854
+That’s a dangerous term because
+there are also the terms linear
+
+776
+01:32:43,960 --> 01:32:49,155
+programming and dynamic programming, and
+
+777
+01:32:49,350 --> 01:32:50,260
+they have nothing to do
+
+778
+01:33:04,460 --> 01:33:04,580
+with programming.
+
+779
+01:33:04,580 --> 01:33:04,630
+They are optimization techniques.
+
+780
+01:33:04,630 --> 01:33:04,639
+Never
+
+781
+01:33:04,650 --> 01:33:05,920
+mind that mathematical programming-
+
+782
+01:33:05,930 --> 01:33:08,200
+- 
+it sounds like a contradiction in terms.
+
+783
+01:33:13,030 --> 01:33:14,909
+Now that was one of the
+things that I learned
+
+784
+01:33:16,499 --> 01:33:16,949
+in 1968, in
+
+785
+01:33:20,069 --> 01:33:20,199
+Garmisch.
+
+786
+01:33:20,199 --> 01:33:21,710
+See, I was at the Department of
+Mathematics at the Technical University at
+
+787
+01:33:21,710 --> 01:33:26,962
+Eindhoven, and the official title of our
+product was “Mathematical Engineer.” Now
+
+788
+01:33:27,429 --> 01:33:30,999
+I had thought the design of sophisticated
+
+789
+01:33:31,280 --> 01:33:36,069
+digital systems an area par excellence
+for a mathematical engineer, it has all
+
+790
+01:33:38,449 --> 01:33:50,690
+the constructive aspects, it has all
+the proof aspects it has … Of course
+
+791
+01:33:54,209 --> 01:34:08,960
+you must find your ways of shaping the
+program such that its intellectual control
+
+792
+01:34:08,990 --> 01:34:11,519
+becomes amenable to the techniques
+
+793
+01:34:11,519 --> 01:34:11,521
+of scientific thought.
+
+794
+01:34:11,521 --> 01:34:11,524
+You have to do that.
+
+795
+01:34:11,524 --> 01:34:11,546
+During Garmisch I learned that in the ears
+of the Americans, a mathematical engineer
+
+796
+01:34:11,546 --> 01:34:11,551
+was a contradiction in terms: the American
+mathematician who is an unpractical
+
+797
+01:34:11,551 --> 01:34:11,563
+academic, whereas the American engineer is
+practical but hardly academically trained.
+
+798
+01:34:11,563 --> 01:34:11,839
+To this day?
+
+799
+01:34:11,839 --> 01:34:24,580
+To this day, yes.
+
+800
+01:34:32,759 --> 01:34:47,809
+And that makes all
+
+801
+01:34:47,809 --> 01:34:49,340
+these discussions very, very difficult.
+
+802
+01:34:51,800 --> 01:35:07,340
+You notice that, you realize that
+all important words carry different,
+
+803
+01:35:07,340 --> 01:35:07,387
+slightly different meanings.
+
+804
+01:35:07,387 --> 01:35:15,249
+I was disappointed in America by the
+way in which it rejected ALGOL 60.
+
+805
+01:35:15,249 --> 01:35:15,274
+I had not expected it.
+
+806
+01:35:15,274 --> 01:35:15,364
+In a way I consider it a tragedy because
+it is a symptom of how the United States
+
+807
+01:35:15,364 --> 01:35:15,394
+is becoming more and more amathematical.
+
+808
+01:35:15,394 --> 01:35:55,559
+It has used all the twentieth
+century for doing that, as Morris
+
+809
+01:35:55,650 --> 01:35:58,319
+Kline illustrates eloquently.
+
+810
+01:36:01,240 --> 01:36:07,970
+12 Precisely in the century which
+witnesses the emergence of computing
+
+811
+01:36:07,970 --> 01:36:24,010
+equipment, it pays so much to
+have a well-trained mathematical
+
+812
+01:36:24,020 --> 01:36:24,060
+mind.
+
+813
+01:36:24,070 --> 01:36:25,230
+And when I mention the
+mathematical mind, I
+
+814
+01:36:26,260 --> 01:36:27,540
+mean less
+
+815
+01:36:27,640 --> 01:36:31,249
+the quod than the quo modo,
+less the subject matter of
+
+816
+01:36:31,249 --> 01:36:39,456
+the considerations than the way in
+which the problems are approached.
+
+817
+01:36:39,456 --> 01:36:39,809
+That’s how
+
+818
+01:36:39,809 --> 01:36:42,370
+you recognize someone being a
+mathematician, even if he deals with
+
+819
+01:36:44,970 --> 01:36:46,817
+topics you have never thought about.
+
+820
+01:36:47,200 --> 01:36:47,440
+But
+
+821
+01:36:48,009 --> 01:36:49,200
+the business of America
+
+822
+01:36:49,490 --> 01:36:54,609
+is business, this country
+
+823
+01:36:55,020 --> 01:36:57,910
+can absorb as many COBOL programmers
+
+824
+01:36:59,200 --> 01:37:00,150
+as it can produce.
+
+825
+01:37:01,050 --> 01:37:01,500
+Yes.
+
+826
+01:37:10,740 --> 01:37:14,360
+NYNEX employs ninety
+thousand COBOL programmers.
+
+827
+01:37:15,160 --> 01:37:16,480
+Nynex
+
+828
+01:37:16,480 --> 01:37:16,587
+does?
+
+829
+01:37:16,587 --> 01:37:17,460
+At one time it did; that is
+
+830
+01:37:18,590 --> 01:37:19,920
+at least the rumor I heard.
+
+831
+01:37:29,430 --> 01:37:30,309
+I wanted to ask you
+
+832
+01:37:30,900 --> 01:37:32,259
+another question about
+
+833
+01:37:35,410 --> 01:37:36,800
+comparing Americans and
+
+834
+01:37:36,880 --> 01:37:37,640
+Europeans.
+
+835
+01:37:39,240 --> 01:37:40,050
+A friend of mine,
+
+836
+01:37:40,360 --> 01:37:46,409
+Peter Patton, is the chief technology
+officer at Lawson Software in St.
+
+837
+01:37:46,410 --> 01:37:46,960
+Paul.
+
+838
+01:37:48,580 --> 01:37:51,410
+He ran the Academic Computing Center
+at the University of Minnesota
+
+839
+01:37:51,440 --> 01:37:55,500
+for many many years, and the
+first supercomputing center there.
+
+840
+01:37:55,500 --> 01:37:58,529
+And he did
+
+841
+01:38:00,090 --> 01:38:01,080
+installations of CDC
+
+842
+01:38:02,639 --> 01:38:04,179
+6600 machines in Europe.
+
+843
+01:38:05,400 --> 01:38:05,990
+And
+
+844
+01:38:06,490 --> 01:38:07,889
+I did not know this for
+
+845
+01:38:07,890 --> 01:38:09,309
+quite some time, but he
+
+846
+01:38:11,040 --> 01:38:13,160
+wrote as a fellow
+
+847
+01:38:13,160 --> 01:38:13,599
+named Libellator
+
+848
+01:38:16,469 --> 01:38:22,440
+in Communications in ’63 of his
+perceptions of the differences
+
+849
+01:38:22,440 --> 01:38:25,430
+between Americans and Europeans.
+
+850
+01:38:25,490 --> 01:38:26,600
+And he
+
+851
+01:38:26,600 --> 01:38:36,350
+said that European programmers are
+fiercely independent loners, whereas
+
+852
+01:38:36,380 --> 01:38:38,730
+Americans are team players.
+
+853
+01:38:39,440 --> 01:38:48,030
+And that seemed to contradict, I am
+fairly young, my idea of how programmers
+
+854
+01:38:48,060 --> 01:38:50,290
+behave in America and in Europe.
+
+855
+01:38:50,830 --> 01:38:54,950
+I would have thought it would be switched
+around- - that Americans are fiercely
+
+856
+01:38:54,950 --> 01:38:57,490
+independent, that the Europeans are
+
+857
+01:38:57,490 --> 01:38:58,440
+team players.
+
+858
+01:39:26,940 --> 01:39:27,250
+Did you
+
+859
+01:39:27,250 --> 01:39:28,730
+want to address that comment?
+
+860
+01:39:28,730 --> 01:39:28,841
+That was very perceptive of your friend.
+
+861
+01:39:28,841 --> 01:39:29,359
+A number of years after the war
+Marten Toonder, a famous Dutch artist
+
+862
+01:39:29,359 --> 01:39:29,489
+who illustrated his own stories.
+
+863
+01:39:29,489 --> 01:39:29,800
+He wrote one about “Heer Bommel en de
+teemgeest” - - “teemgeest” being an
+
+864
+01:39:29,800 --> 01:39:30,112
+invented word - - in which he ridiculed
+the novel notion of “team spirit”.
+
+865
+01:39:30,112 --> 01:39:30,320
+The comment on
+
+866
+01:39:32,590 --> 01:39:41,630
+loners - - well, when I came to Eindhoven
+at the Department of Mathematics I came
+
+867
+01:39:41,630 --> 01:39:49,710
+with ten years of experience
+at the Mathematical Centre,
+
+868
+01:39:54,540 --> 01:39:54,900
+where we used to cooperate on large
+projects and apply a division of
+
+869
+01:39:54,900 --> 01:39:56,350
+labour; it was something of a shock when
+
+870
+01:40:11,480 --> 01:40:13,099
+I entered that community
+
+871
+01:40:15,850 --> 01:40:23,377
+in which everybody worked all by himself.
+
+872
+01:40:23,490 --> 01:40:23,849
+After
+
+873
+01:40:25,079 --> 01:40:25,780
+we had completed the THE System,
+
+874
+01:40:27,090 --> 01:40:44,260
+for instance, Nico Habermann
+wrote a thesis about the Banker’s
+
+875
+01:40:44,260 --> 01:40:52,750
+Algorithm, and about scheduling,
+sharing, and deadlock prevention.
+
+876
+01:40:56,330 --> 01:41:06,099
+The department did not
+like that because it
+
+877
+01:41:07,109 --> 01:41:07,229
+was
+
+878
+01:41:07,239 --> 01:41:11,490
+not clear how much he had
+
+879
+01:41:11,490 --> 01:41:14,760
+done by himself and how much
+had been done in cooperation.
+
+880
+01:41:19,429 --> 01:41:19,689
+And,
+
+881
+01:41:20,710 --> 01:41:25,620
+as a matter of fact, they made so
+much protest that Cor Ligtmans,
+
+882
+01:41:26,049 --> 01:41:28,030
+who should have written his Ph.D.
+
+883
+01:41:28,160 --> 01:41:29,599
+thesis on another aspect
+of THE System - - he
+
+884
+01:41:29,799 --> 01:41:35,510
+refused to do so.
+
+885
+01:41:41,029 --> 01:41:43,429
+For fear that he also was…
+
+886
+01:41:43,730 --> 01:41:44,049
+Yes.
+
+887
+01:41:49,249 --> 01:41:49,499
+It was not…
+
+888
+01:42:09,829 --> 01:42:10,239
+What
+
+889
+01:42:10,260 --> 01:42:14,770
+I find interesting about
+this is the nature of the
+
+890
+01:42:14,770 --> 01:42:18,079
+curriculum doesn’t reflect what
+
+891
+01:42:22,780 --> 01:42:28,139
+you’ve said about the individualism of the
+
+892
+01:42:28,139 --> 01:42:28,649
+student,
+
+893
+01:42:28,710 --> 01:42:29,569
+of the programmer.
+
+894
+01:42:30,279 --> 01:42:31,580
+There seems to be a much more
+
+895
+01:42:31,580 --> 01:42:35,669
+general-purpose education
+
+896
+01:42:37,309 --> 01:42:41,170
+in Europe than in America, where
+it seems very highly specialized.
+
+897
+01:42:41,170 --> 01:42:44,330
+Is the outcome
+
+898
+01:42:45,099 --> 01:42:48,080
+of the curricula different?
+
+899
+01:42:55,760 --> 01:42:56,390
+I must be very
+
+900
+01:42:56,390 --> 01:43:00,760
+careful with answering this
+because during my absence,
+
+901
+01:43:02,050 --> 01:43:06,200
+the role of the
+
+902
+01:43:06,200 --> 01:43:06,900
+university, the financing of the
+university, and the fraction of the
+
+903
+01:43:06,900 --> 01:43:12,880
+population it is supposed to address have
+
+904
+01:43:15,030 --> 01:43:16,080
+changed radically.
+
+905
+01:43:16,090 --> 01:43:18,000
+That already started in the 70’s.
+
+906
+01:43:18,130 --> 01:43:31,760
+So whatever
+
+907
+01:43:31,910 --> 01:43:34,179
+I say about the university
+
+908
+01:43:34,640 --> 01:43:37,970
+is out of date and
+
+909
+01:43:39,220 --> 01:43:41,340
+also probably idealized by memory.
+
+910
+01:43:41,950 --> 01:43:42,230
+Yes.
+
+911
+01:43:48,089 --> 01:44:03,870
+But a major difference was that the fence
+around the University Campus was higher.
+
+912
+01:44:04,120 --> 01:44:08,110
+To give you
+
+913
+01:44:09,040 --> 01:44:09,769
+an example,
+
+914
+01:44:11,550 --> 01:44:19,120
+when we started to design a computing
+science curriculum in the ’60’s,
+
+915
+01:44:22,029 --> 01:44:26,980
+one of the firm rules was that
+
+916
+01:44:31,240 --> 01:44:31,690
+no
+
+917
+01:44:31,720 --> 01:44:37,480
+industrial product would be the
+subject of an academic course.
+
+918
+01:44:41,480 --> 01:44:42,719
+That sounds remarkable.
+
+919
+01:44:43,240 --> 01:44:44,690
+I don’t know what you would teach today.
+
+920
+01:44:47,690 --> 01:44:48,280
+It’s lovely.
+
+921
+01:44:48,280 --> 01:45:17,570
+This immediately rules out all
+Java courses, yes, and at the time
+
+922
+01:45:17,570 --> 01:45:19,394
+it ruled out all
+
+923
+01:45:19,850 --> 01:45:20,580
+FORTRAN courses.
+
+924
+01:45:23,410 --> 01:45:36,740
+We taught ALGOL 60, it was a much
+greater eye-opener than FORTRAN.
+
+925
+01:45:45,839 --> 01:45:46,779
+It was the power of
+
+926
+01:45:46,780 --> 01:45:49,689
+IBM that made the United
+
+927
+01:45:49,689 --> 01:45:50,690
+States a backward country.
+
+928
+01:46:01,650 --> 01:46:01,960
+Is there a
+
+929
+01:46:01,960 --> 01:46:09,439
+relationship between this, the curriculum
+and the nature of funding of universities?
+
+930
+01:46:10,189 --> 01:46:14,630
+That is the public and private
+investments in education
+
+931
+01:46:14,640 --> 01:46:19,100
+have- - we’ve seen
+
+932
+01:46:19,100 --> 01:46:22,180
+that change just in the last fifteen
+to twenty years dramatically.
+
+933
+01:46:22,450 --> 01:46:22,870
+Oh yes,
+
+934
+01:46:22,880 --> 01:46:23,700
+dramatically.
+
+935
+01:46:23,710 --> 01:46:35,010
+Do those make computing science
+
+936
+01:46:36,890 --> 01:46:37,460
+different?
+
+937
+01:46:37,740 --> 01:46:38,710
+The choices you make
+
+938
+01:46:38,710 --> 01:46:39,569
+must be different.
+
+939
+01:46:40,650 --> 01:46:40,969
+Yes.
+
+940
+01:46:49,780 --> 01:46:58,600
+It has the greatest influence on
+the funding of research projects.
+
+941
+01:47:05,199 --> 01:47:07,169
+Quite regularly I see firm
+
+942
+01:47:09,019 --> 01:47:15,039
+XYZ proposing to give student
+
+943
+01:47:15,359 --> 01:47:19,400
+fellowships or something
+
+944
+01:47:20,480 --> 01:47:21,009
+and then,
+
+945
+01:47:22,569 --> 01:47:27,379
+somewhere in the small print,
+that preference will be given
+
+946
+01:47:27,409 --> 01:47:33,579
+to students who are
+
+947
+01:47:33,630 --> 01:47:36,608
+supervised by professors who
+
+948
+01:47:36,608 --> 01:47:41,501
+already have professional
+contact with the company.
+
+949
+01:47:41,501 --> 01:47:43,570
+Versions like that.
+
+950
+01:47:45,280 --> 01:47:45,910
+Are those
+
+951
+01:47:45,970 --> 01:47:48,730
+proposals accepted at UT Austin?
+
+952
+01:47:49,610 --> 01:47:50,750
+Or are they rejected?
+
+953
+01:47:52,050 --> 01:47:52,540
+Modified?
+
+954
+01:47:52,540 --> 01:47:56,780
+I don’t
+
+955
+01:47:56,910 --> 01:47:57,480
+know, but I am
+
+956
+01:47:57,480 --> 01:48:06,117
+afraid that UT Austin is not as
+critical as I would have wanted.
+
+957
+01:48:06,117 --> 01:48:14,440
+But I would like to recall the
+reasons why I think that it is
+
+958
+01:48:29,389 --> 01:48:31,710
+fair to decide that
+computing science started
+
+959
+01:48:31,759 --> 01:48:33,420
+with ALGOL
+
+960
+01:48:34,690 --> 01:48:35,000
+60.
+
+961
+01:48:35,150 --> 01:48:36,170
+Sure, we haven’t done that.
+
+962
+01:48:36,209 --> 01:48:37,390
+And I also want to
+
+963
+01:48:39,410 --> 01:48:44,133
+know why computing science comes
+from different departments it
+
+964
+01:48:44,133 --> 01:48:46,179
+seems in America, than in Europe.
+
+965
+01:48:47,830 --> 01:48:50,640
+So I don’t know if those
+conversations could be threaded
+
+966
+01:48:50,700 --> 01:48:53,680
+together but…
+
+967
+01:48:53,850 --> 01:48:54,180
+No.
+
+968
+01:48:54,340 --> 01:48:54,879
+Maybe not.
+
+969
+01:49:01,820 --> 01:49:02,000
+Now
+
+970
+01:49:02,420 --> 01:49:07,824
+the reason that ALGOL 60 was such
+a miracle was that, on the one
+
+971
+01:49:07,824 --> 01:49:12,376
+hand, it was not a university
+project but a project created by an
+
+972
+01:49:12,376 --> 01:49:12,570
+international committee, while on
+
+973
+01:49:17,269 --> 01:49:17,460
+the other
+
+974
+01:49:17,460 --> 01:49:17,910
+hand it introduced about a
+half dozen profound novelties.
+
+975
+01:49:17,960 --> 01:49:18,302
+What it introduced, first of all, was the
+absence of such arbitrary constraints as,
+
+976
+01:49:18,302 --> 01:49:19,099
+say, ruling out the subscripted subscript,
+the example I mentioned and that showed
+
+977
+01:49:19,099 --> 01:49:19,107
+how harmful such things could be.
+
+978
+01:49:19,107 --> 01:49:19,122
+A second novelty was that at
+least for the context-free syntax,
+
+979
+01:49:19,122 --> 01:49:19,129
+a formal definition was given.
+
+980
+01:49:19,129 --> 01:49:19,135
+That made a tremendous difference!
+
+981
+01:49:19,135 --> 01:49:20,605
+It turned parsing, i.e.
+
+982
+01:49:20,605 --> 01:49:37,340
+major aspect of compiler writing, a
+rigorous discipline, no longer a lot
+
+983
+01:49:37,340 --> 01:49:41,825
+of
+
+984
+01:49:46,310 --> 01:49:50,590
+handwaving,
+
+985
+01:49:50,590 --> 01:49:57,881
+but perhaps more important, it made
+compiler writing and language definition
+
+986
+01:49:57,881 --> 01:50:03,783
+topics worthy of academic attention.
+
+987
+01:50:03,783 --> 01:50:04,963
+It
+
+988
+01:50:04,963 --> 01:50:10,865
+played a major role in
+
+989
+01:50:10,865 --> 01:50:13,226
+making computing
+
+990
+01:50:13,226 --> 01:50:16,767
+science academically respectable.
+
+991
+01:50:16,767 --> 01:50:21,488
+The third novelty was
+
+992
+01:50:21,488 --> 01:50:27,250
+the introduction of the type “Boolean”
+
+993
+01:50:27,930 --> 01:50:29,180
+as a first-class citizen.
+
+994
+01:50:29,180 --> 01:50:36,000
+It turns the Boolean expression
+from a statement of fact
+
+995
+01:50:36,000 --> 01:50:39,310
+that may be
+
+996
+01:50:40,180 --> 01:50:43,079
+wrong or right into an expression from
+
+997
+01:50:43,079 --> 01:50:45,366
+a statement of fact that
+
+998
+01:50:45,366 --> 01:50:49,375
+may be wrong or right into an
+expression that has a value, say,
+
+999
+01:50:49,375 --> 01:50:50,070
+“true” or “false.” How great that
+
+1000
+01:50:50,070 --> 01:50:52,400
+step was I learned from
+my mother’s reaction.
+
+1001
+01:50:52,400 --> 01:50:54,130
+She was a gifted
+mathematician, but she could
+
+1002
+01:50:54,360 --> 01:50:57,929
+not make that step.
+
+1003
+01:50:58,770 --> 01:50:59,640
+For her,
+
+1004
+01:51:01,660 --> 01:51:03,640
+“
+three plus five is
+
+1005
+01:51:03,740 --> 01:51:04,300
+ten”
+
+1006
+01:51:05,750 --> 01:51:07,350
+was not a complicated way of saying
+
+1007
+01:51:07,380 --> 01:51:09,570
+“
+false,” it was just wrong.
+
+1008
+01:51:11,030 --> 01:51:12,589
+She could only view
+
+1009
+01:51:13,020 --> 01:51:17,290
+Boolean expressions as statement
+of fact and not as expressions
+
+1010
+01:51:17,290 --> 01:51:24,489
+with which you
+
+1011
+01:51:24,489 --> 01:51:25,130
+can calculate without interpreting them.
+
+1012
+01:51:30,190 --> 01:51:31,080
+Potentially this is going
+to have a very profound
+
+1013
+01:51:31,080 --> 01:51:35,280
+influence on how mathematics is
+
+1014
+01:51:35,530 --> 01:51:37,840
+done, because mathematical proofs, which
+
+1015
+01:51:38,280 --> 01:51:48,889
+used to be something very special,
+can now be rendered as simple
+
+1016
+01:51:49,030 --> 01:51:52,980
+calculations that reduce a
+
+1017
+01:51:53,389 --> 01:51:56,289
+Boolean expression by
+value-preserving transformations
+
+1018
+01:51:56,289 --> 01:51:57,151
+to the value “true.” The fourth
+novelty was the introduction of
+
+1019
+01:51:57,229 --> 01:51:57,382
+recursion into imperative programming.
+
+1020
+01:51:57,399 --> 01:52:00,403
+Recursion was a major step.
+
+1021
+01:52:00,403 --> 01:52:05,460
+It was introduced in a sneaky way.
+
+1022
+01:52:22,860 --> 01:52:24,300
+The draft
+
+1023
+01:52:24,300 --> 01:52:29,239
+ALGOL 60 report was circulated in one
+of the last weeks of December ’59.
+
+1024
+01:52:31,890 --> 01:52:33,890
+We studied it and
+
+1025
+01:52:34,110 --> 01:52:45,260
+realized that recursive calls were all
+but admitted, though it wasn’t stated.
+
+1026
+01:52:46,760 --> 01:52:51,595
+And I phoned Peter Naur - -that
+call to Copenhagen was my first
+
+1027
+01:52:51,595 --> 01:52:53,784
+international telephone call,
+I’ll never forget the excitement!
+
+1028
+01:52:53,784 --> 01:52:54,057
+- - and
+
+1029
+01:52:54,057 --> 01:52:55,972
+dictated him one suggestion
+with the suggestion
+
+1030
+01:52:55,972 --> 01:52:57,400
+that he include it.
+
+1031
+01:52:59,150 --> 01:53:02,290
+It was something like “Any other
+
+1032
+01:53:02,309 --> 01:53:06,150
+occurrence of the procedure
+identifier denotes
+
+1033
+01:53:06,360 --> 01:53:11,350
+reactivation of the procedure.”
+Something like that.
+
+1034
+01:53:12,620 --> 01:53:14,040
+That sentence has been inserted sneakily.
+
+1035
+01:53:16,330 --> 01:53:21,920
+And of all the people who
+sort of had to agree with the
+
+1036
+01:53:21,920 --> 01:53:23,605
+report, none saw that sentence.
+
+1037
+01:53:23,605 --> 01:53:27,609
+That’s how recursion
+was explicitly included.
+
+1038
+01:53:31,669 --> 01:53:32,219
+Was it called
+
+1039
+01:53:32,219 --> 01:53:33,329
+recursion at that time?
+
+1040
+01:53:33,630 --> 01:53:33,959
+Oh yes.
+
+1041
+01:53:39,469 --> 01:53:42,720
+The concept was quite well known.
+
+1042
+01:53:42,720 --> 01:53:49,442
+It was included in LISP, which was
+beginning to emerge at that time.
+
+1043
+01:53:49,960 --> 01:53:50,130
+So
+
+1044
+01:53:51,510 --> 01:53:53,820
+it was just that you
+
+1045
+01:53:55,410 --> 01:53:56,059
+did not want to draw attention
+
+1046
+01:53:56,590 --> 01:53:58,339
+to it?
+
+1047
+01:54:00,100 --> 01:54:01,670
+We made it overlookable, yes.
+
+1048
+01:54:01,679 --> 01:54:13,919
+And F.L.
+
+1049
+01:54:13,969 --> 01:54:14,387
+Bauer would never had admitted
+it in the final version of the
+
+1050
+01:54:14,399 --> 01:54:17,139
+ALGOL 60 Report, had he known it.
+
+1051
+01:54:17,139 --> 01:54:17,939
+He immediately founded the ALCOR Group.
+
+1052
+01:54:20,259 --> 01:54:20,899
+It was a group that
+
+1053
+01:54:21,289 --> 01:54:24,429
+together would implement
+a subset of ALGOL 60,
+
+1054
+01:54:24,440 --> 01:54:39,700
+and from that subset, recursion
+was emphatically ruled out.
+
+1055
+01:54:39,700 --> 01:54:41,360
+A next novelty that should
+be mentioned was the block
+
+1056
+01:54:41,360 --> 01:54:54,199
+structure, which in a way was the
+
+1057
+01:54:54,200 --> 01:54:58,210
+first effort to make
+use of technical means
+
+1058
+01:54:58,600 --> 01:55:03,690
+for improved
+
+1059
+01:55:04,080 --> 01:55:04,780
+intellectual
+
+1060
+01:55:04,800 --> 01:55:06,490
+controllability of the designs.
+
+1061
+01:55:12,430 --> 01:55:25,210
+It was a tool for structuring the
+
+1062
+01:55:30,780 --> 01:55:33,007
+program, with the same use of the word
+“structure” as I used nine years later
+
+1063
+01:55:33,007 --> 01:55:33,209
+in the term “structured programming.” The
+concept of lexical scope was beautifully
+
+1064
+01:55:33,209 --> 01:55:34,361
+blended with nested lifetimes during
+
+1065
+01:55:34,361 --> 01:55:40,071
+execution, and I have never been able to
+figure out who was responsible for that
+
+1066
+01:55:40,071 --> 01:55:41,974
+synthesis, but I was deeply
+
+1067
+01:55:41,974 --> 01:55:43,878
+impressed when I saw it.
+
+1068
+01:55:43,878 --> 01:55:44,639
+And finally,
+
+1069
+01:55:45,020 --> 01:55:46,116
+the definition of the semantics was
+
+1070
+01:55:46,240 --> 01:55:54,559
+much less operational than it was
+for existing programming languages.
+
+1071
+01:55:56,780 --> 01:55:58,110
+FORTRAN was essentially defined
+
+1072
+01:55:59,830 --> 01:56:05,070
+by its implementation, whereas with ALGOL
+
+1073
+01:56:05,370 --> 01:56:09,730
+60 emerged the idea that the programming
+
+1074
+01:56:09,730 --> 01:56:18,890
+language should be defined independent
+of computers, compilers, stores, etc.;
+
+1075
+01:56:18,890 --> 01:56:18,905
+the definition should define what
+the implementation should look like.
+
+1076
+01:56:18,905 --> 01:56:27,318
+The adjective “compile-time”
+should not occur in a language
+
+1077
+01:56:28,550 --> 01:56:28,640
+definition!
+
+1078
+01:56:28,640 --> 01:56:28,699
+And
+
+1079
+01:56:31,790 --> 01:56:38,349
+that separation of concerns
+
+1080
+01:56:39,479 --> 01:56:40,539
+- - 
+now these are five or six
+
+1081
+01:56:40,549 --> 01:56:47,940
+issues that for many many years
+the United States has missed,
+
+1082
+01:56:52,160 --> 01:56:53,440
+and I think that is a tragedy.
+
+1083
+01:56:59,709 --> 01:57:01,759
+And all the arguments
+against were misplaced
+
+1084
+01:57:01,759 --> 01:57:17,437
+…
+ It
+
+1085
+01:57:17,437 --> 01:57:33,115
+was
+
+1086
+01:57:33,115 --> 01:58:21,420
+the obsession with speed, the power of
+
+1087
+01:58:21,580 --> 01:58:22,790
+IBM,
+
+1088
+01:58:24,860 --> 01:58:29,110
+the general feeling at
+the time that programming
+
+1089
+01:58:30,240 --> 01:58:30,349
+was
+
+1090
+01:58:31,050 --> 01:58:33,495
+something that should
+be doable by uneducated
+
+1091
+01:58:33,520 --> 01:58:38,750
+morons picked from the street, it
+
+1092
+01:58:39,440 --> 01:58:41,819
+should not require any sophistication
+
+1093
+01:58:41,820 --> 01:58:59,549
+or what have you.
+
+1094
+01:59:02,880 --> 01:59:05,713
+Yes… False dreams paralyzed a lot
+of American computing science.
+
+1095
+01:59:06,010 --> 01:59:07,050
+This is something that
+
+1096
+01:59:08,150 --> 01:59:12,620
+even Fred Brooks has seen.
+
+1097
+01:59:13,100 --> 01:59:14,560
+You’ve read The Mythical Man Month?
+
+1098
+01:59:14,679 --> 01:59:15,079
+No.
+
+1099
+01:59:15,230 --> 01:59:16,000
+Oh, you never have?
+
+1100
+01:59:16,000 --> 01:59:16,220
+No.
+
+1101
+01:59:16,840 --> 01:59:18,480
+I met him
+
+1102
+01:59:19,639 --> 01:59:20,289
+a month ago.
+
+1103
+01:59:21,940 --> 01:59:22,989
+So this, “Nine
+
+1104
+01:59:23,049 --> 01:59:26,090
+people can’t make a baby in a month” law.
+
+1105
+01:59:26,120 --> 01:59:26,150
+Yes.
+
+1106
+01:59:26,960 --> 01:59:27,490
+He also
+
+1107
+01:59:28,139 --> 01:59:32,639
+somewhere in the book talks
+about average programmers
+
+1108
+01:59:32,880 --> 01:59:37,259
+and how there are an
+exceptional few who are
+
+1109
+01:59:38,330 --> 01:59:38,740
+able
+
+1110
+01:59:39,750 --> 01:59:40,370
+to program.
+
+1111
+01:59:41,230 --> 01:59:43,850
+They are ten times as efficient, they
+are a hundred times as efficient,
+
+1112
+01:59:43,850 --> 01:59:46,260
+they are just far and away better
+
+1113
+01:59:46,260 --> 01:59:47,080
+programmers.
+
+1114
+01:59:47,120 --> 01:59:49,700
+And he does not say it as
+
+1115
+01:59:49,700 --> 01:59:53,829
+eloquently as you have, but that
+there is something different
+
+1116
+01:59:53,830 --> 01:59:56,360
+about certain programmers.
+
+1117
+01:59:58,770 --> 01:59:59,240
+Yes.
+
+1118
+01:59:59,540 --> 01:59:59,760
+Yes.
+
+1119
+02:00:00,380 --> 02:00:01,200
+And I think
+
+1120
+02:00:01,200 --> 02:00:07,250
+he was forced to use average programmers
+because he had no option or he didn’t
+
+1121
+02:00:07,250 --> 02:00:22,250
+think he had.
+
+1122
+02:00:22,250 --> 02:00:24,000
+I designed the THE
+Multiprogramming System,
+
+1123
+02:00:28,020 --> 02:00:29,322
+and all the synchronization, all
+deadlock prevention, all that stuff,
+
+1124
+02:00:29,322 --> 02:00:38,740
+was beautiful and flawless and efficient
+and compact and all those good things,
+
+1125
+02:00:38,740 --> 02:00:44,660
+but on industrial programming it made no
+
+1126
+02:00:44,980 --> 02:00:45,670
+impression at
+
+1127
+02:00:48,759 --> 02:00:49,099
+all.
+
+1128
+02:00:57,989 --> 02:00:58,989
+The industrial point of view rejected
+
+1129
+02:01:00,159 --> 02:01:06,320
+what we had done and the main argument
+was, “You made life very easy for
+
+1130
+02:01:06,530 --> 02:01:08,056
+yourself: you had only a few people,
+and they were first class.” As I
+
+1131
+02:01:08,056 --> 02:01:08,323
+said an hour ago, I consider the
+design of sophisticated data systems
+
+1132
+02:01:08,323 --> 02:01:08,567
+an area of activity par excellence
+for the mathematical engineer, yes.
+
+1133
+02:01:08,589 --> 02:01:08,960
+There are few
+
+1134
+02:01:40,639 --> 02:01:41,069
+areas where it pays
+
+1135
+02:01:57,179 --> 02:02:00,210
+so well… Would you like
+another cup of coffee?
+
+1136
+02:02:00,210 --> 02:02:00,619
+No thank you.
+
+1137
+02:02:00,620 --> 02:02:00,990
+Enough?
+
+1138
+02:02:00,990 --> 02:02:01,684
+Enough.
+
+1139
+02:02:02,380 --> 02:02:02,680
+There
+
+1140
+02:02:04,910 --> 02:02:06,309
+are few areas where it
+
+1141
+02:02:06,309 --> 02:02:12,930
+pays so well to be sufficiently
+bright and well trained.
+
+1142
+02:02:19,219 --> 02:02:26,030
+This, by and large, was rejected
+in the Netherlands as well.
+
+1143
+02:02:28,240 --> 02:02:40,200
+I have had no influence in the
+teaching of programming as a tough
+
+1144
+02:02:41,100 --> 02:02:46,860
+but rewarding intellectual discipline;
+this view is hardly tolerated.
+
+1145
+02:02:53,809 --> 02:02:55,120
+But you must have convinced
+
+1146
+02:02:55,139 --> 02:02:55,790
+people here
+
+1147
+02:02:56,870 --> 02:03:03,939
+when you came?
+
+1148
+02:03:04,800 --> 02:03:05,330
+Oh yes, I have
+
+1149
+02:03:05,370 --> 02:03:07,320
+convinced individuals; I have not
+
+1150
+02:03:10,700 --> 02:03:11,970
+changed the university.
+
+1151
+02:03:17,379 --> 02:03:18,273
+Forgive me, I’ve forgotten
+
+1152
+02:03:18,490 --> 02:03:24,220
+now, but who made the hiring
+decision when you came here?
+
+1153
+02:03:25,650 --> 02:03:27,269
+That was the Department of
+
+1154
+02:03:28,670 --> 02:03:29,850
+Computer Sciences.
+
+1155
+02:03:30,410 --> 02:03:33,189
+The chairman at the time was Mani
+
+1156
+02:03:33,679 --> 02:03:34,179
+Chandy.
+
+1157
+02:03:35,639 --> 02:03:36,069
+But it was
+
+1158
+02:03:41,660 --> 02:03:41,960
+…
+ Well,
+
+1159
+02:03:42,510 --> 02:03:44,150
+I think that we should have lunch soon.
+
+1160
+02:03:44,179 --> 02:03:50,960
+But I did want to ask you,
+again, why computing science,
+
+1161
+02:03:51,099 --> 02:03:52,580
+computer science departments,
+
+1162
+02:03:53,650 --> 02:03:54,190
+in Europe
+
+1163
+02:03:55,020 --> 02:03:57,840
+- - 
+they seem to come out of electrical
+engineering programs here,
+
+1164
+02:03:59,390 --> 02:04:02,830
+but not in Europe.
+
+1165
+02:04:02,830 --> 02:04:02,969
+That’s correct.
+
+1166
+02:04:02,980 --> 02:04:03,750
+Now, there are
+
+1167
+02:04:03,809 --> 02:04:04,379
+a
+
+1168
+02:04:04,389 --> 02:04:05,320
+few reasons.
+
+1169
+02:04:05,450 --> 02:04:18,580
+A major one is timing.
+
+1170
+02:04:19,220 --> 02:04:26,809
+For financial reasons, Europe,
+damaged by World War II, was later.
+
+1171
+02:04:34,910 --> 02:04:35,410
+So
+
+1172
+02:04:36,940 --> 02:04:37,349
+American
+
+1173
+02:04:52,199 --> 02:04:52,780
+computing was earlier, the computing
+
+1174
+02:04:52,860 --> 02:04:54,610
+industry emerged
+
+1175
+02:04:55,630 --> 02:04:55,950
+earlier.
+
+1176
+02:04:55,950 --> 02:05:16,019
+The computing industry asked for
+graduates, which increased the pressure
+
+1177
+02:05:16,820 --> 02:05:28,029
+on the universities to supply them, even
+if the university did not quite know how.
+
+1178
+02:05:29,240 --> 02:05:30,750
+The net effect was that
+
+1179
+02:05:35,290 --> 02:05:55,279
+in many places, departments of
+computer science were founded before
+
+1180
+02:05:55,400 --> 02:05:56,089
+the shape of
+
+1181
+02:05:57,459 --> 02:05:59,949
+the intellectual discipline
+stood clearly out.
+
+1182
+02:06:00,440 --> 02:06:05,370
+I think at one point you called it
+
+1183
+02:06:05,610 --> 02:06:06,410
+a cocktail.
+
+1184
+02:06:06,420 --> 02:06:06,430
+Oh
+
+1185
+02:06:07,150 --> 02:06:07,180
+yes.
+
+1186
+02:06:11,679 --> 02:06:12,850
+You also find it reflected in the
+names of scientific societies, such
+
+1187
+02:06:15,770 --> 02:06:25,380
+as the Association of Computing Machinery.
+
+1188
+02:06:27,849 --> 02:06:28,760
+It’s very odd.
+
+1189
+02:06:28,860 --> 02:06:28,970
+It is.
+
+1190
+02:06:30,110 --> 02:06:32,240
+It’s the British Computer Society
+
+1191
+02:06:34,820 --> 02:06:35,769
+and it was the Dutch
+
+1192
+02:06:36,359 --> 02:06:38,799
+who had Het Nederlands Rekenmachine
+Genootschap; without knowing Dutch,
+
+1193
+02:06:38,799 --> 02:06:40,030
+you can hear the word “machine”
+
+1194
+02:06:51,620 --> 02:06:51,980
+in that name.
+
+1195
+02:06:51,980 --> 02:06:52,070
+And you
+
+1196
+02:06:52,070 --> 02:06:54,099
+got the departments of Computer Science.
+
+1197
+02:06:54,270 --> 02:06:55,600
+Rather than computing?
+
+1198
+02:06:55,920 --> 02:07:00,310
+Rather than the department of computing
+science or the department of computation.
+
+1199
+02:07:11,049 --> 02:07:17,279
+Europe was later, it had
+coined the term Informatics.
+
+1200
+02:07:17,319 --> 02:07:18,130
+Tony Hoare was a Professor of Computation.
+
+1201
+02:07:22,750 --> 02:07:30,949
+It’s what ’69, Informatics, Informatique?
+
+1202
+02:07:31,099 --> 02:07:31,759
+Informatique.
+
+1203
+02:07:32,849 --> 02:07:37,330
+It’s been a riddle
+
+1204
+02:07:38,599 --> 02:07:39,490
+for some time.
+
+1205
+02:07:40,010 --> 02:07:43,400
+No one has been really able to
+
+1206
+02:07:43,400 --> 02:07:44,289
+pin it down when
+
+1207
+02:07:45,409 --> 02:07:46,479
+…
+ I thought it was
+
+1208
+02:07:46,629 --> 02:07:47,149
+the French
+
+1209
+02:07:49,070 --> 02:07:53,685
+that pushed it.
+
+1210
+02:07:53,685 --> 02:08:13,780
+At a given moment it
+
+1211
+02:08:13,780 --> 02:08:14,400
+- - 
+today the English prefer Information
+Technology, IT and Information Systems IS.
+
+1212
+02:08:39,320 --> 02:08:43,229
+I think the timing has forced the
+
+1213
+02:08:43,720 --> 02:08:44,990
+American departments to
+
+1214
+02:08:46,040 --> 02:08:47,980
+start too early.
+
+1215
+02:08:47,980 --> 02:08:49,290
+And they still suffer from it.
+
+1216
+02:08:49,290 --> 02:08:55,010
+Here, at
+
+1217
+02:08:57,870 --> 02:08:59,680
+UT, you can still observe it: it is
+the Department of Computer Sciences.
+
+1218
+02:08:59,680 --> 02:09:00,510
+Frana:
+
+1219
+02:09:00,510 --> 02:09:01,095
+Plural?
+
+1220
+02:09:01,680 --> 02:09:02,090
+Plural,
+
+1221
+02:09:02,840 --> 02:09:03,320
+yes.
+
+1222
+02:09:04,179 --> 02:09:04,870
+If you start
+
+1223
+02:09:07,610 --> 02:09:11,502
+to think about it, you can only laugh, but
+
+1224
+02:09:11,502 --> 02:09:15,730
+that time there were at least as
+many computer sciences as there were
+
+1225
+02:09:16,110 --> 02:09:16,580
+professors.
+
+1226
+02:09:16,640 --> 02:09:16,680
+Yes.
+
+1227
+02:09:20,680 --> 02:09:22,980
+Well, should we get some
+lunch, a late lunch?
+
+1228
+02:09:25,450 --> 02:09:25,480
+Yes.
+
+1229
+02:09:25,490 --> 02:09:25,990
+Thank you.
+
