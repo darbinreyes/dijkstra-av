@@ -23,7 +23,7 @@ Build the reference clip from the 1972 Turing Award lecture. The MP3 stays on di
 ```bash
 ./voice-clone/extract_slice \
   "Turing Award Lecture - The Humble Programmer - 1972/audio/Edsger Dijkstra - Turing Award Speech - 1972.mp3" \
-  299.969 6.9 voice-clone/reference.wav
+  301.139 5.874 voice-clone/reference.wav
 ```
 
 Read a sentence:
@@ -59,7 +59,7 @@ There is no trained voice file and no account. The clone is a reference clip han
 
 The model is `mlx-community/Qwen3-TTS-12Hz-1.7B-Base-8bit`, the 8-bit MLX build of Qwen3-TTS 1.7B Base. It runs through the `mlx-audio` package. Weights download into the local Hugging Face cache on first use.
 
-The clip is 6.9 seconds from the Turing Award lecture, *The Humble Programmer* (1972), starting at 4:59.969. The words are:
+The clip is 5.9 seconds from the Turing Award lecture, *The Humble Programmer* (1972), starting at 5:01.139. The words are:
 
 > In retrospect, one can only wonder that those first machines worked at all, at least sometimes.
 
@@ -76,6 +76,14 @@ This is a likeness of the 1972 lecture voice, heard through a muffled public-add
 The wav files are gitignored. The json files record the excerpt: which recording, the start time, and the words in the excerpt. Each excerpt is about 6 to 8 seconds of Dijkstra alone. The subtitle clocks do not match every MP3, so the times were checked against the audio.
 
 Left out, on purpose: Discipline in Thought, the Charles Babbage Institute interview, the 2000 retirement banquet, and the Turing lecture. The Turing lecture is the default voice above.
+
+## Subtitles timed to the MP3
+
+Each lecture has a second subtitle file, named `... - MP3.srt`, next to the Remastered 2 file. The wording is the Remastered transcript. The times were matched to that MP3, then snapped against the waveform. Use these files when cutting a reference clip. The Remastered files stay as they were, because several of them belong to a different edit of the video.
+
+`voice-clone/align_mp3.py` does the match. `voice-clone/refine_times.py` snaps the times. A reference clip is then high-pass filtered at 80 Hz and peak-normalized to -3 dBFS, which takes out rumble without inventing high frequencies the tape never had.
+
+Early Memories runs about 80 seconds past its old subtitles, and Interplay about three minutes. Those tails are applause and a "thank you," not more of the lecture, so they were left out of the transcript.
 
 ## What is tracked
 
